@@ -24,9 +24,8 @@ One thought is to support push/pull synchronization with major social media plat
 
 ## Social Media
 * https://en.wikipedia.org/wiki/List_of_social_networking_services
-* https://en.wikipedia.org/wiki/ 
+* https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million_active_users
 
-## List_of_social_platforms_with_at_least_100_million_active_users
 * Facebook
 * LinkedIn
 * X
