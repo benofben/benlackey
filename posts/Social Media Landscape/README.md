@@ -16,16 +16,17 @@ One thought is to support push/pull synchronization with major social media plat
 9. Android App
 
 ## Has this been done before?
-https://en.wikipedia.org/wiki/Social_network_aggregation
-https://walls.io/
-https://statusbrew.com/
-https://curator.io/
-https://instaloader.github.io/basic-usage.html#basic-usage
+* https://en.wikipedia.org/wiki/Social_network_aggregation
+* https://walls.io/
+* https://statusbrew.com/
+* https://curator.io/
+* https://instaloader.github.io/basic-usage.html#basic-usage
 
 ## Social Media
-https://en.wikipedia.org/wiki/List_of_social_networking_services
-https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million_active_users
+* https://en.wikipedia.org/wiki/List_of_social_networking_services
+* https://en.wikipedia.org/wiki/ 
 
+## List_of_social_platforms_with_at_least_100_million_active_users
 * Facebook
 * LinkedIn
 * X
@@ -41,4 +42,3 @@ https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million
 * Tumblr
 * Discord
 * Nextdoor
-
