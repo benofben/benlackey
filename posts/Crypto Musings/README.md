@@ -1,4 +1,4 @@
-## Crypto Musings
+# Crypto Musings
 
 I don't get crypto.
 
