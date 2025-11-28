@@ -5,6 +5,7 @@ Wide Open Web is a scheme to drag the web kicking and screaming back from a wall
 One thought is to support push/pull synchronization with major social media platforms in an open, portable format.
 
 ## Roadmap
+
 1. Pull from Facebook
 2. Pull from ...
 3. Push to Facebook
@@ -16,6 +17,7 @@ One thought is to support push/pull synchronization with major social media plat
 9. Android App
 
 ## Has this been done before?
+
 * https://en.wikipedia.org/wiki/Social_network_aggregation
 * https://walls.io/
 * https://statusbrew.com/
@@ -23,10 +25,12 @@ One thought is to support push/pull synchronization with major social media plat
 * https://instaloader.github.io/basic-usage.html#basic-usage
 
 ## Social Media
+
 * https://en.wikipedia.org/wiki/List_of_social_networking_services
 * https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million_active_users
 
 ## Major Social Media Sites
+
 * Facebook
 * LinkedIn
 * X
