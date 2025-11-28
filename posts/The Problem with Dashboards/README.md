@@ -1,7 +1,9 @@
-## The Problem with Dashboards
+# The Problem with Dashboards
 
-January 21, 2015
+This was originally posted to Coming Down the Pipe on January 21, 2015
 http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html
+
+It was cross posted to LinkedIn.
 https://www.linkedin.com/pulse/problem-dashboards-ben-lackey/
 
 Analytics is a terrible term.  There’s advanced analytics, predictive analytics, prescriptive analytics, business analytics, and so on…  All these terms come loaded with massive historical baggage courtesy of the word analytics.
@@ -22,7 +24,7 @@ For transaction processing, retail customer service, resource scheduling and opt
 
 Examples range across payment processing, retail banking, online retail at Amazon, targeted advertising from Google, and on…  The businesses that remain competitive are the ones who have figured out how to build machine learning into their core workflow.  Businesses that rely heavily on human workflow steps have an inferior cost structure.  This leads to a predictable result, even without leveraging machine learning.
 
-### Speed Read (with apologies to Bill Gross)
+## Speed Read (with apologies to Bill Gross)
 * Analytics is an overloaded term
 * Dashboards are legacy
 * The most successful businesses today rely on machine learning in their core business processes to automate previously manual steps.
