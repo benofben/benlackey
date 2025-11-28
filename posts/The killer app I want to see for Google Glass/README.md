@@ -1,6 +1,6 @@
-##The killer app I want to see for Google Glass
+# The killer app I want to see for Google Glass
 
-July 16, 2014
+This was originally posted to Coming Down the Pipe on July 16, 2014.
 http://comingdownthepipe.blogspot.com/2014/07/the-killer-app-i-want-to-see-for-google.html
 
 ![](killer.jpg)
