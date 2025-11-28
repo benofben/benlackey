@@ -1,7 +1,6 @@
-## Online Dating is About to change
+# Online Dating is About to change
 
-October 28, 2013
-http://comingdownthepipe.blogspot.com/2013/10/online-dating-is-about-to-change.html
+This was originally posted to [Coming down the Pipe on October 28, 2013](http://comingdownthepipe.blogspot.com/2013/10/online-dating-is-about-to-change.html).
 
 Social networks provide minimal support for choosing what online persona you project where.  Facebook has its byzantine privacy settings and [ever changing terms of service](http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/), Google has circles and [wants to use your pictures in advertisements](http://www.theverge.com/2013/10/11/4827372/google-ads-using-your-name-picture-to-sell-products).  It seems a pretty clear bet those services will only open up more.
 

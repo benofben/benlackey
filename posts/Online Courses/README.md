@@ -1,7 +1,6 @@
-##Online Courses
+# Online Courses
 
-October 12, 2013
-http://comingdownthepipe.blogspot.com/2013/10/online-courses.html
+This was originally posted to [Coming down the Pipe on October 12, 2013](http://comingdownthepipe.blogspot.com/2013/10/online-courses.html).
 
 The day my printed college course catalog arrived before my freshmen year was very exciting.  I spent the afternoon reading about specialized courses that sounded incredibly interesting.  Foundations of Math!  An entire class dedicated to Church's Theorem, Incompleteness and other nifty things!
 
