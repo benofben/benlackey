@@ -1,12 +1,9 @@
 # The Problem with Dashboards
 
-This was originally posted to Coming Down the Pipe on January 21, 2015
+This was originally posted to [Coming Down the Pipe on January 20, 2015](http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html)
+).
 
-http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html
-
-It was cross posted to LinkedIn.
-
-https://www.linkedin.com/pulse/problem-dashboards-ben-lackey/
+It was cross posted to [LinkedIn](https://www.linkedin.com/pulse/problem-dashboards-ben-lackey/).
 
 Analytics is a terrible term.  There’s advanced analytics, predictive analytics, prescriptive analytics, business analytics, and so on…  All these terms come loaded with massive historical baggage courtesy of the word analytics.
 

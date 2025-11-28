@@ -1,8 +1,6 @@
 # Understanding SpaceX IT with Job Postings
 
-This was originally posted to LinkedIn on October 29, 2017.
-
-https://www.linkedin.com/pulse/understanding-spacex-job-postings-ben-lackey/
+This was originally posted to [LinkedIn on October 29, 2017](https://www.linkedin.com/pulse/understanding-spacex-job-postings-ben-lackey/).
 
 ![](spacex.jpg)
 
