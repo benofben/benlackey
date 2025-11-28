@@ -1,5 +1,7 @@
 # Fixing the Internet Part 2
 
+This post was originally transcribed by my iPhone while hiking with Olive nearby Yssingeaux on July 3, 2025.  I tried to use Gen AI to clean it up but that didn't work well.  Ultimately, I started editing it into sentences and paragraphs.
+
 There is a notion that the problem with social media is that you’re the product because you don’t pay for it.  That’s not accurate. 
 
 ## Broadcast Media
@@ -13,6 +15,7 @@ It’s similar to broadcast television 50+ years ago in that the vendor is tryin
 I’ve heard that characterized as providing a Brooks Brothers level of service at Walmart prices. Facebook can cater content to every whim in an extremely personalized way.  The cost is low because that process is automated.  An expensive sales person need not be paid.
 
 ## Social Media
+
 The issue with social media is something else.  It’s that consuming the product makes you worse, not better. There should be an opportunity here.  
 
 If we cast back to the 90s there was a notion of cyber utopianism.  The web was going to make everyone better.  It was going to allow us to talk to each other. This would breakdown barriers, and as such make violence impossible because who wants to fight with someone they know? Instead it’s balkanized us -- broken us into little hate filled groups who not only don’t understand, but don’t want to understand the other.  It’s unclear how that happened. Everything looked pretty good until the dot com bust.  The bust happened and out of it this new generation of social media came.
