@@ -2,7 +2,7 @@
 
 This post was originally transcribed by my iPhone while hiking with Olive nearby Yssingeaux on July 3, 2025.  I tried to use Gen AI to clean it up but that didn't work well.  Ultimately, I started editing it into sentences and paragraphs.
 
-![](IMG_1794.jpeg)
+<p><img src="IMG_1794.jpeg" width="300"></p>
 
 There is a notion that the problem with social media is that you’re the product because you don’t pay for it.  That’s not accurate. 
 
