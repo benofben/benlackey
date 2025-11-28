@@ -1,7 +1,6 @@
-## Drones (The Good Kind)
+# Drones (The Good Kind)
 
-October 12, 2013
-http://comingdownthepipe.blogspot.com/2013/10/drones-good-kind.html
+This was originally posted to [Coming down the Pipe on October 12, 2013](http://comingdownthepipe.blogspot.com/2013/10/drones-good-kind.html).
 
 The US military is up to some pretty terrifying shit with drones of both the [flying](http://www.airforce.com/interactive/uav/index.html) and [running](http://www.bostondynamics.com/) kind.  If no (good) people are getting killed in our wars because they're fought entirely with robots, it'll be pretty easy to slip even deeper into the perpetual state of war we already seem to enjoy.
 
