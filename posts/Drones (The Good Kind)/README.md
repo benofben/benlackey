@@ -12,7 +12,10 @@ One happy use case would be for package delivery.  Instead of loading up a FedEx
 
 Of course, regulators are cautious.  While we're apparently fine with the military doing whatever it feels like, the idea of actually benefitting from drones is less popular.  It looks like they are going to be [heavily regulated](http://www.theverge.com/2013/10/9/4821094/remote-aircraft-pilot-fights-faa-fine-could-change-drone-rules).
 
-Rules are already in place prohibiting running a drone out of line of sight.  Such rules presume this things are manually driven, not automated.  So, two strikes for the law: (1) requiring a person (2) requiring LOS
+Rules are already in place prohibiting running a drone out of line of sight.  Such rules presume this things are manually driven, not automated.  So, two strikes for the law: 
+
+1. requiring a person 
+2. requiring LOS
 
 Regulation like this will reduce innovation related to drones from large companies.  It will also eliminate innovation from individuals and startups as they will find it difficult to foot the compliance costs.  Individuals and small companies are the ones most likely to do really cool stuff with an emerging technology like this -- stuff that the rest of us haven't even thought of yet.
 
