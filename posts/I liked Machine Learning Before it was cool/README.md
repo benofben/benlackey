@@ -1,7 +1,6 @@
 # I liked machine learning before it was cool.
 
-https://www.linkedin.com/pulse/i-liked-machine-learning-before-cool-ben-lackey/
-October 1, 2016
+This was originally posted to [LinkedIn on October 1, 2016](https://www.linkedin.com/pulse/i-liked-machine-learning-before-cool-ben-lackey/).
 
 ![](ml.jpg)
 
