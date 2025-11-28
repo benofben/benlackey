@@ -1,7 +1,6 @@
-## Better Paid IT people
+# Better Paid IT people
 
-October 28, 2013
-http://comingdownthepipe.blogspot.com/2013/10/better-paid-it-people.html
+This was originally posted to [Coming down the Pipe on October 28, 2013](http://comingdownthepipe.blogspot.com/2013/10/better-paid-it-people.html).
 
 I had an interesting conversation about trends in computing devices recently.  A friend argued that the less than 30 crowd largely doesn't know how to use a computer.  Most depend on mobile devices and tablets for their computing needs.
 

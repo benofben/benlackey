@@ -1,7 +1,6 @@
-## Cost of Housing
+# Cost of Housing
 
-October 25, 2015
-http://comingdownthepipe.blogspot.com/2015/10/cost-of-housing.html
+This was originally posted to [Coming down the Pipe on October 25, 2015](http://comingdownthepipe.blogspot.com/2015/10/cost-of-housing.html).
 
 What if housing cost nothing?  Where would you live?
 

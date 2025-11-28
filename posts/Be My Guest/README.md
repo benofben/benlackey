@@ -1,7 +1,6 @@
-## Be My Guest
+# Be My Guest
 
-July 12, 2016
-https://www.linkedin.com/pulse/my-guest-ben-lackey/
+This was originally posted to [LinkedIn on July 12, 2016](https://www.linkedin.com/pulse/my-guest-ben-lackey/).
 
 ![](Be%20My%20Guest.jpg)
 

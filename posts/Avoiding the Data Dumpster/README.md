@@ -1,8 +1,6 @@
-## Avoiding the Data Dumpster
+# Avoiding the Data Dumpster
 
-January 21, 2015
-http://comingdownthepipe.blogspot.com/2015/01/avoiding-data-dumpster.html
-https://www.linkedin.com/pulse/avoiding-data-dumpster-ben-lackey/
+This was originally posted to [Coming down the Pipe on January 21, 2015](http://comingdownthepipe.blogspot.com/2015/01/avoiding-data-dumpster.html).  It was cross posted to [LinkedIn](https://www.linkedin.com/pulse/avoiding-data-dumpster-ben-lackey/).
 
 Enterprise software is largely metaphor.  Big Data has some choice ones: Cloudera is offering the Enterprise Data Hub.  HortonWorks is positioning the Data Lake.  Less optimistic people talk about the idea of a Data Dumpster.  Most people, understandably, have a strong preference to avoid ending up with the later.
 
@@ -35,7 +33,8 @@ Training machine learning methods on big data sets, rather than sampled subsets,
 
 There's a lot of thought going into the finding the best way to scale machine learning on big data.  The space has a lot of growing up to do, but software packages are already available that add value to users measured in 10s to 100s of millions of dollars.  The firms that effectively leverage their big data with machine learning will outcompete those that try to make sense of their big data with more manual processes.
 
-### Speed Read (with apologies to Bill Gross)
+## Speed Read (with apologies to Bill Gross)
+
 * No one wants a data dumpster
 * You store your data because you think it’s valuable
 * Machine learning can extract that value

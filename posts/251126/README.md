@@ -1,4 +1,4 @@
-# Images — 251126
+# 251126
 
 Some photos getting ready for Thanksgiving...
 
