@@ -1,7 +1,6 @@
-## Efficient Markets
+# Efficient Markets
 
-November 10, 2015
-http://comingdownthepipe.blogspot.com/2015/11/efficient-markets.html
+This was originally posted to [Coming down the Pipe on November 10, 2015](http://comingdownthepipe.blogspot.com/2015/11/efficient-markets.html).
 
 The [efficient market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) seems to be falling out of favor.  Markets are increasingly electronic.  Specialists are all but gone and the paper based trading floors are mostly a thing of the past.  Markets still aren't perfectly efficient though and it seems likely they never will be.
 
