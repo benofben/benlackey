@@ -1,7 +1,6 @@
 # The Problem with Dashboards
 
-This was originally posted to [Coming Down the Pipe on January 20, 2015](http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html)
-).
+This was originally posted to [Coming Down the Pipe on January 20, 2015](http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html).
 
 It was cross posted to [LinkedIn](https://www.linkedin.com/pulse/problem-dashboards-ben-lackey/).
 
