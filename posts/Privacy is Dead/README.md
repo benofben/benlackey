@@ -1,7 +1,6 @@
-## Privacy is Dead
+# Privacy is Dead
 
-October 12, 2013
-http://comingdownthepipe.blogspot.com/2013/10/privacy-you-cant-have-it.html
+This was originally posted to [Coming Down the Pipe on October 12, 2013](http://comingdownthepipe.blogspot.com/2013/10/privacy-you-cant-have-it.html).
 
 Privacy is dead.  What little you currently think you have will soon be gone.
 
