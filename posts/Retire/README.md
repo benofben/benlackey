@@ -1,5 +1,7 @@
 # Retire
 
+This was originally posted to [Coming Down the Pipe on January 11, 2014](https://comingdownthepipe.blogspot.com/2014/01/my-first-inforgraphic.html).
+
 ![](retire.jpg)
 
 ## References
