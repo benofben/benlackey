@@ -2,8 +2,9 @@
 This idea dates back to the early 2000s.  I posted this and ran a kickstarter back around July 14, 2013.
 
 My backcountry Ski and Art Retreat campaign just went live.  Go take a look!
-https://www.indiegogo.com/projects/backcountry-ski-and-art-retreat
-https://www.indiegogo.com/projects/backcountry-ski-and-mountain-retreat#/
+
+* https://www.indiegogo.com/projects/backcountry-ski-and-art-retreat
+* https://www.indiegogo.com/projects/backcountry-ski-and-mountain-retreat#/
 
 For years we've been talking about building a retreat high up in the mountains where we could spend the days wandering around and reading.  The cost and maintenance made it really difficult.
 
@@ -28,6 +29,7 @@ Same deal - fly in and drive to the retreat from nearby Denver International Air
 ![](2.jpg)
 
 ## Summer
+
 Have you been living in NY/London/Berlin/too big city for too long?  Is it 100 degrees down in Boulder and Denver?
 
 This is a nice place to get away.  Summers in the Colorado mountains are temperate with afternoon storms.  The weather changes quickly and there are lots of nice mountains to hike up.
@@ -35,6 +37,7 @@ This is a nice place to get away.  Summers in the Colorado mountains are tempera
 At the retreat you'll have your own cabin to get away and enjoy solitude.  There will be a central lodge where you can cook and chat with others.
 
 ## Some Background
+
 Over the next decade, we're going to run a lottery to determine which contributors what days at the retreat.  However, for the first year the pick of days will be determined by the order your contribution posted.  So, if you contribute earlier, you'll get to pick better days to spend at the retreat.
 
 * [Facebook Group](https://www.facebook.com/groups/360581267404866/)
@@ -42,6 +45,7 @@ Over the next decade, we're going to run a lottery to determine which contributo
 * [Land We've Been Looking at for the Retreat](https://www.facebook.com/media/set/?set=oa.400707673392225&type=1)
 
 ## Risks and Challenges
+
 Our major risk is unexpected construction costs. We've collected estimates for the various costs anticipated. As I've learned from other construction projects, contractors often run over. We've built a contingency in, but that may prove insufficient.
 
 If the crowd funding generates sufficient capital, we may be able to finance a portion of this, leaving more capital for contingency.
