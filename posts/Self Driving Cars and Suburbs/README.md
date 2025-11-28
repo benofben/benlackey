@@ -1,7 +1,6 @@
-## Self Driving Cars and Suburbs
+# Self Driving Cars and Suburbs
 
-October 25, 2015
-http://comingdownthepipe.blogspot.com/2015/10/self-driving-cars-and-suburbs.html
+This was originally posted to [Coming Down the Pipe on October 25, 2015](http://comingdownthepipe.blogspot.com/2015/10/self-driving-cars-and-suburbs.html).
 
 Cities are on the rise.  Even Detroit is coming back in some minor, [hipster](http://www.vice.com/read/detroit-is-already-starting-to-gentrify) / [maker](http://www.makerfairedetroit.com/) driven way.  Seattle has done the hockey stick population thing and property values seem to be trending the way of the Bay Area in the city proper.  The 25-35 demographic prefers the city, walking and condos or townhouses to 3000 sqft lawns.
 
