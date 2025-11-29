@@ -14,3 +14,4 @@ He lives in Tacoma with two Siamese cats, Ahi and Mahi, an Apple and an Olive.  
 * [Instagram](https://www.instagram.com/benofben)
 * [Facebook](https://www.facebook.com/benton.lackey)
 * [Reddit](https://www.reddit.com/user/benofben/)
+* [TikTok](https://www.tiktok.com/@benlackey)
