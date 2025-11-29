@@ -10,7 +10,7 @@ We scooted to the park.  We encountered kids I guess Olive has seen before.  App
 
 We went to the Lemay car musuem for pictures in a 1906 Cadillac with Santa.
 
-<p><img src="IMG_7459.jpeg" width="300"></p>
+<p><img src="IMG_7458.jpeg" width="300"></p>
 <p><img src="IMG_7466.jpeg" width="300"></p>
 
 Then to Costco for new tires.  Apple got the same snow tires the Nissan Rogue had.  We'll likely take the minivan to Mazama in January.  Hopefully we're all set for winter driving with it.
