@@ -1,6 +1,6 @@
 # What is WOW
 
-People who've known me a while may remember nonplatonic.com.  It was, among other things, a blog before blogs were called blogs. The original version was some Perl that spat out static HTML.
+People who've known me a while, back in the halcyon days of the late 90s, may remember nonplatonic.com.  It was, among other things, a blog before blogs were called blogs. The original version was some Perl that spat out static HTML.
 
 People who've known me a while have also heard me complain about the state of the web, particularly the walled gardens that have taken over.  So, [WideOpenWeb.com](WideOpenWeb.com) is an attempt to fight back against that.  I've written a bit about the motivations.
 
