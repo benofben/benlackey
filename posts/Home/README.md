@@ -41,12 +41,20 @@ These policies made Boulder a nice place to live.  Boulder has great outdoors an
 
 All this made Boulder more expensive.  Modern Boulderites feel bad about that.  9% of the housing stock is affordable with a goal to bring that number to 15%.  Nevermind economics.  The only way Boulder housing is going to be affordable is if policies are enacted that ruin Boulder.
 
-CU - Advanced classes in high school
+A lot of the opportuinities in Boulder are tied to the university.  With 37,000 students, every year 9,000 people leave Boulder and are replensihed by new students.  The university is a fairly top end research university.  So, the quality of students is high.  They bring new ideas and reasonably vibrant conversations.
 
-Incubator
+In high school I was able to attend CU for computer science, calculus and Spanish classes.  Those classes were more advanced than what was available at the (already advanced) IB/AP high school.  That said, a lot of the value was just seeing college early.
+
+It would be interesting to understand wahat the startup scene is like in Bohulder an how or if the university has fed into that.  Beyond the newer computer science work, Boulder has traditionally had aerospace and sattelitle work with companies like Ball Aerospace and Digital Globe there.  My first job was at Mountaintop Graphics.  That was a 5 person startup in that satelitte imagery space.
 
 ## Colorado Springs
-Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.
+Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.  Prices are low because Colorado Springs builds.  New houses stretch further and further from the geographical constraint of the Front Range out toward Kansas.
+
+The Air Force Academy and NORAD set the tone for local employment.  Government contractors like Lockheed Martin and Northrup Grumman have sprung up around those institutions.
+
+Beyond the military, Colorado Springs culture is shaped by religion.  ~20 mega church style religions are headquartered in Colorado Springs.
+
+Interestingly the public schools in Colorado Springs are ranked the highest in the state.  Despite lower property valuations to draw from, the school district is able to achieve better outcomes that the 3x as expensive Boulder Valley School District (BVSD).
 
 ## Boise
 Foo something Basque food.
