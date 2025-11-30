@@ -44,4 +44,20 @@ All this made Boulder more expensive.  Modern Boulderites feel bad about that.  
 ## Colorado Springs
 Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.
 
+## Boise
+Foo something Basque food.
+
+## Montana
+Bozeman, Missoula, etc etc.
+
+## Idaho
+Coure de Alene and just hand out on the lake.
+
 ## Nashville
+Country music and enterprise software.  The ribs are a bit wet.
+
+## New Zealand
+Go have a flat white.
+
+## Portugal
+Drink yourself to death with a porto tonico.
