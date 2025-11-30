@@ -41,6 +41,10 @@ These policies made Boulder a nice place to live.  Boulder has great outdoors an
 
 All this made Boulder more expensive.  Modern Boulderites feel bad about that.  9% of the housing stock is affordable with a goal to bring that number to 15%.  Nevermind economics.  The only way Boulder housing is going to be affordable is if policies are enacted that ruin Boulder.
 
+CU - Advanced classes in high school
+
+Incubator
+
 ## Colorado Springs
 Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.
 
@@ -60,4 +64,4 @@ Country music and enterprise software.  The ribs are a bit wet.
 Go have a flat white.
 
 ## Portugal
-Drink yourself to death with a porto tonico.
+Porto tonico.
