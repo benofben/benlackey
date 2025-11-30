@@ -48,7 +48,7 @@ In high school I was able to attend CU for computer science, calculus and Spanis
 It would be interesting to understand what the startup scene is like in Bohulder an how or if the university has fed into that.  Beyond the newer computer science work, Boulder has traditionally had aerospace and sattelitle work with companies like Ball Aerospace and Digital Globe there.  My first job was at Mountaintop Graphics.  That was a 5 person startup in that satelitte imagery space.
 
 ## Colorado Springs
-Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.  Prices are low because Colorado Springs builds.  New houses stretch further and further from the geographical constraint of the Front Range out toward Kansas.
+As of December 2025, Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.  Prices are low because Colorado Springs builds.  New houses stretch further and further from the geographical constraint of the Front Range out toward Kansas.
 
 The Air Force Academy and NORAD set the tone for local employment.  Government contractors like Lockheed Martin and Northrup Grumman have sprung up around those institutions.
 
