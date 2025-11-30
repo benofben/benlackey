@@ -45,7 +45,7 @@ A lot of the opportuinities in Boulder are tied to the university.  With 37,000 
 
 In high school I was able to attend CU for computer science, calculus and Spanish classes.  Those classes were more advanced than what was available at the (already advanced) IB/AP high school.  That said, a lot of the value was just seeing college early.
 
-It would be interesting to understand wahat the startup scene is like in Bohulder an how or if the university has fed into that.  Beyond the newer computer science work, Boulder has traditionally had aerospace and sattelitle work with companies like Ball Aerospace and Digital Globe there.  My first job was at Mountaintop Graphics.  That was a 5 person startup in that satelitte imagery space.
+It would be interesting to understand what the startup scene is like in Bohulder an how or if the university has fed into that.  Beyond the newer computer science work, Boulder has traditionally had aerospace and sattelitle work with companies like Ball Aerospace and Digital Globe there.  My first job was at Mountaintop Graphics.  That was a 5 person startup in that satelitte imagery space.
 
 ## Colorado Springs
 Boulder has a median single family home price of $1.25m.  It's only $445k in Colorado Springs against a national number of $462k.  Prices are low because Colorado Springs builds.  New houses stretch further and further from the geographical constraint of the Front Range out toward Kansas.
