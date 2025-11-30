@@ -6,7 +6,7 @@
 
 I periodically write an investment thesis.  That's usually pretty detailed with my holdings and how I think they might be impacted by the future.  Writing it down helps me go back and evaluate if I was correct or am suffering from revisionism within my mind.  
 
-As I'm broadly optimistic, I want to avoid the fate I think Trump has suffered where his touch is to retard returns.  I've seen calculations that his career would have better been spent doing nothing and index investing.  Of course, that may be different now that his presidency drives the value of his meme coins.... anyway...
+As I'm broadly optimistic, I want to avoid the fate I think Trump has suffered where his touch retards returns.  I've seen calculations that his career would have better been spent doing nothing and index investing.  Of course, that may be different now that his presidency drives the value of his meme coins.... anyway...
 
 ## US Macro
 
