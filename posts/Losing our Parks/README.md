@@ -1,6 +1,6 @@
 # Losing our Parks
 
-<p><img src="IMG_1799.jpg" width="300"></p>
+<p><img src="IMG_7599.jpg" width="300"></p>
 
 I've written many times about losing our parks.  There are so many examples of closed public lands, National Parks facilities blocked off in the name of fortress preservation or, as in the case of the Sunrise Lodge at Mount Rainier, turned into administrative offices.
 
