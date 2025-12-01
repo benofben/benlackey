@@ -15,3 +15,11 @@ I gave him my usual earful.  I figure I may as well because others might be afra
 I've written Rainier, the NPS, the NFS and so on numerous times.  It's pointless.  The organizations are fundamentally rotten.
 
 It's extra strange that sledding is banned at Paradise but skiing is allowed.  I'm sure Parks would love to ban skiing too in the namem of fortress preservation.  I suspect however that the yuppie backcountry ski lobby is too powerful.  So, they let sleeping dogs lie and harass sledders instead.
+
+
+https://mustreadalaska.com/controversial-park-service-supervisor-promoted-to-mount-rainier-park-post/
+https://www.seattlemet.com/travel-and-outdoors/2024/04/mount-rainier-national-park-reservations-system
+
+The current secretary of the interior is
+https://www.doi.gov/secretary-doug-burgum
+
