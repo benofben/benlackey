@@ -1,4 +1,4 @@
-# Losing our Parks
+# Rainier National Park Closures
 
 <p><img src="IMG_7599.jpg" width="300"></p>
 
