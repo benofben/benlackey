@@ -2,6 +2,8 @@
 
 <p><img src="IMG_7599.jpg" width="300"></p>
 
+This is a letter I sent to the Department of the Interior.
+
 Dear Mr Burgum,
 
 I was heartened to see the [recent changes to the America the Beautiful Pass](https://www.doi.gov/pressreleases/department-interior-announces-modernized-more-affordable-national-park-access).  It looks like the current administration is trying to resolve some barriers to access to our National Parks.  I pine for the days before that pass existed when the only fee to enter the park was the tax dollars I already pay.
