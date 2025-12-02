@@ -19,7 +19,7 @@ There are numerous closures impacting Rainier, some going back decades.  Example
 
 ## Carbon River Entrance
 * Carbon River Road - This road washed out 20 years ago.  Rather than repairing it, NPS declared it a bike path and stopped maitanining it.  The road has fallen into worse and worse repair.  The road is the approach to Carbon Glacier, 10 miles up.  Closing the road has made it difficult to approach the Glacier.
-* Fairfax Bridge - This is a WSDOT issue that impacts NPS.  WSDOT failed to paint the bridge for decades.  The bridge has rusted away.  A few years ago they reduced the weight limit on it.  This year they've closed it entirely.  That has closed two entrances to Rainier - Mowitch Lake and Carbonado.
+* [Fairfax Bridge](https://www.nps.gov/mora/planyourvisit/carbon-river-and-mowich.htm) - This is a WSDOT issue that impacts NPS.  WSDOT failed to paint the bridge for decades.  The bridge has rusted away.  A few years ago they reduced the weight limit on it.  This year they've closed it entirely.  That has closed two entrances to Rainier - Mowitch Lake and Carbonado.
 
 ## Sunrise Entrance
 * Sunrise Lodge - The Sunrise entrance to Rainier originally had a lodge for park visitors.  NPS closed that to visitors.  They use it as administrative offices.  The entrance is closed entirely for much of the year.
