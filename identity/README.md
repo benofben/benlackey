@@ -1,4 +1,4 @@
-## About the Author
+# benlackey
 
 ![](benlackey.jpg)
 
