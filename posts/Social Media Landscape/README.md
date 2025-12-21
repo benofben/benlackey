@@ -10,8 +10,8 @@ One thought is to support push/pull synchronization with major social media plat
 2. Pull from ...
 3. Push to Facebook
 4. Push to ...
-5. Publish to open-feed
-6. View on open-feed
+5. Publish to feed
+6. View on feed
 7. Distributed hosting
 8. iOS App
 9. Android App
