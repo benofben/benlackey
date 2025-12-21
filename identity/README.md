@@ -7,7 +7,7 @@ Ben Lackey enjoys long walks on the beach, drinks in coconuts and ice cream pie.
 He lives in Tacoma with two Siamese cats, Ahi and Mahi, an Apple, an Olive and a Juniper.  You can follow him 
 
 * [Website](https://benlackey.com)
-* [WOW](https://wideopenweb.github.io/feed/index.html?owner=benofben&repo=benlackey-feed)
+* [WOW](https://wideopenweb.github.io/feed/index.html?owner=benofben&repo=benlackey)
 * [Twitter](https://twitter.com/benofben)
 * [LinkedIn](https://www.linkedin.com/in/benlackey/)
 * [GitHub](https://github.com/benofben)
