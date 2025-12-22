@@ -3,16 +3,15 @@
 Keats Hyperion
 
 Buffet.  Hyak
-Hyperion pillage underlying for computer. Similar to real world. 
+Popper.  Plato
+Bill and Ted, So crates
 
-Gates ram. 
+Hyperion pillage underlying for compute. Similar to real world. 
+
+Gates ram max. 
 
 Never ending appetite for compute
-Popper.  Plato
 
-So crates
-Bill and Ted
-
-It’s the interface.  OpenAI was text box.  If video / text can work changer
+It’s the interface.  OpenAI was text box.  Demand for video.
 
 Literacy.  Guttenberg
