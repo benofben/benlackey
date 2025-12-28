@@ -1,4 +1,4 @@
-I played MTG from nearly it's start.  I remember a party in Middle School, likely 7th grade at Brian's house.  He's come across a few starter packs of either Alpha or Beta.  Notably there was a single volcanic island.  That meant he had to build a Blue/Red deck entirely around it.
+I played MTG from nearly its start.  I remember a party in Middle School, likely 7th grade at Brian's house.  He's come across a few starter packs of either Alpha or Beta.  Notably there was a single volcanic island.  That meant he had to build a Blue/Red deck entirely around it.
 
 At the time, it was impossible to get your hands on cards.  The local train and plastic model shop would periodically get a starter box of unlimited and immediately sell out.  Frustrated by that I took some index cards and made my own game.  My dad was a geologist, so it focused farm more on extinct creatures than high fantasy.  I really wish I still had those cards.  My dad had saved them but I threw theme away in cleaning out his house one time.  I can still picture sitting on his bed with my sister playing that surprisingly balanced but extremely slow game.
 
