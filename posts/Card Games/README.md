@@ -33,3 +33,5 @@ I remember being very excited for Fallen Empires and then stopped playing with H
 Sometime around 2015 I gave all my cards to a friend.  I knew he'd started playing a bit and thought it might be fun.  Little did I realize that they were worth the downpayment on a pretty decent house.  And there's the rub.
 
 These are games.  They're for fun.  It's no fun to play against some guy who laid out $100k when you're in it for shits and giggles.  I'm thinking a bit about how to put together a game that is fun for a casual player but could still be customized more for cleverness than power creep.  I always loved winning a game of C&C or Starcraft with one unit type more for the amusement of myself than anyone else.
+
+I joined the Facebook group "Poorly Playing Magic" a while back.  It's hilarious and I think underscores a desire for fun card games not designed to be addictive or expensive.  Magic seems to have really jumped the shark with the Universes Beyond madness, trying to shoe horn everything from Star Trek to Spiderman into what was previously a high fantasy setting.
