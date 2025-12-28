@@ -2,7 +2,7 @@ I played MTG from nearly its start.  I remember a party in Middle School, likely
 
 At the time, it was impossible to get your hands on cards.  The local train and plastic model shop would periodically get a starter box of unlimited and immediately sell out.  Frustrated by that I took some index cards and made my own game.  My dad was a geologist, so it focused farm more on extinct creatures than high fantasy.  I really wish I still had those cards.  My dad had saved them but I threw theme away in cleaning out his house one time.  I can still picture sitting on his bed with my sister playing that surprisingly balanced but extremely slow game.
 
-There'd been an earlier pollination game that wasn't collectible.  It was played from a set shared deck.  But it had some mechanics that in retrospect feel like MTG.  Another game called Predator focused on building a food chain.
+There'd been an earlier pollination game that wasn't collectible.  It was played from a set shared deck.  But it had some mechanics that in retrospect feel like MTG.  Another game called Predator focused on building a food chain and had a lot of similarities as you were playing a whole bunch of creatures.
 
 What seemed like years but I'm sure was days or weeks later, my mom bought me and my friend Marco either a starter deck.  I think he spent the night, sleeping in my other bunk bed that night.  His starter pack had a Shivan Dragon which I *had* to have.  I'm pretty sure I traded every card of use in that deck for the dragon.  Marco got really good at trading and ultimately scaled his way up to multiple lotuses and such.  
 
