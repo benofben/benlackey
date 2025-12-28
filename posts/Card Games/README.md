@@ -22,15 +22,14 @@ The ultimate winner of that tournament was probably 40.  He destroyed a bunch of
 
 In this I'm reminded of Marco's plague rat deck which featured a bunch of power nine to make it more competitive.  I have a memory of sitting on my dad's porch with some cheeeky white deck that was badly thrown together to counteract the plague rats.  I had a circle of protection black and was trying to keep my lands ahead of the 15+/15+ plague rats that just kept coming.
 
+I think I got tail end of Unlimited.  Then it was on to Revised by the time I was in St. Louis.  Arabian Nights came out then.
+
+Which I bought a couple translations of recently.  One is a modern one with commentary.  It's kinda hilarious how concerned the comments are about the content.  The Sir whatever translation from 100+ years ago is far less apologetic.
+
+I had basically no Dark or Legends, just a tiny bit of Ice Age and some Antiquities.  When Ice Age came out I remember playing a game at the shop by Table Mesa against the vastly better funded 40 year olds.  I was losing to cards I did recognize.  In a fit a frustration I played Balance against a table of maybe 8 people.  They killed me before my next turn.  I don't think I was particularly welcome there in the future.
+
 I remember being very excited for Fallen Empires and then stopped playing with Homelands.  I'd moved away and friends were doing other things.
 
 Sometime around 2015 I gave all my cards to a friend.  I knew he'd started playing a bit and thought it might be fun.  Little did I realize that they were worth the downpayment on a pretty decent house.  And there's the rub.
 
 These are games.  They're for fun.  It's no fun to play against some guy who laid out $100k when you're in it for shits and giggles.  I'm thinking a bit about how to put together a game that is fun for a casual player (say $20 to start, $60 outlay to be in a decent position, perhaps $500 ceiling for 80% of people) but could still be customized more for fun than power creep.  I always loved winning a game of C&C or Starcraft with one unit type more for the amusement of myself than anyone else.  
-
-
-## Notes
-I think I got tail end of unlimited.  Then it was on to revised by the time I was in St. Louis.  Arabian Nights came out then.
-
-Which I bought a couple translations of recently.  One is a modern one with commentary.  It's kinda hilarious how concerned the comments are about the content.  The Sir whatever translation from 100+ years ago is far less apologetic 
-I had basically no dark or legends.  just a tiny bit of ice age.  some antiquities.  
