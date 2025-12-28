@@ -24,7 +24,7 @@ In this I'm reminded of Marco's plague rat deck which featured a bunch of power 
 
 I think I got tail end of Unlimited.  Then it was on to Revised by the time I was in St. Louis.  Arabian Nights came out then.
 
-Which I bought a couple translations of recently.  One is a modern one with commentary.  It's kinda hilarious how concerned the comments are about the content.  The Sir whatever translation from 100+ years ago is far less apologetic.
+I bought a couple translations of Arabian Nights recently.  One is modern with commentary.  It's kinda hilarious how concerned the comments are about the content.  The Sir whatever translation from 100+ years ago is far less apologetic.  I can't imagine an Arabian Nights set would be politic today.  In a similar vein, it's been interesting and appaling to see various cards censored in all formats.
 
 I had basically no Dark or Legends, just a tiny bit of Ice Age and some Antiquities.  When Ice Age came out I remember playing a game at the shop by Table Mesa against the vastly better funded 40 year olds.  I was losing to cards I did recognize.  In a fit a frustration I played Balance against a table of maybe 8 people.  They killed me before my next turn.  I don't think I was particularly welcome there in the future.
 
