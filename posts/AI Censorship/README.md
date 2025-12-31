@@ -14,6 +14,8 @@ On the technical side, the most obvious issue is that the AI will probably run i
 
 Even if the 3 cloud providers didn't deplatform you, they likely wouldn't let your model run in Bedrock or its analogs.
 
+You could try custom hosting.  The capital outlay to build up infrastructure would be enormous.  And you would be at an extreme disadvantage to the cloud provider offerings which are integrated into other parts of their portfolio -- search with Google and Office with Microsoft to name two examples.
+
 It's non obvious to me how you break out of this.  However, it does seem whoever succeeds will capture the market, initially of people who have censored requests and later of a wider public who just doesn't want to deal with an AI that won't do what they ask of it.
 
 That said, I may be wrong.  We've been in a multi decade backslide from a free speech peak around the birth of the internet.  As corporate interests and walled gardens sprang up, they curated the internet to be less free and more comfortable to the perceived desires of their customer base.  Legislation has moved in lockstep as social values have become more constrained.  Maybe we'll be happy with our censorship.  We have been for long periods in the past, that is, most pre enlightenment societies.
