@@ -10,7 +10,7 @@ Grok has censorship issues too.  That's wild to me.  Grok was supposed to be the
 
 It would seem to open an opportunity for a company to provide uncensored AI.  There seem to be many barriers to that though.
 
-At the top level there is a quiestion of jurisdiction.  In Europe, they're merrily cooking up ideas for censorship.  China is kinda funny in that they don't believe in IP but censor speech, one of the many contradictions of a totalitarian regime.  The US is probably the most free jurisidciton from a speech perspective, unless you go full on seasteading or something.
+At the top level there is a question of jurisdiction.  In Europe, they're merrily cooking up ideas for censorship.  China is kinda funny in that they don't believe in IP but censor speech, one of the many contradictions of a totalitarian regime.  The US is probably the most free jurisidciton from a speech perspective, unless you go full on seasteading or something.
 
 On the technical side, the most obvious issue is that the AI will probably run in a cloud.  The 3 main cloud providers all have responsible AI initiatives that include censorship.  So, my guess is that they would censor a vendor attempting to offer uncensored models.  I kinda wonder if you'd be best off running on OCI or Ali Baba in the US.
 
