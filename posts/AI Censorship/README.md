@@ -4,7 +4,7 @@ These are some very rough notes on AI censorship.
 
 I've been playing around with various AI image generators for a [card game I'm working on](https://github.com/jrucs).  I've been running into censorship.  Gemini gets mad about things as inncuous as "draw me a sexy water elemental."  Though, the censorship is inconsistent.  
 
-Grok has issues too which is wild.  Grok was supposed to be the open no censorship AI.  I really wonder who or what is putting pressure on them.
+Grok has issues too which is wild.  Grok was supposed to be the open no censorship AI.  I really wonder who or what is putting pressure on them.  It looks like [Grok is running on OCI](https://www.oracle.com/news/announcement/xais-grok-models-are-now-on-oracle-cloud-infrastructure-2025-06-17/).
 
 It would seem to open an opportunity for a company to provide uncensored AI.  There seem to be many barriers to that though.
 
