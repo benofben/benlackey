@@ -4,7 +4,9 @@ These are some very rough notes on AI censorship.
 
 I've been playing around with various AI image generators for a [card game I'm working on](https://github.com/jrucs).  I've been running into censorship.  Gemini gets mad about things as inncuous as "draw me a sexy water elemental."  Though, the censorship is inconsistent.  
 
-Grok has issues too which is wild.  Grok was supposed to be the open no censorship AI.  I really wonder who or what is putting pressure on them.  It looks like [Grok is running on OCI](https://www.oracle.com/news/announcement/xais-grok-models-are-now-on-oracle-cloud-infrastructure-2025-06-17/).
+As an aside, there is some minor AI washing of revenue going on.  I had a Google Drive subscription that was $0.99/month.  When I subscribed to Google AI Pro, that included 2TB of storage, so the drive fee was refunded.  It's amusing that we've gone from companies trying to claim revenue is cloud (I'm looking at you Workspace and Office) to making it AI.  The important part it seems is to never break out your earnings.  Investors are complicit in this.
+
+Grok has censorship issues too.  That's wild to me.  Grok was supposed to be the open no censorship AI.  I really wonder who or what is putting pressure on them.  It looks like [Grok is running on OCI](https://www.oracle.com/news/announcement/xais-grok-models-are-now-on-oracle-cloud-infrastructure-2025-06-17/).
 
 It would seem to open an opportunity for a company to provide uncensored AI.  There seem to be many barriers to that though.
 
