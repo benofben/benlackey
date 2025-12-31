@@ -1,5 +1,7 @@
 # AI Censorship
 
+These are some very rough notes on AI censorship.
+
 I've been playing around with various AI image generators for a [card game I'm working on](https://github.com/jrucs).  I've been running into censorship.  Gemini gets mad about things as inncuous as "draw me a sexy water elemental."  Though, the censorship is inconsistent.  
 
 Grok has issues too which is wild.  Grok was supposed to be the open no censorship AI.  I really wonder who or what is putting pressure on them.
