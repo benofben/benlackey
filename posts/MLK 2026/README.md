@@ -50,7 +50,7 @@ George Orwell noticed the hypocritical tendencies of leftist extremists.  In 198
 
 I'm pretty sure that was intended as a warning, not a guide.
 
-Propaganda and oppression are inherently unstable.  Ultimately they collapse under their own weight.  Gandhi put it rather simply: "An eye for an eye leaves the whole world blind."
+Propaganda and oppression are inherently unstable.  Ultimately they collapse under their own weight.  An inspiration to MLK in the field on civil disobedience, Gandhi, put it rather simply: "An eye for an eye leaves the whole world blind."
 
 In the realm of mutual blindness, an idea has become popular recently to pay enormous amounts in reparations.  We don't seem to actually do it, but boy do we love talking about it.  San Francisco, in the state of California, a state that never had slavery is proposing paying [$5m per person](https://www.newsweek.com/black-californians-5-million-reparations-new-law-11290333) to people supposedly harmed by slavery.
 
