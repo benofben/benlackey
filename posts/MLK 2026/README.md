@@ -13,7 +13,9 @@ Expressing a similar notion, Haile Selassie gave a [speech to the UN in 1963](ht
 Bob Marley took the idea and ran with it in his song [War](https://genius.com/Bob-marley-and-the-wailers-war-lyrics).  
 
 > Until the colour of a man's skin
+>
 > Is of no more significance than the colour of his eyes
+>
 > Me say war
 
 Thomas Jefferson put it [this way](https://www.archives.gov/founding-docs/declaration-transcript):
