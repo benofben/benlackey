@@ -42,9 +42,9 @@ Around the idea of antiracism an academic edifice has been constructed that is d
 
 Another example of contemporary segregationists comes this week from Minnesota State Senator Omar Fateh.  [He has proposed](https://www.foxnews.com/opinion/david-marcus-sorry-omar-fateh-were-not-doing-somali-run-no-go-zones-minnesota) "no go zones" for "white supremacists."  I am strongly suspicious that Fateh's definition of a white supremacist is rather broad.  Despite Fateh's ambitions, In America people are free to go anywhere on public property, regardless of how unpalatable their views may be to some.  That is as it should be.
 
-All these ideas aren't particular new, they just have new words around them.  While MLK was doing good, Malcolm X was waving a gun about preaching "by any means necesary."
-
 Further back [Marcus Garvey was meeting with the KKK](https://www.historytoday.com/archive/months-past/marcus-garvey-meets-kkk) discussing how their segregationist goals aligned.
+
+All these ideas aren't particular new, they just have new words around them.  While MLK was doing good, Malcolm X was waving a gun about preaching "by any means necesary."
 
 George Orwell noticed the hypocritical tendencies of leftist extremists.  In 1984, poking at this, he wrote: "War is peace, freedom is slavery, ignorance is strength."  I'm pretty sure that was intended as a warning, not a guide.
 
