@@ -46,9 +46,7 @@ All these ideas aren't particular new, they just have new words around them.  Wh
 
 Further back [Marcus Garvey was meeting with the KKK](https://www.historytoday.com/archive/months-past/marcus-garvey-meets-kkk) discussing how their segregationist goals aligned.
 
-George Orwell noticed the hypocritical tendencies of leftist extremists.  In 1984, poking at this, he wrote: "War is peace, freedom is slavery, ignorance is strength."
-
-I'm pretty sure that was intended as a warning, not a guide.
+George Orwell noticed the hypocritical tendencies of leftist extremists.  In 1984, poking at this, he wrote: "War is peace, freedom is slavery, ignorance is strength."  I'm pretty sure that was intended as a warning, not a guide.
 
 Propaganda and oppression are inherently unstable.  Ultimately they collapse under their own weight.  An inspiration to MLK in the field on civil disobedience, Gandhi, put it rather simply: "An eye for an eye leaves the whole world blind."
 
