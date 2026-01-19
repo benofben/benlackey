@@ -44,7 +44,7 @@ Another example of contemporary segregationists comes this week from Minnesota S
 
 Further back [Marcus Garvey was meeting with the KKK](https://www.historytoday.com/archive/months-past/marcus-garvey-meets-kkk) discussing how their segregationist goals aligned.
 
-These ideas surface again and again through history.  While MLK was doing good, Malcolm X was waving a gun about preaching "by any means necesary."
+These ideas surface again and again through history.  While MLK was creating positive change by practicing civil disobedience, Malcolm X was waving a gun about preaching "by any means necesary."
 
 George Orwell noticed the hypocritical tendencies of leftist extremists.  In 1984, poking at this, he wrote: "War is peace, freedom is slavery, ignorance is strength."  I'm pretty sure that was intended as a warning, not a guide.
 
