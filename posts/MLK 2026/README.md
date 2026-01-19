@@ -38,7 +38,7 @@ Being antiracist is never clearly defined.  Instead you get gems like this:
 
 > Some White people do not identify as White for the same reason they identify as not-racist: to avoid reckoning with the ways that Whiteness—even as a construction and mirage—has informed their notions of America and identity and offered them privilege, the primary one being the privilege of being inherently normal, standard, and legal.
 
-Around the idea of anti racism an academic edifice has been constructed that is definitively racist.  It's shown up in things like the [deintegration of graduation ceremonies at Stanford](https://events.stanford.edu/event/black-graduation-ceremony-and-reception).  That's right, 50 years after the Civil Rights movement people are now free to attend segregated graduation ceremonies.
+Around the idea of antiracism an academic edifice has been constructed that is definitively racist.  It's shown up in things like the [deintegration of graduation ceremonies at Stanford](https://events.stanford.edu/event/black-graduation-ceremony-and-reception).  That's right, 50 years after the Civil Rights movement people are now free to attend segregated graduation ceremonies.
 
 These ideas aren't particular new, they just have new words around them.  While MLK was doing good, Malcolm X was waving a gun about preaching "by any means necesary."
 
@@ -46,7 +46,7 @@ George Orwell noticed these tendencies of far left extremists.  In 1984, poking 
 
 I'm pretty sure that was intended as a warning, not a guide.
 
-Propaganda and oppression are inherently unstable.  Ultimattely they collapse under their own weight.  Gandhi put it rather simply: "An eye for an eye leaves the whole world blind."  
+Propaganda and oppression are inherently unstable.  Ultimately they collapse under their own weight.  Gandhi put it rather simply: "An eye for an eye leaves the whole world blind."
 
 In the realm of mutual blindness, an idea has become popular recently to pay enormous amounts in reparations.  San Francisco, in the state of California, a state that never had slavery is proposing paying [$5m per person](https://www.newsweek.com/black-californians-5-million-reparations-new-law-11290333) to people supposedly harmed by slavery.
 
