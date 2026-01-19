@@ -40,7 +40,7 @@ Being antiracist is never clearly defined.  Instead you get gems like this:
 
 Around the idea of antiracism an academic edifice has been constructed that is definitively racist.  It's shown up in things like the [deintegration of graduation ceremonies at Stanford](https://events.stanford.edu/event/black-graduation-ceremony-and-reception).  That's right, 50 years after the Civil Rights movement people are now free to attend segregated graduation ceremonies.
 
-Another example of contemporary segregationists comes this week from Minnesota State Senator Omar Fateh.  [He has proposed](https://www.foxnews.com/opinion/david-marcus-sorry-omar-fateh-were-not-doing-somali-run-no-go-zones-minnesota) "no go zones" for "white supremacists."  I am strongly suspicious that Fateh's definition of a white supremacist is rather broad.  Regardless, in America people are free to go anywhere on public property, regardless of how unpalatable their views may be to some.  That is as it should be.
+Another example of contemporary segregationists comes this week from Minnesota State Senator Omar Fateh.  [He has proposed](https://www.foxnews.com/opinion/david-marcus-sorry-omar-fateh-were-not-doing-somali-run-no-go-zones-minnesota) "no go zones" for "white supremacists."  I am strongly suspicious that Fateh's definition of a white supremacist is rather broad.  Despite Fateh's ambitions, In America people are free to go anywhere on public property, regardless of how unpalatable their views may be to some.  That is as it should be.
 
 All these ideas aren't particular new, they just have new words around them.  While MLK was doing good, Malcolm X was waving a gun about preaching "by any means necesary."
 
