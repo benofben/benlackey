@@ -4,21 +4,21 @@ Today is MLK day.  We're about to go for a hike.  We have the day off because ML
 
 Some of my favorite lines are these:
 
-  I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.
+> I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.
 
 Expressing a similar notion, Haile Selassie gave a [speech to the UN in 1963](https://en.wikisource.org/wiki/Haile_Selassie%27s_address_to_the_United_Nations,_1963):
 
-    Until this is accomplished, mankind's future remains hazardous and permanent peace a matter for speculation. 
+> Until this is accomplished, mankind's future remains hazardous and permanent peace a matter for speculation. 
 
 Bob Marley took the idea and ran with it in his song [War](https://genius.com/Bob-marley-and-the-wailers-war-lyrics).  
 
-    Until the colour of a man's skin
-    Is of no more significance than the colour of his eyes
-    Me say war
+> Until the colour of a man's skin
+> Is of no more significance than the colour of his eyes
+> Me say war
 
 Thomas Jefferson put it [this way](https://www.archives.gov/founding-docs/declaration-transcript):
 
-    We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
+> We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
 
 The idea is the same throughout -- treating people differently because of their inalterable characteristics is a recipe for disaster.  Racism is not a recipe for a for a functioning society.
 
@@ -26,17 +26,17 @@ In high school I was somehow part of a small group of students who got to hear D
 
 Oxford Languages gives a definition of racism as:
 
-    Prejudice, discrimination, or antagonism by an individual, community, or institution against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.
+> Prejudice, discrimination, or antagonism by an individual, community, or institution against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.
 
 Racial discrimination is then defined as:
 
-    The belief that different races possess distinct characteristics, abilities, or qualities, especially so as to distinguish them as inferior or superior to one another.
+> The belief that different races possess distinct characteristics, abilities, or qualities, especially so as to distinguish them as inferior or superior to one another.
 
 Recently an idea of antiracism has become popular.  That was codified in the book "[How to Be an Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist)."  The book is a certain kind of academically obtuse.  The core thesis is: "The opposite of ‘racist’ isn’t ‘not racist.’ It is ‘antiracist.'"
 
 Being antiracist is never clearly defined.  Instead you get gems like this:
 
-    Some White people do not identify as White for the same reason they identify as not-racist: to avoid reckoning with the ways that Whiteness—even as a construction and mirage—has informed their notions of America and identity and offered them privilege, the primary one being the privilege of being inherently normal, standard, and legal.
+> Some White people do not identify as White for the same reason they identify as not-racist: to avoid reckoning with the ways that Whiteness—even as a construction and mirage—has informed their notions of America and identity and offered them privilege, the primary one being the privilege of being inherently normal, standard, and legal.
 
 Around the idea of anti racism an academic edifice has been constructed that is definitively racist.  It's shown up in things like the [deintegration of graduation ceremonies at Stanford](https://events.stanford.edu/event/black-graduation-ceremony-and-reception).  That's right, 50 years after the Civil Rights movement people are now free to attend segregated graduation ceremonies.
 
