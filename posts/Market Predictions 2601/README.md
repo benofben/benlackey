@@ -39,6 +39,6 @@ There is, of course, the flip side.  Some leftist extremist Mamdani type seizes 
 
 If such a thing were to happen, my personal preference would be to find myself in a small town, presumably ignored by the broader goings on.  Something similar worked out for some Germans in the 40s, but was by no means panacea and certainly did nothing to end the attrocities going on about them.  It is very hard to live in the world and apart from it.
 
-I'm not sure it's worth worrying too much about these scenarios.  In the event they happen, contingency planning doesn't help much.  Maybe some gold buried somewhere does.  But, it's difficult to perform portfolio optimization that is violent revolution proof.
+I'm not sure it's worth worrying too much about these scenarios.  In the event they happen, contingency planning doesn't help much.  Maybe some gold buried somewhere does.  But, it's difficult to perform portfolio optimization that is violent revolution proof.  Capital markets tend to disintegrate as people have more immediate priorities.  Contracts, even if you bet correctly, don't prove valid.
 
 I suspect it's more prudent to optimize for some likely scenario while ensuring you won't be (to borrow a Buffettism) caught swimming with no pants when the tide goes out.  Probably that just means escaping to a far away place to wash dishes with your advanced degree if everything goes well and truly wrong.  That was common enough with Soviet block immigrants in the US after the fall of the wall.  Perhaps roles will reverse 40 years later.
