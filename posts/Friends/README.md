@@ -1,6 +1,8 @@
 # Friends
 
-Friend groups change.  I have a tendency to collect friends and hang on to them for decades.  Business travel has made this easier.  In global roles, I've found myself regularly passing through major cities.  That's made it possible to maintain friendships that might have otherwise atrophied decades prior.
+Friend groups change.  I know this intellectually but not emotionally.
+
+I have a tendency to collect friends and hang on to them for decades.  Business travel has made this easier.  In global roles, I've found myself regularly passing through major cities.  That's made it possible to maintain friendships that might have otherwise atrophied decades prior.
 
 > What do sad people have in common? It seems they have all built a shrine to the past, And often they go there and do a strange wail and worship. -Hafez
 
