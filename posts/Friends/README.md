@@ -6,7 +6,7 @@ I have a tendency to collect friends and hang on to them for decades.  Business 
 
 > What do sad people have in common? It seems they have all built a shrine to the past, And often they go there and do a strange wail and worship. -Hafez
 
-I am highly guilty of being sentimental.  I recognize it doesn't serve me well.  However, I don't particularly like people who aren't.  I don't particular think success is its own end.  Rather, it needs to be enjoyed.  That enjoyment, if not purely hedonistic, ultimately seems to come back to sentiment, or perhaps idealism.  The two intermingle.
+I am highly guilty of being sentimental.  I recognize it doesn't serve me well.  However, I don't particularly like people who aren't.  I don't particularly think success is its own end.  Rather, it needs to be enjoyed.  That enjoyment, if not purely hedonistic, ultimately seems to come back to sentiment, or perhaps idealism.  The two intermingle.
 
 In this, I've noticed that I assume I am closer to people I've known a long time than I actually am.  They live rent free in my head, often idealized.  So, sometimes the reality of who they are or what they think can be jarring.
 
