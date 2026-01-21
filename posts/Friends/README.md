@@ -20,3 +20,8 @@ Then in college I traveled even further back in time.  My favorite period was pr
 
 The result is that my world view and morality became increasingly anachronistic.  My wife sometimes says I'm "Boomer coded."  I think it's probably more Lost Generation.  In some sense, I view cars and aeroplanes as new fangled.  Conrad Hilton's autobiography (Be My Guest, it's excellent!) seems relatable to me, more so than something more contemporary.
 
+Somewhere in there I emerged from school.  I pretty quickly discovered that there was little interest in 20s Paris and discarded it, except for my own personal reveries.  I found in my working life that I got on extroadinarily well with Boomers.  I wonder a bit if they found my world view reassuring as it was likely roughly in line with their parents.  Perhaps it reminded them of childhood.  Regardless, it's been sad to see them retire and replaced with people who have rather different principles, if they have principles at all.  
+
+More frequently that I like, I've encountered Silicon Valley executives who seem to be Nihilists.  Of course, this is perhaps not a new phenemenon.  Twain once quipped -- "If you want to know what God thinks of money, look at the people he gives it to."  The phenomenon is perhaps even older.  
+
+I was recently reading Marcus Aurelius's Mediations and was struck by how little he believes in.  It seems almost a direct precursor to Machiavelli.  I guess it's not surprising it's a favorite of the tech bro types.  The philosophy may be utilitarian.  But the life it leads to doesn't seem worth living.
