@@ -36,4 +36,3 @@ Dollar loses reserve currency status.  I think this already would have happened 
 * Yuan - Little international faith in China to behave well.
 
 Regardless of what the reset moment looks like, a 5-20 year period of inflation seems likely to me.  The US has too much debt and no will to reduce spending much less pay it off.  "If something can't go on forever, it will stop."  I think the only realistic way out is inflation, pain, then a reset.
-
