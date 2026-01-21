@@ -46,4 +46,6 @@ I don't for a moment sucumb to post modernism.  I believe right and wrong exist.
 
 When I was younger I spoke up a lot because I thought I had nothing to lose.  I suspect I have more to lose today.  However, I try to continue to speak up for my anachronistic (but I believe correct) views because, while the distance to fall may be greater, I am in many ways better able to weather it today.  Beyond hedonism, much of the benefit of success is independence.  That independence allows a greater degree of speech than might otherwise be possible.
 
-I love it when people exercise that.  It's great to see people like Soros, Thiel, Gates and Dalio all expressing their views because they success has ensured independence.  What is shameful in this is that we now live in a society where the mob curtails speech to such an extent that many cannot speak openly.  The 1st ammendement protects you from the government but not the mob.
+I love it when people exercise that.  It's great to see people like Soros, Thiel, Gates and Dalio all expressing their views because they success has ensured independence.  What is shameful in this is that we now live in a society where the mob curtails speech to such an extent that many cannot speak openly.  The 1st ammendement protects you from the government but not the mob. 
+
+We're going through a very rough moment for free speech and varied ideas.  I know these moments sometimes last decades.  In what we now call "the dark ages" they lasted centuries.  I hope I live to see the end of this one.
