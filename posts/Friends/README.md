@@ -14,7 +14,7 @@ I recall visiting a friend at a new house.  A house had one of those "in this ho
 
 This is a challenge with the golden rule.  It is difficult to do unto others as you would have them do unto you if you have vastly different views of what should be done.  That model only works when values are shared.
 
-I have long subsisted on a very strange media diet.  My early reading consisted largely of outdated hard sci fi -- Clarke 30 years too late and such.  On a clock radio with a glowing red readout I listened to Casey Kasem announcing the hits of New Wave.
+I have long subsisted on a very strange media diet.  My early reading consisted largely of outdated hard sci fi -- Clarke 30 years too late and such.  On a clock radio with a glowing red readout I listened to Casey Kasem announcing the hits of New Wave sometime shortly after learning to walk.
 
 Middle and high school included Vonnegut.  That was similarly out of date.  I listened to Madness while my peers played Nirvana.  Player Piano was written in 1952.  I was reading it in the early 90s.  I read Pinchon, Ginsberg, etc.
 
