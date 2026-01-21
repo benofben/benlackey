@@ -20,8 +20,20 @@ Then in college I traveled even further back in time.  My favorite period was pr
 
 The result is that my world view and morality became increasingly anachronistic.  My wife sometimes says I'm "Boomer coded."  I think it's probably more Lost Generation.  In some sense, I view cars and aeroplanes as new fangled.  Conrad Hilton's autobiography (Be My Guest, it's excellent!) seems relatable to me, more so than something more contemporary.
 
-Somewhere in there I emerged from school.  I pretty quickly discovered that there was little interest in 20s Paris and discarded it, except for my own personal reveries.  I found in my working life that I got on extroadinarily well with Boomers.  I wonder a bit if they found my world view reassuring as it was likely roughly in line with their parents.  Perhaps it reminded them of childhood.  Regardless, it's been sad to see them retire and replaced with people who have rather different principles, if they have principles at all.  
+I also learned to pick the good things out.  Ezra Pound was a fascist after some mental break.  But he was also a great poet.  You can enjoy the poetry.  Bukowski could write but I think few would argue he was a particularly good person.  The list goes on.  It's become popular recently to apply contemporary mores to people who lived hundereds of years ago.  When they inevitably don't measure up to the rules of a society they never knew, we discard them and all their ideas.  This is foolish.  Running past art through such a sieve will leave us precisely nothing.
+
+At some point I emerged from school.  I pretty quickly discovered that there was little interest in 20s Paris and discarded it, except for my own personal reveries.  I found in my working life that I got on extroadinarily well with Boomers.  I wonder a bit if they found my world view reassuring as it was likely roughly in line with their parents.  Perhaps it reminded them of childhood.  Regardless, it's been sad to see them retire and replaced with people who have rather different principles, if they have principles at all.  
 
 More frequently that I like, I've encountered Silicon Valley executives who seem to be Nihilists.  Of course, this is perhaps not a new phenemenon.  Twain once quipped -- "If you want to know what God thinks of money, look at the people he gives it to."  The phenomenon is perhaps even older.  
 
 I was recently reading Marcus Aurelius's Mediations and was struck by how little he believes in.  It seems almost a direct precursor to Machiavelli.  I guess it's not surprising it's a favorite of the tech bro types.  The philosophy may be utilitarian.  But the life it leads to doesn't seem worth living.
+
+I recall an anecdote from some long form thing, perhaps an Atlantic article.  The author was talking to her mom.  The mom lived in one of those Florida mega retirement areas.  She complained of having few friends. The daughter asked "why not make more?"  The response was "there's not time."  
+
+That sentiment seems self fulfilling.  If you stop speaking with others, death will probably follow quickly.  I'm reminded of this line from the classic "Wear Sunscreen"
+
+> The most interesting people I know didn’t know at 22 what they wanted to do with their lives. Some of the most interesting 40-year-olds I know still don’t.
+
+If you do the same thing every day, life disappears quickly.  Varied activites somehow stretch time.  That seems key.  Keep meeting new people and doing new things.  The prizes for consistency probably aren't worth the price.  
+
+I'm reminded of a friend in his 40s who is concerned with how he will pay for his own memory care.  Having been close to that, I feel strongly that the memory care life is not worth living.  Live the life while you can.  Die before it becomes terrible.
