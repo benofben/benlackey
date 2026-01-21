@@ -14,9 +14,11 @@ I recall visiting a friend at a new house.  A house had one of those "in this ho
 
 This is a challenge with the golden rule.  It is difficult to do unto others as you would have them do unto you if you have vastly different views of what should be done.  That model only works when values are shared.
 
-I have long subsisted on a very strange media diet.  My early reading consisted largely of outdated hard sci fi -- Clarke 30 years too late and such.  Middle and high school included Vonnegut.  That was similarly out of date.  Player Piano was written in 1952.  I was reading it in the early 90s.  I read Pinchon, Ginsberg, etc.
+I have long subsisted on a very strange media diet.  My early reading consisted largely of outdated hard sci fi -- Clarke 30 years too late and such.  On a clock radio with a glowing red readout I listened to Casey Kasem announcing the hits of New Wave.
 
-Then in college I traveled even further back in time.  My favorite period was probably 20s Paris -- Hemmingway, Miller, Celine.  Though, I made forays into Goethe, Maugham, Spinoza.  I read Jefferson's Notes on the State of Virginia.  I read Franklin's Notes on the State of Pennsylvannia.  And, I read all these things, not as you do in school to write some essay no one will ever read, but for education.  I read them to learn from people who I viewed as great.
+Middle and high school included Vonnegut.  That was similarly out of date.  I listened to Madness while my peers played Nirvana.  Player Piano was written in 1952.  I was reading it in the early 90s.  I read Pinchon, Ginsberg, etc.
+
+Then in college I traveled even further back in time.  My favorite period was probably 20s Paris -- Hemmingway, Miller, Celine.  I listened to Caruso because Miller and Hemmingway liked him.  Going further back, reading their favorites, I made forays into Goethe, Maugham, Spinoza.  I read Spengler's Decline of the West with an eye to the present as Miller must have done decades prior.  I read Jefferson's Notes on the State of Virginia.  I read Franklin's Notes on the State of Pennsylvannia.  And, I read all these things, not as you do in school to write some essay no one will ever read, but for education.  I read them to learn from people who I viewed as great.
 
 The result is that my world view and morality became increasingly anachronistic.  My wife sometimes says I'm "Boomer coded."  I think it's probably more Lost Generation.  In some sense, I view cars and aeroplanes as new fangled.  Conrad Hilton's autobiography (Be My Guest, it's excellent!) seems relatable to me, more so than something more contemporary.
 
