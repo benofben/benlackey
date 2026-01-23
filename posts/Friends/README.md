@@ -22,11 +22,7 @@ Then in college I traveled even further back in time.  My favorite period was pr
 
 I also learned to pick the good things out.  Ezra Pound was a fascist after some mental break.  But he was also a great poet.  You can enjoy the poetry without a goosestep.  Bukowski could write but I think few would argue he was a particularly good person.  The list goes on.  It's become popular recently to apply contemporary mores to people who lived hundereds of years ago.  When they inevitably don't measure up to the rules of a society they never knew, we discard them and all their ideas.  This is foolish.  Running past art through such a sieve will leave us precisely nothing.
 
-The result is that my world view and morality became increasingly anachronistic.  My wife sometimes says I'm "Boomer coded."  I think it's probably more Lost Generation.  In some sense, I view cars and aeroplanes as new fangled.  Conrad Hilton's autobiography (Be My Guest, it's excellent!) seems relatable to me, more so than something more contemporary.
-
 At some point I emerged from school.  I pretty quickly discovered that there was little interest in 20s Paris and discarded it, except for my own personal reveries.  I found in my working life that I got on extroadinarily well with Boomers.  I wonder a bit if they found my world view reassuring as it was likely roughly in line with their parents.  Perhaps it reminded them of childhood.  Regardless, it's been sad to see them retire and replaced with people who have rather different principles, if they have principles at all.  
-
-More frequently than I like, I've encountered Silicon Valley executives who seem to be Nihilists.  Of course, this is perhaps not a new phenemenon.  Twain once quipped -- "If you want to know what God thinks of money, look at the people he gives it to."  The phenomenon is perhaps even older.  
 
 I was recently reading Marcus Aurelius's Mediations and was struck by how little he believes in.  It seems almost a direct precursor to Machiavelli.  I guess it's not surprising it's a favorite of the tech bro types.  The philosophy may be utilitarian.  But the life it leads to doesn't seem worth living.
 
@@ -43,10 +39,6 @@ I'm reminded of a friend in his 40s who is concerned with how he will pay for hi
 In all this the times will change.  What was popular will not be.  Things that seem immovable move.  Rules that are written in stone erode to dust.  And, it often turns out that a more which is firm in one place is completely unknown in another, even at the same moment.  
 
 I don't for a moment sucumb to post modernism.  I believe right and wrong exist.  I think they are fundamental to the human condition.  No god is needed to explain that murder is wrong.  Rather, most people share a belief that it is not pleasant to be murdered.  It's important to hang on to those self evident truths even while navigating a world where some place emphasis on them and others do not.
-
-When I was younger I spoke up a lot because I thought I had nothing to lose.  I suspect I have more to lose today.  However, I try to continue to speak up for my anachronistic (but I believe correct) views because, while the distance to fall may be greater, I am in many ways better able to weather it today.  Beyond hedonism, much of the benefit of success is independence.  That independence allows a greater degree of speech than might otherwise be possible.
-
-I love it when people exercise that.  It's great to see people like Soros, Thiel, Gates and Dalio all expressing their views because their success has ensured independence.  What is shameful in this is that we now live in a society where the mob curtails speech to such an extent that many cannot speak openly.  The 1st ammendement protects you from the government but not the mob. 
 
 We're going through a very rough moment for free speech and varied ideas.  I suspect free speech in the US probably peaked in the late 90s / early 2000s with cyberutopianism and myriad people publishing their own websites.  As the web matured we learned how to mob censor people on it.  Walled gardens sprang up that censored further.  Now we're in a moment of significant censorship.  
 
