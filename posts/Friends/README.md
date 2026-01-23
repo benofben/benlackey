@@ -50,8 +50,4 @@ I love it when people exercise that.  It's great to see people like Soros, Thiel
 
 We're going through a very rough moment for free speech and varied ideas.  I suspect free speech in the US probably peaked in the late 90s / early 2000s with cyberutopianism and myriad people publishing their own websites.  As the web matured we learned how to mob censor people on it.  Walled gardens sprang up that censored further.  Now we're in a moment of significant censorship.  
 
-Bizarely any sort of pornography is permissible, yet many political and artistic views are not.  I wonder a bit if that's a legacy of the cyberutopian free speech.  The walled gardens never really engaged with pornography, they've just censored it entirely on their platforms.  Political speech is more complex.  It exists on those platforms and they can't quite decide how to deal with it.  Shadow banning and deplatforming have both been popular solutions.
-
-I have a suspicion that we are going to see a crackdown on pornography the same way we have with political speech.  We are already seeing this with AI.  The AIs from the main players are getting guardrails that limit what they can create or manipulate.  That extends to pornography and politics.  It's hugely problematic in that AI is so capital intensive that it is difficult for open players to challenge the cartel like censorship behaviour of the incumbents.  I suspect eventually technology will knock down these barriers.  I'm just concerned it might be a while.
-
 I know these moments sometimes last decades.  In what we now call "the dark ages" they lasted centuries.  I hope I live to see the end of this one.
