@@ -1,3 +1,5 @@
+Update 2/26/26 -- NPS has [ended the timed entry system in Rainnier](https://www.sfgate.com/national-parks/article/mount-rainier-no-reservations-21941757.php).
+
 Update 1/20/26 -- NPS has [reopened Paradise 7 days a week](https://mynorthwest.com/chokepoints/paradise-mount-rainier/4179902) as of 12/30/25.  This happened about a month after I sent this letter.  I wonder if I had some impact here.  It appears that Rainier specifically was in violation of an executive order to reopen from earlier in the year.
 
 Rainier is still being grumpy about it.  They're closing the road at 4pm.  And they're closing the road irregularly some days citing weather and staffing.  My suspicion is that is a form of civil disobedience against the presidential administration.  Personally, I'd like to see staff engaging in that sort of protest cleared out of the NPS.  They have completely forgotten why tax payers fund their salaries.
