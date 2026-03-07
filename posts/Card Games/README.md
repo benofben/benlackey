@@ -1,5 +1,5 @@
 
-## starting playing
+## Starting Playing
 
 I played MTG from nearly its start.  I remember a party in Middle School, likely 7th grade at Shaun's house.  He's come across a few starter packs of what was likely Alpha and built a color deck for each.  Later, Brian got his hands on some cards.  Notably there was a single volcanic island.  That meant he had to build a Blue/Red deck entirely around it.
 
@@ -39,7 +39,7 @@ These are games.  They're for fun.  It's no fun to play against some guy who lai
 
 I joined the Facebook group "Poorly Playing Magic" a while back.  It's hilarious and I think underscores a desire for fun card games not designed to be addictive or expensive.  Magic seems to have really jumped the shark with the Universes Beyond madness, trying to shoe horn everything from Star Trek to Spiderman into what was previously a high fantasy setting.  That's led me to think something analogous to GURPS but for cards could be fun.
 
-## voyeur magic
+## Voyeur Magic
 
 I think the last magic I played was in 2014.  That was with some old cards, unsleeved (as Richard Garfield intended) on a porch table outside.
 
@@ -61,6 +61,10 @@ I don't think I've ever seen a viable deck with large creatures, at least with o
 
 I was thinking that maybe very early magic was more fun.  However looking at the winning deck of the first world tournament in 1994 that doesn't seem to be the case: http://mtg.fandom.com/wiki/1994_World_Championships
 
+Similarly there's something called [The Deck](https://mtg.fandom.com/wiki/The_Deck).  I could imagine it being fun to play but it doesn't look fun to play against.  It does raise an interesting question of winning without some component of the game, in this case creatures.  Ironically, I'm reminded of strategies like Zergling Rush in starcraft often referred to as "cheese."
+
+Flipping through fine tuned 1-1 decks for tournaments, it doesn't seem like they'd hold up at all in multiplayer.  The deck design is all around starving your opponent.  That's not going to be possible in a wider game.
+
 I'm reminded a bit of one of my complaints about chess -- at a certain level it devolves into "trained monkey" chess.  That is, the valid openings are well understood.  If you stray from them against a high level player you lose.  Similarly a tiny slip in material advantage, say 1 point, can easily condemn you.
 
 The same thing is true of Starcraft and other RTS.  At the start of the learning curve they are completely bewildering.  At some point in the middle there is fun and exploration.  Then once expert, there are certain paths you must follow to win.
@@ -69,7 +73,7 @@ I've observed an irony in sports as well.  The people who are robotically excell
 
 A friend recently made me aware of this design breakdown with [Timmy, etc](https://magic.wizards.com/en/news/making-magic/timmy-johnny-and-spike-2013-12-03).  I get the idea but it seems a bit silly.  For instance "The Timmy/Spike player wants to win, but also like to indulge his fun side."  Who doesn't like to win and have fun?  Similar comments hold for the other varations.  I think the archtypes arise because of problems in the game.  The question is whether those problems can be resolved.  It starts to feel a bit like making communism work...
 
-## making a better game
+## Making a Better Game
 
 Custom Cards - help players make custom cards.  Engage and build the community.
 
