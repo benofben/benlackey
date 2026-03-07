@@ -1,3 +1,6 @@
+
+## starting playing
+
 I played MTG from nearly its start.  I remember a party in Middle School, likely 7th grade at Brian's house.  He's come across a few starter packs of either Alpha or Beta.  Notably there was a single volcanic island.  That meant he had to build a Blue/Red deck entirely around it.
 
 At the time, it was impossible to get your hands on cards.  The local train and plastic model shop would periodically get a starter box of unlimited and immediately sell out.  Frustrated by that I took some index cards and made my own game.  My dad was a geologist, so it focused far more on extinct creatures than high fantasy.  I really wish I still had those cards.  My dad had saved them but I threw theme away in cleaning out his house one time.  I can still picture sitting on his bed with my sister playing that surprisingly balanced but extremely slow game.
@@ -35,3 +38,51 @@ Sometime around 2015 I gave all my cards to a friend.  I knew he'd started playi
 These are games.  They're for fun.  It's no fun to play against some guy who laid out $100k when you're in it for shits and giggles.  I'm thinking a bit about how to put together a game that is fun for a casual player but could still be customized more for cleverness than power creep.  I always loved winning a game of C&C or Starcraft with one unit type more for the amusement of myself than anyone else.
 
 I joined the Facebook group "Poorly Playing Magic" a while back.  It's hilarious and I think underscores a desire for fun card games not designed to be addictive or expensive.  Magic seems to have really jumped the shark with the Universes Beyond madness, trying to shoe horn everything from Star Trek to Spiderman into what was previously a high fantasy setting.  That's led me to think something analogous to GURPS but for cards could be fun.
+
+## voyeur magic
+
+I think the last magic I played was in 2014.  That was with some old cards, unsleeved (as Richard Garfield intended) on a porch table outside.
+
+The game was fun for me as a 12 year old in 1993 because it treated me like an adult.  Later iterations of the game removed high powered cards.  Later censors removed cards.
+
+I listened to an interview with Richard Garfield on UBI recently.  Magic was touched on it that.  It seemed like he was deeply involved in the early game.  He liked the trading but not collecting aspect.
+
+Magic had a great symmetry idea with the one for 3 cards in the original game.  However they both didn't turn out to be symmetric in power and they worked so fast that they really sped the pace of the game.  Similarly Lotus, Mox, Sol Ring, etc all gave too much mana early.  That led to one turn ends like lotus, channel, fireball.
+
+Later magic tried to be everything to everyone.  I listened to a 4 part podcast covering 30 years from the current lead designer.  Most of the things he considers accomplishments are what I don't like -- profusion of counters, each set a new gimick and the endless treadmill of buying crap, much of it recycled from failing franchises.  I think they're stuck in an innovators dilema trap.
+
+The "precon" decks seem particularly eggregious.  Gone are both trading and deck building.  Instead buy something off the shelf.  That way you can get straight to the piling up of stuff you will never use part of the hobby.
+
+There's a fellow on FB/Tik Tok who opens every video with a "you ready to play some magic" sort of line.  It's him playing himself.  The games usually last 3 or 4 turns ending in some ridiculous infinite loop -- "and I'll swing at you for a billion."  I always loved getting giant beefed up dragons but the infinite thing just seems lame / not fun.
+
+White weenie decks used to be popular, playing many small creatures and crusades.
+
+I don't think I've ever seen a viable deck with large creatures, at least with old magic cards.  New ones don't make the creatures powerful, rather they turn them into spells.  The creatures power then comes from crazy effects it has.  I remember reading about one called Nadu Winged Wisdom that was banned because it caused ridiculous infinite effects.  How the designer didn't see that coming is a bit of a mystery to me.  It'd be a lot more fun to just play giant dragons.
+
+I was thinking that maybe very early magic was more fun.  However looking at the winning deck of the first world tournament in 1994 that doesn't seem to be the case: http://mtg.fandom.com/wiki/1994_World_Championships
+
+I'm reminded a bit of one of my complaints about chess -- at a certain level it devolves into "trained monkey" chess.  That is, the valid openings are well understood.  If you stray from them against a high level player you lose.  Similarly a tiny slip in material advantage, say 1 point, can easily condemn you.
+
+The same thing is true of Starcraft and other RTS.  At the start of the learning curve they are completely bewildering.  At some point in the middle there is fun and exploration.  Then once expert, there are certain paths you must follow to win.
+
+I've observed an irony in sports as well.  The people who are robotically excellent, get little joy from a perfectly landed  jump.  Whereas I get quite a bit from 6 inches of air whether on a bike or skis.  Some say comparison is the thief of joy.  I might argue expertise and fine tuning is.
+
+A friend recently made me aware of this design breakdown with [Timmy, etc](https://magic.wizards.com/en/news/making-magic/timmy-johnny-and-spike-2013-12-03).  I get the idea but it seems a bit silly.  For instance "The Timmy/Spike player wants to win, but also like to indulge his fun side."  Who doesn't like to win and have fun?  Similar comments hold for the other varations.  I think the archtypes arise because of problems in the game.  The question is whether those problems can be resolved.  It starts to feel a bit like making communism work...
+
+## making a better game
+
+Custom Cards - help players make custom cards.  Engage and build the community.
+
+No infinite loops - Minimize effects so turns change quickly and a bunch of stuff isn't required. Minimize counters, card complexity, etc.  Board state should be extremely simple.
+
+Turn Length - Design the game so it moves quickly with 5-30 second turns.  One game I don't get is Warhammer.  It seems like it's 4 turns or so.  I always liked the Battletech building to a climax with a nice little bit of cleanup after.
+
+Game Length - Encourage more turns.  Don't pace the game so it can end in 1-3 turns.
+
+No pay to play - Eliminate rarity.  Make it easy to get any card.  Don't print bad cards.  Make the cards cheap and replacable enough that sleves, slabs and mats aren't needed.
+
+Punish cheesy / boring play - Rather than banning cards just nerf them with a new one.  Don't do that via arms race, rather with counters.  For instance you might have a zero cost card that counter the effect and damages an opponent 1 for each time they tapped something that turn.  Suddenly the billion damage is less appealing.
+
+Encourage Role Playing - Intermingle the thematic aspects of the cards with the rules for it.  
+
+Big Simple Creatures - Tune the game so large creatures with no effects are viable.
