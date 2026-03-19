@@ -1,6 +1,6 @@
 Pop culture futures like Terminator and WarGames get a lot of attention.
 
-I was just petting my cat and thinking about Ian Sinclair.  In his Culture books, people are kept around by god like AIs.  The AIs find the people amusing.  They build habitats for them and carry them about on adventures.  They patch them up after they fall while rafting on rivers of lava.
+I was just petting my cat and thinking about Ian Banks.  In his Culture books, people are kept around by god like AIs.  The AIs find the people amusing.  They build habitats for them and carry them about on adventures.  They patch them up after they fall while rafting on rivers of lava.
 
 There's a thought that AI may find us useless and discard us.  One scenario is grey goo where AI uses our matter, scarce in a sparse universe, for more computanium.
 
