@@ -10,7 +10,7 @@ In The Structure of Scientific Revolutions, Kuhn discusses how ideas shift.  His
 
 ![](confucius.jpg)
 
-During COVID we were told to do many crazy things.  If we questioned, the "Trust the science" phrase was rolled out.  If something seemed insane, say wearing a surgical mask outside in the woods or alone in a car.  Similarly we were told not to visit our elderly parents.  We were told to stand 6ft apart because apparently 3 is not the magic number.
+During COVID we were told to do many crazy things.  If we questioned, the "Trust the science" phrase was rolled out.  Some were completely insane, say wearing a surgical mask outside in the woods or alone in a car.  Similarly we were told not to visit our elderly parents.  We were told to stand 6ft apart because apparently 3 is not the magic number.
 
 ![](python.jpg)
 
