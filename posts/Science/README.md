@@ -4,9 +4,9 @@ One of the most bleakly, unintentionally hilarious things to come out of COVID w
 
 Questioning the status quo has long been a dangerous sport.  Socrates and Gailileo provide examples across millenia of how poorly that can go among the wrong crowd.  
 
-![](plates.jpg)
+![](plates.png)
 
-In The Structure of Scientific Revolutions, Kuhn discusses how ideas shift.  His model is slowly and then quickly as an idea takes hold.  In slightly darker humor, my dad used to describe how plate tectonics took hold in geology -- the people who were dogmatically against it died of old age.  A younger generation with papers to publish and more flexible minds were able to follow through the implications of Africa and the Gulf of Mexico (America?) fitting together on a map.
+In The Structure of Scientific Revolutions, Kuhn discusses how ideas shift.  His model is slowly and then quickly as an idea takes hold.  In slightly darker humor, my dad used to describe how plate tectonics took hold in geology -- the people who were dogmatically against it died of old age.  A younger generation with papers to publish and more flexible minds were able to follow through the implications of Africa and South America fitting together on a map.
 
 ![](confucius.jpg)
 
