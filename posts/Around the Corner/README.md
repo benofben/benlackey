@@ -1,6 +1,6 @@
 # Around the Corner
 
-## AI
+## AGI
 
 We're inching Zeno's paradox style closer and closer to AGI.  Maybe we're already there.  Regardless, we're so far up an exponential improvement curve that it's pretty hard to reason about timelines.  Is it now?  5 years?  10?  It's probably not 50.
 
