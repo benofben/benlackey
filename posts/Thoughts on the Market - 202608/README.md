@@ -10,7 +10,9 @@ I've wasted a shocking amount of playing local politics since 2022.  The main th
 * **Roads** - We can't agree that we should fix roads.  Instead we put brand new divided bikes lanes on top of crumbling asphalt.  People who don't bike are pushing this stuff because its popular and because matching grants are available.  People who don't bike vote for it because it seems progressive to them.  [We spent $7.6m on one such intersection](https://www.reddit.com/r/TacomaPolitics/comments/1vb8573/comment/p0t6w5j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 * **Public Office Hours** - The Tacoma permits office is open 9-1, Mon-Thu.  Even the simple suggestion that it be open 9-5, Mon-Fri is met with argument.  We can't even agree that would make it easier to get a permit.
 
-The basic work of governance has become controversial.  The result is it isn't happening.  However, things can crumble for a long time without change.  Detroit and Baltimore present great domestic examples of this.  Change doesn't seem to happen through choice but because "something that cannot go on forever must stop."
+The basic work of governance has become controversial.  The result is it isn't happening.  However, things can crumble for a long time without change.  Detroit and Baltimore present great domestic examples of this.  Change doesn't seem to happen through choice but because "something that cannot go on forever must stop."  
+
+Soros takes this idea further in [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495/) describing "refexivity."  He attributes the insight to Popper but takes it further.  Essentially all human processses over and under shoot because of human nature.  Between that and the arc of changing history and technology, markets (and other processes) never setttle into an efficient state.
 
 ## An Attempt at National Predictions
 
