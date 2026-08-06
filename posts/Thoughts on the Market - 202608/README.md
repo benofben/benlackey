@@ -72,8 +72,8 @@ There is much more thinking to be done here...
 
 ## Is there a way out?
 
-Andressen has some interesting thought on the macroeconomics here.  He believes that the last 50 years has been a zero sum economy with players fighting over scarce resources.  In this argument, it hasn't been since perhaps the 1950s since that we experienced rapid growth.  The thought is AI will spur that.  A boomtime technology driver could upset all these negative political factors.
+Andressen has some interesting thoughts on the macroeconomics here.  He believes that the last 50 years has been a zero sum economy with players fighting over scarce resources.  In this argument, it hasn't been since perhaps the 1950s since that we experienced rapid growth.  The thought is AI will spur that.  A boomtime technology driver could upset all these negative political factors.
 
 One obvious hedge is to learn more about AI and explore ways it can be applied.
 
-And, if [Musk is right(https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Manslow's Hierarchy as possible.
+And, if [Musk is right](https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Manslow's Hierarchy as possible.
