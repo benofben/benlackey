@@ -50,16 +50,26 @@ I can hear it: "Oh, but you can't do that!  Those benefits are inflation indexed
 
 ## How does a person navigate this?
 
+The core in this is an argument that the government has a spending problem.  It will not resolve the problem willingly.
+
 If you believe some version of this outline, what to do?
 
 The [Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) lays out a cynical map of how to navigate this.  Basically make sure your wealth is liquid enough to flee unfriendly jurisdictions.
 
-One thing is clear.  Don't buy fixed rate debt.  Certainly don't buy treasuries.  Your principal is going to get obliterated in an inflationary environment.  The 80/20 equity/bond rule goes out the window.
+One thing is clear.  Don't buy fixed rate debt.  Certainly don't buy treasuries.  Your principal is going to get obliterated in an inflationary environment.  The 80/20 equity/bond rule goes out the window.  Dalio's view seems aligned with this interpretation.
 
 Now, if you can sell fixed rate debt at an attractive price, that's lovely.  That is part of the reason the property market is weird right now.  A ton of people have 2-3% loans and it doesn't make economic sense to part ways with those.  The bulk of those loans are, of course, owned by the governemnt.  It's yet another subsidy.
+
+This does raise the question of if there are more direct ways to sell debt.  Rolling maturity of short treasury futures would be one approach.  This feels a bit like bets Soros made long ago...
+
+A direct hedge, is just to buy stock and commodities.  Ideally, one would do so with leverage, if the leverage is available on desireable terms.
+
+I've wondered if, with the increasing dominance of indexing there might be some bargains.  Small cap, low volume issues are one obvious area.
 
 ## Is there a way out?
 
 Andressen has some interesting thought on the macroeconomics here.  He believes that the last 50 years has been a zero sum economy with players fighting over scarce resources.  In this argument, it hasn't been since perhaps the 1950s since that we experienced rapid growth.  The thought is AI will spur that.  A boomtime technology driver could upset all these negative political factors.
 
 One obvious hedge is to learn more about AI and explore ways it can be applied.
+
+And, if [Musk is right(https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Manslow's Hierarchy as possible.
