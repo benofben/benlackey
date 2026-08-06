@@ -77,3 +77,15 @@ Andressen has some interesting thoughts on the macroeconomics here.  He believes
 One obvious hedge is to learn more about AI and explore ways it can be applied.
 
 And, if [Musk is right](https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Maslow's Hierarchy as possible.
+
+## What are people for? (With the usual apologies to Wendell Berry)
+
+Whatever the economy does, someone needs to be a customer.
+
+Henry Ford famously recognized that, pricing the Model T so factory workers could buy it.
+
+Similarly, Jeff Bezos took a 1st principles approach with Amazon, not building an online retailer but focusing on customer desire -- cheap, fast and good delivered simultaneously.
+
+In this case, we can refer back to Maslow.  The popularity of populism is due to a breakdown in pyramid delivery.  Americans are, for the first time in history, watching their kids live worse lives than they did.  Populists like Mamdani are promising the "warmth of collectivism."  It's an easy answer that claims to solve all problems in the hierarchy.
+
+Regardless the level of scarcity (post or not), human desires remain fundamentally predictable.  We want the lower levels of the hierarchy resolved.  Then we seek the friendship/admiration/comradery of some group of peers.  The question becomes how to meet those needs.
