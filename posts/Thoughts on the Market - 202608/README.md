@@ -34,7 +34,7 @@ There's a great video of him, sad and frustrated after speaking to congress on t
 
 What then is our path?
 
-We're going to increase taxes.  That will strangle growth.  I suspect this is not a regional thing.  "Tax the rich," meaning anyone with more money than me, is increasingly popular.  In Washington there's a cynical new "millionaire tax," an unconstituional income tax, that anyone with a middling grasp of history realizes will someday have brackets for them as well.  But, taxes are always unpopular with the individaul paying them.  So, I imagine this will be a penultimate resort.
+We're going to increase taxes.  That will strangle growth.  I suspect this is not a regional thing.  "Tax the rich," meaning "anyone with more money than me," is increasingly popular.  In Washington there's a cynical new "millionaire tax," an unconstituional income tax, that anyone with a middling grasp of history realizes will someday have brackets for them as well.  But, taxes are always unpopular with the individaul paying them.  So, I imagine this will be a penultimate resort.
 
 The primary solution is debt monetization.  I'm a little shocked Trump didn't pick a more dovish fed chair.  I misread that badly.  I feel strongly we're going to print.  I just thought we were there already. It's a fascinating cycle as the printing destroys demand for the dollar, making more printing neccessary.  This is the loop Germany got caught in before WWII.  The saving grace at the moment is international demand for dollars.  Once that disappears it gets ugly fast.
 
