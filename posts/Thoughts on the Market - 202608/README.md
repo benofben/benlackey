@@ -62,7 +62,7 @@ One thing is clear.  Don't buy fixed rate debt.  Certainly don't buy treasuries.
 
 Now, if you can sell fixed rate debt at an attractive price, that's lovely.  That is part of the reason the property market is weird right now.  A ton of people have 2-3% loans and it doesn't make economic sense to part ways with those.  The bulk of those loans are, of course, owned by the governemnt.  It's yet another subsidy.
 
-This does raise the question of if there are more direct ways to sell debt.  Rolling maturity of short treasury futures would be one approach.  This feels a bit like bets Soros made long ago...
+This does raise the question of if there are more direct ways to sell debt.  Rolling maturity of short treasury futures would be one approach.  This feels a bit like bets Soros and Rogers made long ago...
 
 A direct hedge, is just to buy stock and commodities.  Ideally, one would do so with leverage, if the leverage is available on desireable terms.
 
