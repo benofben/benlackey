@@ -18,7 +18,7 @@ Soros takes this idea further in [The Alchemy of Finance](https://www.amazon.com
 
 My mental model for thinking through all this is heavily influenced by Dalio's [How Countries go Broke](https://www.amazon.com/dp/1501124064).
 
-I think from a local to national level we see populism and nationalism.  Actors on the left and right are trying to claim each for themselves.  There is little discussion of governance, rather attempts to pander.  Pandering costs money.  That Tacoma roads initiative is going to be funded by $200m in debt paid back over 10 years.  On top of that state and federal funds of $120m will be spent through matching funds.  And, despite what local politicans seem to believe, those are tax dollars too.
+From a local to national level we see populism and nationalism.  Actors on the left and right are trying to claim each for themselves.  There is little discussion of governance, rather attempts to pander.  Pandering costs money.  That Tacoma roads initiative is going to be funded by $200m in debt paid back over 10 years.  On top of that state and federal funds of $120m will be spent through matching funds.  And, despite what local politicans seem to believe, those are tax dollars too.
 
 Many similar programs are burning money with no tangible result at all levels of government.  Over in King County, there's an ongoing rearranging deck chairs on the Titanic activity regarding the King County Regional Homelessness Authority.  It seems they've wasted some millions of dollars.  Back in Tacoma there are similar issues with deficits at the City and Parks despite ever increasing funding.
 
