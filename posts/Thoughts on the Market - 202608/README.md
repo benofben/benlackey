@@ -68,6 +68,8 @@ A direct hedge, is just to buy stock and commodities.  Ideally, one would do so 
 
 I've wondered if, with the increasing dominance of indexing there might be some bargains.  Small cap, low volume issues are one obvious area.
 
+There is much more thinking to be done here...
+
 ## Is there a way out?
 
 Andressen has some interesting thought on the macroeconomics here.  He believes that the last 50 years has been a zero sum economy with players fighting over scarce resources.  In this argument, it hasn't been since perhaps the 1950s since that we experienced rapid growth.  The thought is AI will spur that.  A boomtime technology driver could upset all these negative political factors.
