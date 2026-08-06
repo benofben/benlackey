@@ -76,4 +76,4 @@ Andressen has some interesting thoughts on the macroeconomics here.  He believes
 
 One obvious hedge is to learn more about AI and explore ways it can be applied.
 
-And, if [Musk is right](https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Manslow's Hierarchy as possible.
+And, if [Musk is right](https://www.youtube.com/watch?v=XuoqKYxDHVc) and we're really looking at post scarcity in 10 years, nothing we do till then particularly matters anyway.  Instead, it's just about living as high on Maslow's Hierarchy as possible.
