@@ -28,7 +28,7 @@ This has all happened before.  Over tens of thousands of years ice ages come and
 
 At Denali there was a sign with an apocryphal Jefferson quote: "not in a thousand years will the country be thoroughly settled as far west as the Mississippi."  The Denali sign then said something like "it only took 100."  That statement blatantly ignores the vast tracts of completely empty land where not only are there no buildings but, unlike Europe where most places were at one time settled even if they have since gone a bit feral, man has never built anything there.  
 
-The sentiment that we're running out of land is pretty typical of a certain boneheaded variety of conservation.  That same sentiment is the reason the main road through Denali was closed to cars.  I hope we build more infrastructure so we can better explore these places.
+The sentiment that we're running out of land is pretty typical of a certain boneheaded variety of conservation.  That same sentiment is the reason the main road through Denali was closed to cars.  I hope we can fix our existing infrastructure.  I really hope we build more infrastructure so we can better explore these places.
 
 I've seen projections showing the American bread basket moving north from Kansas into lower Canada.  I really wonder if these forests become arable land.  One could image converting the swamps to ridicoulously productive rice paddies for part of the year, though frozen waste for part too...
 
