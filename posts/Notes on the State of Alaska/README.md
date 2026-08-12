@@ -14,7 +14,7 @@ I knew intellectually that the days would be long.  Somewhat accidentally we wer
 
 Experiencing this, it suddenly made sense why all those migratory birds pop up north.  Their young get a summer of compressed youth with endless time to learn.  Once again, I'd understood this intellectually, but seeing it really made it click.
 
-Similarly the temperature weren't particularly hot, maybe 70 or 80.  However, I think that since nothing ever got the chance to cool down, it felt toastier than it was.  That, I suspect leads to some of the most horrifying mosquito conditions I have ever experienced.
+Similarly the temperature weren't particularly hot, maybe 70 or 80.  However, I think that since nothing ever got the chance to cool down, it felt toastier than it was.  That, I suspect, leads to some of the most horrifying mosquito conditions I have ever experienced.
 
 Previously I'd thought of buying 100 acres and living in Alaska.  The daylight cured me of that.  Somehow endless night is more palatable.  I heard locals observe the same.  Winter wasn't too hard to adjust to.  Summer was.
 
