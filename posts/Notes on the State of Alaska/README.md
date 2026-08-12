@@ -12,7 +12,7 @@ Here it is in [Google Map form](https://www.google.com/maps/dir/Tacoma,+Washingt
 
 I knew intellectually that the days would be long.  Somewhat accidentally we were in Fairbanks for the solstice.  I believe the sun set around 1am and rose at 3am.  Those numbers are fairly theoretical however.  It doesn't get dark.  The dead of night, 2am is like a slightly cloudy day.
 
-Experiencing this, it suddenly made sense why all those migratory birds pop up north.  Once again, I'd understood this intellectually, but seeing it really made it click.
+Experiencing this, it suddenly made sense why all those migratory birds pop up north.  Their young get a summer of compressed youth with endless time to learn.  Once again, I'd understood this intellectually, but seeing it really made it click.
 
 Similarly the temperature weren't particularly hot, maybe 70 or 80.  However, I think that since nothing ever got the chance to cool down, it felt toastier than it was.  That, I suspect leads to some of the most horrifying mosquito conditions I have ever experienced.
 
