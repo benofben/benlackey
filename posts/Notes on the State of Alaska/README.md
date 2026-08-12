@@ -30,7 +30,9 @@ At Denali there was a sign with an apocryphal Jefferson quote: "not in a thousan
 
 The sentiment that we're running out of land is pretty typical of a certain boneheaded variety of conservation.  That same sentiment is the reason the main road through Denali was closed to cars.  I hope we can fix our existing infrastructure.  I really hope we build more infrastructure so we can better explore these places.
 
-I've seen projections showing the American bread basket moving north from Kansas into lower Canada.  I really wonder if these forests become arable land.  One could image converting the swamps to ridicoulously productive rice paddies for part of the year, though frozen waste for part too...
+I've seen projections showing the American bread basket moving north from Kansas into lower Canada.  I really wonder if these forests become arable land.  One could image converting the swamps to ridicoulously productive rice paddys for part of the year, though frozen waste for part too...
+
+I tried poking Gemini about this a bit.  It really didn't want to speculate on any positive changes, focusing solely on the negative.  When I pushed it to consider the Yukon, it admitted there is a lot of water there and drought probably isn't a concern.  I asked it about growing rice and eventually convinved it that yes, the Minnesota wild rice would probably grow just fine.  The consensus view of all these changes is so simplistic and negative that it is difficult to find a grounded view of what they might really mean.
 
 ## Fire
 
