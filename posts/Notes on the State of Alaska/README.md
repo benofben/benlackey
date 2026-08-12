@@ -30,6 +30,23 @@ The sentiment that we're running out of land is pretty typical of a certain bone
 
 I've seen projections showing the American bread basket moving north from Kansas into lower Canada.  I really wonder if these forests become arable land.  One could image converting the swamps to ridicoulously productive rice paddies for part of the year, though frozen waste for part too...
 
+## Fire
+
+Thinking through the implications of the drunken forest, I believe we're in for a lot more fires.  Fire season in the PNW has already become quite a thing.  It's great for morels but leaves you feeling lightly smoked.  I suspect there are multiple causes contributing in parallel:
+
+1. **Human caused carbon emissions** - I have no doubt this has contributed.  At the same time, I think it dishonest to argue that as the sole cause.
+
+2. **Bad forestry practices** - The forest service in the US has been engaged in bad forestry practices for a century.  
+Trump was made fun of for suggesting sweeping forwards.  Memes of brooms and such abounded.  However cleaning undergrowth is how commercial forest management works.  I suspect that approach emulates old growth where extremely large pine trees eventually poision everything on the ground with the acidity of their needles.  In old growth, periodic fires take the low branches, resulting in a suprisingly open forest.  Maybe we don't need to sweep the forests exactly but an approach similar in spirit would reduce fires.
+
+3. **Putting out every fire** I suspect forest fires are a self organized critical system.  That is, like an anthill.  In an anthill sand grains are added and added.  Periodically the hillside fails, reorganizing itself.  I suspect the fire regime is similar with unburnt wood building up and up till a single spark lights a considerable blaze.  Smaller fires along the way would eliminate the world ending fires.
+
+In this, I'm reminded of SimEarth.  Without perturbation, the model tended toward a world of pine forest, much like the Le Guin book.  However the forest produced an enormous amount of oxygen.  Once the atmospheric oxygen content got him enough, fires would break out easily, burning the forest back to grassland.  I really think we're seeing similar loops play out in the PNW.
+
+This makes me wonder where the system will settle.  Presumably we'll get our carbon emissions under control.  If nothing else we'll burn the readily available gas and end up living in a Mesozoic jungle.  If we're really dumb, we'll burn all our coal. Regardless, we'll settle into some new regime.  However, along the way the existing forests are going to change.  
+
+In Colorado, beetles have killed many of the pines.  Those desicated forest then burn and are replaced by grass, sparse forest and aspen.  I suspect we're experiencing something similar, but on a much more grand scale in the PNW.  Maybe the buffalo can roam again.
+
 ## Alaska is really far north
 
 I know, I know.  It was just strange experiencing it.  I remember the day we got back "south" to Lake La Hache and the sun actually properly set.  It got dark for the first time in two weeks.
