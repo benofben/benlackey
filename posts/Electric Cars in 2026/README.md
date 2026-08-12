@@ -98,7 +98,7 @@ We have the computer control technology to build flying cars now.  If we can fig
 
 ## Conclusion
 
-I have a friend in the Bay Area, who is a rather firm eleectric disciple.  I think it's been a while since he road tripped.  I also suspect he believes road tripping slightly untoward.  The electric car works well for his short trips around the Bay Area with an occasional jaunt out to wine country.
+I have a friend in the Bay Area, who is a rather firm electric disciple.  I think it's been a while since he road tripped.  I also suspect he believes road tripping slightly untoward.  The electric car works well for his short trips around the Bay Area with an occasional jaunt out to wine country.
 
 Much of America disagrees, still driving thousands of miles for summer vacations and hundreds on a weekly basis.  It's a big country and one that's fun to explore.
 
