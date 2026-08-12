@@ -4,11 +4,11 @@ A friend, Matt, just visited from New York.  He flew into Portland and rented a 
 
 Matt went on a bit of a roadtrip, camping in the Olympics and so on before stopping at our house in Tacoma for brunch and a charge.  That did not go so well.  I believe the car was at 24% when he arrived.  Matt intended to go camping again so needed a full charge.
 
-First off, the Ford uses a "SAE J1772 connector for Level 1 and Level 2 AC charging, and a CCS1 (Combined Charging System) plug for DC fast charging."  That is different from the North American Charging Standard (NACS) that a Tesla uses.  
+The Ford uses a "SAE J1772 connector for Level 1 and Level 2 AC charging, and a CCS1 (Combined Charging System) plug for DC fast charging."  That is different from the North American Charging Standard (NACS) that a Tesla uses.  So, we had to find a non Tesla charging station....
 
 ## Charging station 1
 
-So, we had to find a non Tesla charging station.  That led us to this [FLO Charging Station](https://www.google.com/maps/place/FLO+Charging+Station/@47.2651606,-122.4520523,319m/data=!3m1!1e3!4m6!3m5!1s0x549055a97c343381:0x2bfddf9e9f7448c4!8m2!3d47.265201!4d-122.449629!16s%2Fg%2F11t9kvm_5_?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D).  Unfortunately it didn't work.  It's unclear whether that was user error or an issue with the charger.
+That led us to this [FLO Charging Station](https://www.google.com/maps/place/FLO+Charging+Station/@47.2651606,-122.4520523,319m/data=!3m1!1e3!4m6!3m5!1s0x549055a97c343381:0x2bfddf9e9f7448c4!8m2!3d47.265201!4d-122.449629!16s%2Fg%2F11t9kvm_5_?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D).  Unfortunately it didn't work.  It's unclear whether that was user error or an issue with the charger.
 
 ## Charging station 2
 
