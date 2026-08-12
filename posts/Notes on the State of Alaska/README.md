@@ -16,6 +16,8 @@ Experiencing this, it suddenly made sense why all those migratory birds pop up n
 
 Similarly the temperature weren't particularly hot, maybe 70 or 80.  However, I think that since nothing ever got the chance to cool down, it felt toastier than it was.  That, I suspect leads to some of the most horrifying mosquito conditions I have ever experienced.
 
+Previously I'd thought of buying 100 acres and living in Alaska.  The daylight cured me of that.  Somehow endless night is more palatable.  I heard locals observe the same.  Winter wasn't too hard to adjust to.  Summer was.
+
 ## Drunken Forest
 
 I'd read about drunken forests.  Melted permafrost causes shallow root pine forests to stick every which way as they drown in swamp.  This is another thing I understood intellectually.  Seeing 2000 miles of it was something else.  I am amazed we don't read more about this.  From what I can tell a substantial chunk of North America is changing into something else.
