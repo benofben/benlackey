@@ -1,4 +1,4 @@
-# Electric Cars
+# Electric Cars in 2026
 
 A friend, Matt, just visited from New York.  He flew into Portland and rented a Ford Mustang Mach-E.  The car is fully electric.  It's a somewhat cynical use of the Mustang brand that has caused much screaming from longtime Ford loyalists.
 
