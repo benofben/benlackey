@@ -12,7 +12,7 @@ That led us to this [FLO Charging Station](https://www.google.com/maps/place/FLO
 
 ## Charging station 2
 
-Matt looked up a nearby state [here](https://www.google.com/maps/place/Blink+Charging+Station/@47.2662586,-122.4808216,2704m/data=!3m1!1e3!4m10!1m2!2m1!1selectric+vehicle+charging+station!3m6!1s0x54905501ce0f1111:0xf7e7b2a0a0a50eaa!8m2!3d47.2662577!4d-122.4617665!15sCiFlbGVjdHJpYyB2ZWhpY2xlIGNoYXJnaW5nIHN0YXRpb26SASFlbGVjdHJpY192ZWhpY2xlX2NoYXJnaW5nX3N0YXRpb27gAQA!16s%2Fg%2F11ysmzqnf4?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D).  This was a Blink Charging Station.
+Matt looked up a nearby charger [here](https://www.google.com/maps/place/Blink+Charging+Station/@47.2662586,-122.4808216,2704m/data=!3m1!1e3!4m10!1m2!2m1!1selectric+vehicle+charging+station!3m6!1s0x54905501ce0f1111:0xf7e7b2a0a0a50eaa!8m2!3d47.2662577!4d-122.4617665!15sCiFlbGVjdHJpYyB2ZWhpY2xlIGNoYXJnaW5nIHN0YXRpb26SASFlbGVjdHJpY192ZWhpY2xlX2NoYXJnaW5nX3N0YXRpb27gAQA!16s%2Fg%2F11ysmzqnf4?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D).  This was a Blink Charging Station.
 
 I had some concerns that it was in an alley.  We couldn't find it.  My suspicion is that it is inside an apartment building.
 
