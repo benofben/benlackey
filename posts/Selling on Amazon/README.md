@@ -4,7 +4,7 @@ One of my projects is [JRUCS](https://github.com/jrucs).  It's a card game.  The
 
 I've been working with Amazon Web Services (AWS) in a profesisional capacity since 2012.  At that time I was at Terracotta.  We did work to list our product on AWS Marketplace at the request of a large customer who wanted to purchase in a PayGo model rather than the perpetual licenses plus support contracts that were typical of enterprise software at the time.  Since then I've done similar work for companies including DataStax, Couchbase and Neo4j.
 
-So, I have some experience both with Amazon's tech stack and the culture.  Amazon Culture is built around the [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) with customer obsession the first.  It's always interesting being an Amazon Partner.  Many Partners are customers, so it's possible to influence Amazon through that lens.  Additionally, joint customers can be used to influence.  But approaching something as a partner only has little impact.  This mentality keeps focus where it should be.
+So, I have some experience both with Amazon's tech stack and the culture.  Amazon culture is built around the [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) with customer obsession the first.  It's always interesting being an Amazon Partner.  Many Partners are customers, so it's possible to influence Amazon through that lens.  Additionally, joint customers can be used to influence.  But approaching something as a partner only has little impact.  This mentality keeps focus where it should be.
 
 While ".com" and AWS are seperate, a lot of values and technology seem to be shared.  There's also an aspect of dog fooding.  AWS started to serve .com.  When it became apparent the services would be useful to 3rd parties, Amazon began to sell them.
 
@@ -82,7 +82,9 @@ I am excited to get a store at some point.
 
 ## Stocking the Product
 
-So, I had the listing.  Next step was to sell.  There are two options.  A seller can fulfill or you can use Fulfillment by Amazon (FBA).  FBA seemed like a good bet.  I wouldn't have to pack or ship.  And presumably customers could get product much faster than I would be able to deliver it.
+So, I had the listing.  Next step was to sell.  There are two options.  A seller can fulfill or can use Fulfillment by Amazon (FBA).  FBA seemed like a good bet.  I wouldn't have to pack or ship.  And presumably customers could get product much faster than I would be able to deliver it.  
+
+Amazon charges to ship to them, storage and then for the fulfillment itself.  Hilariously Seller Central admonishes sellers to not show up at a fulfillment center attempting to hand deliver product to Amazon.
 
 For this to work, I needed to ship JRUCS product to an Amazon fulfillment center.  Since the product doesn't have a UPC, I needed to label it myself.  Seller Central happily has a little flow that walks you througuh this and even prints the labels.
 
