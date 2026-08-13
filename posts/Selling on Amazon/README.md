@@ -88,7 +88,7 @@ Amazon charges to ship to them, storage and then for the fulfillment itself.  Hi
 
 For this to work, I needed to ship JRUCS product to an Amazon fulfillment center.  Since the product doesn't have a UPC, I needed to label it myself.  Seller Central happily has a little flow that walks you througuh this and even prints the labels.
 
-I initally looked at buying a thermal label printer (from Amazon!).  A decent one is about $500.  In that I did discover an Amazon refurbished option for $300.  Being a cheapskate I tried printing at FedEx instead.  That cost less than $5.  Unfortunately it was on sticker paper, not individual stickers.  My wife was ultimately able to help using cosmetic tweezers.
+I initally looked at buying a thermal label printer (from Amazon!).  A decent one is about $500.  In that I did discover an Amazon refurbished option for $300.  Being a cheapskate I tried printing at FedEx instead.  That cost less than $5.  Unfortunately it was on sticker paper, not individual stickers.  My wife was ultimately able to separate the stickers from their backing paper using cosmetic tweezers.
 
 The result was a box of 30 Fire decks and another of 30 Water.  I printed a UPS label.  Those were then shipped on July 28.  Despite the enormous Kent fulfillment center being rather close by, the packages went across the country to one in Pennsylvannia.
 
