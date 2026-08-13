@@ -92,7 +92,7 @@ I initally looked at buying a thermal label printer (from Amazon!).  A decent on
 
 The result was a box of 30 Fire decks and another of 30 Water.  I printed a UPS label.  Those were then shipped on July 28.  Despite the enormous Kent fulfillment center being rather close by, the packages went across the country to one in Pennsylvannia.
 
-In poking around, I noticed options to spread product across multiple fulfillment centers.  There were even freight options so you could ship from a factory direct to an Amazon fullfillment center using Amazon services.  It's really neat how Amaozn is exposing its supply chain to its vendors.
+In poking around, I noticed options to spread product across multiple fulfillment centers.  There were even freight options so you could ship from a factory direct to an Amazon fullfillment center using Amazon services.  It's really neat how Amazon is exposing its supply chain to its vendors.
 
 Anyway... the package showed up 8/4.  For some reason the product didn't show as in stock until 8/9.  So it languished in the warehouse for a few days.  At that point both Fire and Water showed in stock.
 
