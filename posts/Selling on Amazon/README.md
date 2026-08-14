@@ -118,7 +118,7 @@ About 12 hours later Fire showed back in stock, though the ticket hadn't yet bee
 
 ## Conclusion
 
-It's been a really heavy lift to get listed.  I started work on 7/2.  It's now 8/13.  If JRUCS were my sole livelihood and I was dependent on Amazon as my main channel, it this would be a disaster.  
+It's been a really heavy lift to get listed.  I started work on 7/2.  It's now 8/13.  If JRUCS were my sole livelihood and I was dependent on Amazon as my main channel, this would be a disaster.  
 
 The engine Amazon has built is amazing.  But, it seems intended for very large retailers.  I wonder a bit if it makes business sense to invest in better supporting startups.  It's possible Amazon has intentionally left that market to the Etsys and eBays of the world, then cherry picking the companies that rise from that.
 
