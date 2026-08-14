@@ -114,7 +114,7 @@ When Amazon sent the trademark email they marked Fire as out of stock.  I asked 
 
 "Our research shows that the 30 units are currently in a virtual short container, which indicates the units are physically lost in our fulfillment center. The system will automatically attempt to virtually remove these units within 72-96 hours. If the units are physically located during this time, they will be automatically added back to your available inventory."
 
-About 12 hours later Fire showed back in stock, though the ticket hadn't yet been updated.  This made me thing the packages were found.
+About 12 hours later Fire showed back in stock, though the ticket hadn't yet been updated.  This made me think the packages were found.
 
 ## Conclusion
 
