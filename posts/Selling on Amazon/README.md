@@ -96,7 +96,7 @@ In poking around, I noticed options to spread product across multiple fulfillmen
 
 Anyway... the package showed up 8/4.  For some reason the product didn't show as in stock until 8/9.  So it languished in the warehouse for a few days.  At that point both Fire and Water showed in stock.
 
-## More Trademark Fun
+## More Trademark Fun and Stocking Challenges
 
 On 8/10, I got an email from Amazon telling me to "Address trademark violation to prevent listings deactivation."  I'm not certain but it seems another AI bot had flagged the Fire listing (but not the nearly identical Water one!) for trademark concerns.  What trademark concerns the email did not state.
 
@@ -104,17 +104,19 @@ Initially I thought the concern was related to the JRUCS Brand Qualification App
 
 Checking the USPS trademark search, I saw there are about 900 alchemy trademarks covering everything from cannabis to cosmetics.  Of course, I don't really want an alchemy trademark.  Chatting with Gemini a bit, I uncovered the legal term "descriptive fair use."  That is, the game is about alchemy, a 1000 year old proto science.  The word is being used to describe that.
 
-On 8/13, Amazon reinstated the Fire listing and it showed in stock again.  However, the Water listing was then removed.  One interesting thing is that the process was different.  Fire showed out of stock.  Water just went 404.  Updates in Seller Central were no longer accepted either.  So, I opened a ticket for that.
-
-I'm now waiting on Amazon to decide there.
-
-## Stocking Challenges
-
-When Amazon sent the trademark email they marked Fire as out of stock.  I asked about that.  The support person opened a new ticket that Amazon then responded to.  The text of the email is a bit astounding.  It includes:
+On 8/13, Amazon reinstated the Fire listing.  When Amazon sent the trademark email they marked Fire as out of stock.  Despite being reinstated, the listing showed out of stock.  I asked about that.  The support person opened a new ticket that Amazon then responded to.  The text of the email I got on 8/13 is a bit astounding.  It includes:
 
 "Our research shows that the 30 units are currently in a virtual short container, which indicates the units are physically lost in our fulfillment center. The system will automatically attempt to virtually remove these units within 72-96 hours. If the units are physically located during this time, they will be automatically added back to your available inventory."
 
-About 12 hours later Fire showed back in stock, though the ticket hadn't yet been updated.  This made me think the packages were found.
+About 12 hours later on 8/14, Fire showed back in stock, though the ticket hadn't yet been updated.  This made me think the packages were found.  The ticket had inexplicably flipped from English to Chinese, both in the portal and email.  Translating the Chinese I got:
+
+"Based on our analysis, the error code provided in the screenshots, batch ID, overview, or internal logs is not related to a brand name gating issue. Therefore, we are closing this case. For more information regarding Amazon's brand name policy, please refer to..."
+
+So, Amazon had forgotten or resolved the original reason they took the listing down and reinstated it.  Given that the Fire listing was showing live and in stock, I chose not to rock the boat and just ignore the ticket until they closed it.
+
+As all that was going on, Amazon removed the Water listing on 8/13.  One interesting thing is that the process was different.  Fire showed out of stock.  The entire Water listing page was replaced with a cutesy "dogs of Amazon" 404 screen.  Updates in Seller Central were no longer accepted either.  So, I opened a ticket for that.
+
+On 8/14, Amazon reinstated the Water listing, though it showed out of stock.  I chased the ticket on the 30 decks available somewhere in a Pennsylvannia fulfillment center for that one.  Happily that ticket still seemed to be entirely in English.
 
 ## Conclusion
 
