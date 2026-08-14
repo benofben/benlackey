@@ -104,6 +104,8 @@ Initially I thought the concern was related to the JRUCS Brand Qualification App
 
 Checking the USPS trademark search, I saw there are about 900 alchemy trademarks covering everything from cannabis to cosmetics.  Of course, I don't really want an alchemy trademark.  Chatting with Gemini a bit, I uncovered the legal term "descriptive fair use."  That is, the game is about alchemy, a 1000 year old proto science.  The word is being used to describe that.
 
+On 8/13, Amazon reinstated the Fire listing and it showed in stock again.  However, the Water listing was then removed.  One interesting thing is that the process was different.  Fire showed out of stock.  Water just went 404.  Updates in Seller Central were no longer accepted either.  So, I opened a ticket for that.
+
 I'm now waiting on Amazon to decide there.
 
 ## Stocking Challenges
@@ -111,6 +113,8 @@ I'm now waiting on Amazon to decide there.
 When Amazon sent the trademark email they marked Fire as out of stock.  I asked about that.  The support person opened a new ticket that Amazon then responded to.  The text of the email is a bit astounding.  It includes:
 
 "Our research shows that the 30 units are currently in a virtual short container, which indicates the units are physically lost in our fulfillment center. The system will automatically attempt to virtually remove these units within 72-96 hours. If the units are physically located during this time, they will be automatically added back to your available inventory."
+
+About 12 hours later Fire showed back in stock, though the ticket hadn't yet been updated.  This made me thing the packages were found.
 
 ## Conclusion
 
