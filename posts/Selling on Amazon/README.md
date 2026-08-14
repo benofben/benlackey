@@ -118,6 +118,12 @@ As all that was going on, Amazon removed the Water listing on 8/13.  One interes
 
 On 8/14, Amazon reinstated the Water listing, though it showed out of stock.  I chased the ticket on the 30 decks available somewhere in a Pennsylvannia fulfillment center for that one.  Happily that ticket still seemed to be entirely in English.
 
+## Delivery Times
+
+I'd selected the Fulfillment by Amazon (FBA) option both because it was likely cheaper than anything I could accomplish at garage operation scale and I assumed much faster.  So, I was a bit suprised to see the fullfillment times.  On 8/14, Fire was showing in stock.  Logged into my personal prime account, it showed "FREE delivery August 25 - 26 for Prime members."  So, 12-14 days.  
+
+This seems a bit crazy.  I know the decks are somewhere in Pennsylvannia.  Sure, I'm on the other side of the country.  But even ground doesn't take two weeks.  In fact, we know empirically that it took a 29lb package of 30 decks from July 29 to August 4 to get to Amazon.  So, 7 days.  That was via UPS ground.  I wonder a bit if Amazon is sandbagging heavily here.  To quote Scotty "Oh, you didn't tell him how long it would really take, did ya?"
+
 ## Conclusion
 
 It's been a really heavy lift to get listed.  I started work on 7/2.  It's now 8/13.  If JRUCS were my sole livelihood and I was dependent on Amazon as my main channel, this would be a disaster.  
