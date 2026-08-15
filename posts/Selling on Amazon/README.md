@@ -68,6 +68,14 @@ So, I had three listings!
 
 This whole process took daily work from July 2 to July 23.  It was pretty buggy and there is a lot that could be done to improve it.
 
+# Age Grading
+
+on July 25, after I thought I'd made it through the listing gauntlet, I got another email: "Some of your listings are at risk of deactivation due to missing mandatory compliance requirements for your products."
+
+The listing form required a minimum age for the product.  That made a bit of sense as it's a toy, even if it is one adults sometimes play with.  I had rather arbitrarily chosen 120 months.  That was below 12 years, so had triggered the need for some sort of compliance documentation.  I did a cursory review, realized it was hideously complex and just adjusted the age to 18*12=216 months.  That resolved the issue.
+
+I thought it was a one off, but that was a sign of further ups and downs to come...
+
 ## Creating a Store
 
 A brand can have a store.  That is managed on a different portal linked from Seller Central.  I went through that wizard and quickly realized that I needed a trademark to make a store.  That makes a certain bit of sense but does create some overhead.
