@@ -128,6 +128,8 @@ As all that was going on, Amazon removed the Water listing on 8/13.  One interes
 
 On 8/14, Amazon reinstated the Water listing, though it showed out of stock.  I chased the ticket on the 30 decks available somewhere in a Pennsylvannia fulfillment center for that one.  Happily that ticket still seemed to be entirely in English.
 
+On 8/16 the Water listing showed back in stock.  So, everything was good!
+
 ## Delivery Times
 
 I'd selected the Fulfillment by Amazon (FBA) option both because it was likely cheaper than anything I could accomplish at garage operation scale and I assumed much faster.  So, I was a bit suprised to see the fullfillment times.  On 8/14, Fire was showing in stock.  Logged into my personal prime account, it showed "FREE delivery August 25 - 26 for Prime members."  So, 12-14 days.  
