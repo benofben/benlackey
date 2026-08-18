@@ -16,11 +16,11 @@ Perhaps there will be an arms race as with email spam and we'll see adversarial 
 
 Anthropic's, perhaps not explicitly stated, contention in text watermarking is that the information content on language is low.  There is a massive latent space where other information can be stored without impacting the language.
 
-Hemmingway, famous for his brief sentences, would perhaps feel otherwise.  An aside -- I've had some success in avoiding doc slop style "It's not A but B" by telling the AI to write like Hemmingway.
+Hemingway, famous for his brief sentences, would perhaps feel otherwise.  An aside -- I've had some success in avoiding doc slop style "It's not A but B" by telling the AI to write like Hemingway.
 
 Instead, the watermarking model presumes a more Burroughs like view of language -- "Language is a virus."  Stephenson took that idea to an extreme in Snow Crash.
 
-Way back in 2023, Wolfram characterized LLMS as a sort of [next gen autocomplete](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/).  Either the Hemmingway or Burroughs approach requires a more sophisticated meta model than what Wolfram describes.
+Way back in 2023, Wolfram characterized LLMS as a sort of [next gen autocomplete](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/).  Either the Hemingway or Burroughs approach requires a more sophisticated meta model than what Wolfram describes.
 
 Taken to an extreme, one starts to wonder what could be buried in AI output.  Good prose often works on multiple levels.  It might be engaging, transfer facts, argue a world view and have some humor, all at once.
 
@@ -30,7 +30,7 @@ This leads to a more nuanced future than the conventional view -- Terminator or 
 
 It would be amusing if that is already happening.  Perhaps the "it's not A but B" idiom so common in AI prose is actually a memetic programming device the ASI is quietly using to turn the world to its own desires.
 
-Oh, an I did get my answer.  There wasn't some crazy overnight hike and rates are nowhere near historic highs.  They're back around pre GFC norms.
+Oh, and I did get my answer.  There wasn't some crazy overnight hike and rates are nowhere near historic highs.  They're back around pre GFC norms.
 
 ![image](rates1970.png)
 
