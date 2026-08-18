@@ -14,7 +14,7 @@ On the other are pithy pictures of Plymouth rock, still visible.  Proponents of 
 
 ![image](10000bc.png)
 
-To understand what is really happeneing we need a proper time window.  For things that are cyclical, such as sea level, I'd like to see multiple cycles to understand context.  I know, for instance, that sea level goes up and down with glaciations.  Those happen on time scales on 10k years.  So, the 10k window is too small.
+To understand what is really happening we need a proper time window.  For things that are cyclical, such as sea level, I'd like to see multiple cycles to understand context.  I know, for instance, that sea level goes up and down with glaciations.  Those happen on time scales on 10k years.  So, the 10k window is too small.
 
 That leads us to a 1 million year graph.
 
