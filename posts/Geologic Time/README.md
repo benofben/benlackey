@@ -57,7 +57,7 @@ We get another one of this "OMG we're all dead" kinda graphs.  Al Gore famously 
 
 ![image](co21m.png)
 
-But, let's keep our wits.  The earth probably looked like this before.  WHen?  Zooming out to 100m we see.
+But, let's keep our wits.  The earth probably looked like this before.  When?  Zooming out to 100m we see.
 
 ![image](co2100m.png)
 
@@ -67,7 +67,11 @@ Now we see that Gore was being a bit melodramatic.  CO2 levels are high and spik
 
 Back to our extremes, let's zoom all the way out.  We see now that CO2 levels are actually near all time lows.  Though, earth wouldn't have been a great place to be a homnid in 4.4B BC
 
-Short of us dropping a black hole into the earth's center, collapsing the planet, it's difficult to imagine a scenario where we destroy all life on earth. Even scenarios where we destroy all animals are hard to come by.  What is much more imaginable is that we screw things up to a sufficent degree that millions or billions become displaced or starve.
+Short of us dropping a black hole into the earth's center, collapsing the planet, it's difficult to imagine a scenario where we destroy all life on earth. Even scenarios where we destroy all animals are hard to come by.  We're not capable of building much that will last 1000 years, certainly not 1m.  In all likelihood our longest living artifacts will be those that made it into space.
+
+That, and our contribution to entropy...  While we can't create much that is long lived, we can perhaps cause extinctions significant enough to be viewable in the fossil record, even if life knits itself back together with our passing...
+
+On our time scale, it is highly possible that we screw things up to a sufficent degree that millions or billions become displaced or starve.
 
 Climate changes have causes smaller scale impacts with humans throughout our history.  It's no accident that our civilzation dates from 10k years ago as the ice sheets retreated.  Somewhat more recently, Scara Brae was a prosperous fishing village 5000 year ago.  One theory is that climate changes, colder in this case, collapsed the fisheries and their population with it.
 
