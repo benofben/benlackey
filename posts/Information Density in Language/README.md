@@ -30,8 +30,10 @@ This leads to a more nuanced future than the conventional view -- Terminator or 
 
 It would be amusing if that is already happening.  Perhaps the "it's not A but B" idiom so common in AI prose is actually a memetic programming device the ASI is quietly using to turn the world to its own desires.
 
-Oh, an I did get my answer.  Rates are nowhere near historic highs.  They're climbing back to pre GFC norms.
+Oh, an I did get my answer.  There wasn't some crazy overnight hike and rates are nowhere near historic highs.  They're back around pre GFC norms.
 
 ![image](rates1970.png)
 
 ![image](rates1900.png)
+
+It does make me wonder if AI can help us deal with clickbait news articles.  In another Stephenson book, REAMDE, he imagined personal AI filters making sure garbage information never even got to your visiaul cortex.  I wouldn't at all mind such a filter.  It could black out the TV screen in a restaurant.  It could black out garbage in any social media feed or perhaps present a better feed consisting only of information useful to me, not what some other entity wants me to see.
