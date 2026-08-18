@@ -39,15 +39,15 @@ Oceans formed 4.4B years ago.  The depth relative to present numbers break down 
 
 Amusingly, the unprecedented trend is not toward more ocean but less.  With our multi billion year outlook, we see less and less ocean, not more.
 
-Now, let's zoom way back in.  When looking at the 1 million graph, we were able to see several ice ages.  So, we got an idea how sea levels changed over time in cycles.  With this representative data we cnan then ask what a represenative change over a particular period of time is.  For instance:
+Now, let's zoom way back in.  When looking at the 1 million graph, we were able to see several ice ages.  So, we got an idea how sea levels changed over time in cycles.  With this representative data we can then ask what a represenative change over a particular period of time is.  For instance:
 
 "What is the typical annual rate of change in sea level over this period?"
 
 Gemini gave this --
 
-Overall 1-Million-Year Average: If you simply take the total absolute vertical distance traveled across all cycles (~10 complete swings of $\sim 130\text{ meters}$ down and up $\approx 2,600\text{ meters}$ total movement) divided by 1,000,000 years, the baseline background velocity is roughly 2.5 to 3 mm/year in absolute magnitude.
+Overall 1-Million-Year Average: If you simply take the total absolute vertical distance traveled across all cycles (~10 complete swings of ~130 meters down and up ~ 2,600 meters total movement) divided by 1,000,000 years, the baseline background velocity is roughly 2.5 to 3 mm/year in absolute magnitude.
 
-Modern Anthropogenic Comparison: Today’s satellite-measured rate of $\sim 4.5\text{ mm/year}$ is roughly 10 to 20 times faster than the natural late-interglacial background rate, and it is approaching the speeds normally seen only during major deglacial terminations—despite occurring during an already warm interglacial when major continental ice sheets (outside Greenland and Antarctica) no longer exist.
+Modern Anthropogenic Comparison: Today’s satellite-measured rate of ~ 4.5 mm/year is roughly 10 to 20 times faster than the natural late-interglacial background rate, and it is approaching the speeds normally seen only during major deglacial terminations—despite occurring during an already warm interglacial when major continental ice sheets (outside Greenland and Antarctica) no longer exist.
 
 ## CO2
 
