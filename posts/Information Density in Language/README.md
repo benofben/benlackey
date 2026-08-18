@@ -29,3 +29,9 @@ AI written prose might do the same and more.  It could, for one, embed a waterma
 This leads to a more nuanced future than the conventional view -- Terminator or The Forbin Project.  Instead of strong arming, an AI might gently manipulate.  [David Brin](https://www.amazon.com/ailien-minds-Advice-natural-hybrid/dp/B0GQMK71MZ/) argues somewhat similar points in his most recent book, that ASI would be too smart to engage in those apocalyptic movie scenarios.
 
 It would be amusing if that is already happening.  Perhaps the "it's not A but B" idiom so common in AI prose is actually a memetic programming device the ASI is quietly using to turn the world to its own desires.
+
+Oh, an I did get my answer.  Rates are nowhere near historic highs.  They're climbing back to pre GFC norms.
+
+![image](rates1970.png)
+
+![image](rates1900.png)
