@@ -52,7 +52,7 @@ Interest payments go from 3.3% of median household income to 8%.  Along with hea
 
 ## When will it end?
 
-"If something cannot go on forever, it will stop." - Herbet Stein
+"If something cannot go on forever, it will stop." - Herbert Stein
 
 This regime clearly cannot continue indefinitely.  Eventually the tax burden will be greater than income.  The debt creation will outpace any market for that debt.  Somewhere in that cycle this will end.
 
