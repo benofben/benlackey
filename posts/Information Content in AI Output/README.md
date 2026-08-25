@@ -22,6 +22,6 @@ Suddenly, I think I know why so much AI writing is bad -- it has very little inf
 
 Novels must be novel.
 
-Rick Ruben says he has no skills other than aethetic taste and confidence in said aesthetic.  He wrote a whole book on this.  I wonder a bit if future artists are going to be a sort of Rick Ruben without the underlying Red Hot Chili Peppers.  That is, artists will input their tastes and then sift through the output using their aesthetic judgement to pull appealing random number seeds from it.
+Rick Rubin says he has no skills other than aethetic taste and confidence in said aesthetic.  He wrote a [book](https://www.amazon.com/dp/0593652886) on this.  I wonder a bit if future artists are going to be a sort of Rick Rubin without the underlying Red Hot Chili Peppers.  That is, artists will input their tastes and then sift through the output using their aesthetic judgement to pull appealing random number seeds from it.
 
 This is arguable already happening.  [Gossip Goblin](https://www.youtube.com/@Gossip.Goblin) is one example.
