@@ -16,7 +16,7 @@ I proudly sent that to a text group with friends.  Weirdly it got identified as 
 
 The summary from Gemini bears a startling similarity to the source markdown file.  [This cartoon had a pithy summary of the situation](https://marketoonist.com/2023/03/ai-written-ai-read.html).
 
-But, it got me thinking about AI as a new sort of compression algorithm.  Prompt + AI Model = Output.  So, if you want to get the output to a user who has the same model you do, you could potentially just share the prompt.  There are stochastic issues with that which are perhaps addressable through random seeds, temperature configuation and such.
+But, it got me thinking about AI as a new sort of compression algorithm.  Prompt + AI Model = Output.  So, if you want to get the output to a user who has the same model you do, you could potentially just share the prompt.  There are stochastic issues with that which are perhaps addressable through random seeds, temperature configuation and such.  RAG, knowledge base and grounding approaches could help here too.
 
 Suddenly, I think I know why so much AI writing is bad -- it has very little information content.  That is, it's two sentences of prompt for a page of text.  The reader, if knowledgable on the subject, already knows the consensus view in the decompressed page of text.  So the only information is the prompt buried in there.
 
