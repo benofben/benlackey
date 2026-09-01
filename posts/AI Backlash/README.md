@@ -52,3 +52,17 @@ I suspect this comes down to information content, in the information theory sens
 Other work, such as a one sentence prompt novel, is just schlock.  Of course, AI wasn't neccessary to create this sort of schlock.  [Pride, Prejudice and Zombies](https://www.amazon.com/gp/product/B01MY58ICH) was written in 2017.  There are hundreds of derivative Star Trek and Star Wars books.  Though I will admit there are some gems hidden in the piles of derivative dreck too.  That is true of all art.
 
 I wonder what the correct measure of information is.  I was reading up again on mutual information and entropy.  It's a subject I seem to come back to in some context every five years or so. I think there's something there but I can't quite articulate it yet.  [Here's](https://wideopenweb.github.io/feed/index.html?owner=benofben&repo=benlackey&post=Information+Content+in+AI+Output) a lightweight writeup.
+
+## Art requires effort
+
+This can be characterized as "A person typing a prompt to generate something isn't an artist."
+
+I think you can trivially concoct a slippery slope here.
+
+"Someone typing a novel into a word processor doesn’t make them an artist."
+
+Or for a more piecemeal part of a final artistic product
+
+"Someone typing a screenplay into a word processor doesn’t make them an artist."
+
+On the visual front, you have painters like Jackson Pollock and my two year old.  The output has a certain similarlity.  Unfortunately his productions are not worth millions, though I would argue they constitute a sort of art.
