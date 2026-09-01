@@ -29,7 +29,17 @@ A trivial one is to look at Google search pre AI.  It scraped the internet in a 
 
 You might also consider your own mind, trained on any number of artistic works, not properly licensed for reproduction.  Nonetheless, your mind uses those works to create derivatives that we call civilization.
 
-There are other analogies.  Musicians love stealing from each other.  The entire pre written musical tradition must have been just that.  More recently we have Elvis covering the works of others.  We have Vanilla Ice borrowing from David Bowie.  Then there are DJs sampling, mixing together new works from what came before.  
+There are other analogies.  Musicians love stealing from each other.  The entire pre written musical tradition must have been just that.  
+
+Elvis famously performed music others wrote.  His performances (and probably skin color in the mid century South...) made the songs popular.  Similar questions can be raised for any "cover artist," asking if they are in fact artists.
+
+Vanilla Ice, despite his protests to the contrary, likely borrowed a bit from David Bowie.  Funny enough "Man who Sold the World" as covered by Nirvana is currently playing in the burrito shop I'm sat in.
+
+More recently DJs have made art sampling.  DJ Shadow is a favorite of mine.  Sampling caused all manner of hand wringing and lawsuits by the record companies and the artists they represent.
+
+Then there's pop music, much I which I understand is a handful of clips reassembled under Rick Rubin's watchful gaze.
+
+I am skeptical there is a fundamental difference between two turntables and a microphone, Pro Tools and your favorite AI.  The line is getting similarly blurry in the Adobe suite with functionality like "generative fill."
 
 When prodded, the concern underlying this one isn't the AI.  Rather it's a lack of attribution and more crucially no distribution of royalties.  In short the problem isn't artistic, it's economic.
 
