@@ -66,3 +66,5 @@ Or for a more piecemeal part of a final artistic product
 "Someone typing a screenplay into a word processor doesn’t make them an artist."
 
 On the visual front, you have painters like Jackson Pollock and my two year old.  The output has a certain similarlity.  Unfortunately his productions are not worth millions, though I would argue they constitute a sort of art.
+
+Ultimate the underlying argument here comes back to information theory.  The bad art isn't novel, doesn't excite, is missing something.  I suspect that is because it is generic output from the AI.  That means it is generic human knowledge.  Which means it is already well understood in our society.  So, it doesn't make good art.
