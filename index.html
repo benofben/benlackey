@@ -1,0 +1,597 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title id="pageTitle">feed</title>
+    <style>
+        .topbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:8px}
+        .user-badge{display:flex;gap:8px;align-items:center}
+        .user-badge img{width:28px;height:28px;border-radius:999px}
+        :root{--bg:#0f1724;--panel:#0b1220;--muted:#94a3b8;--accent:#6ee7b7;--card:#0b1726}
+        html,body{height:100%;width:100%;margin:0;overflow-x:hidden;overflow-y:auto;font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;color:#e6eef6;background:linear-gradient(180deg,var(--bg),#051225)}
+        .wrap{display:flex;width:100%;height:100vh;gap:12px;padding:16px;box-sizing:border-box;max-width:100%}
+        .sidebar{width:360px;background:linear-gradient(180deg,var(--panel),#071427);border-radius:8px;padding:12px;box-shadow:0 6px 18px rgba(2,6,23,.6);overflow:auto}
+        .main{flex:1;max-width:100%;background:linear-gradient(180deg,var(--card),#071427);border-radius:8px;padding:12px;overflow:auto;min-width:0}
+        .inputs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+        input,button,select{background:#041226;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:8px;border-radius:6px}
+        button{cursor:pointer;color:#05201a;background:linear-gradient(180deg,var(--accent),#2de1b0);border:none}
+        ul.tree{list-style:none;padding-left:6px;margin:0}
+        li.item{padding:6px 8px;border-radius:6px;margin:4px 0;display:flex;justify-content:space-between;align-items:center;cursor:pointer}
+        li.item.folder{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent)}
+        li.item.file{background:transparent}
+        .meta{font-size:12px;color:var(--muted)}
+        .viewer{height:100%;display:flex;flex-direction:column}
+        .viewer .title{font-weight:600;color:#e6f6ef;margin-bottom:8px}
+        .viewer .content{flex:1;overflow:auto;background:#021220;border-radius:6px;padding:12px;color:#dbeef5;min-width:0;max-width:100%}
+        .viewer .content *{max-width:100%}
+        pre{white-space:pre-wrap;word-break:break-word;overflow-x:auto;max-width:100%;overflow-wrap:break-word}
+        a.link{color:var(--accent);text-decoration:none}
+        .small{font-size:12px;color:var(--muted)}
+        .controls{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+    </style>
+    <!-- Marked for Markdown rendering and highlight.js for code highlighting -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <!-- Left sidebar removed. Main viewer occupies full layout. -->
+
+        <main class="main">
+            <div class="topbar">
+                <div style="display:flex;gap:8px;align-items:center">
+                    <button id="signinBtn">Sign in with GitHub</button>
+                    <button id="signoutBtn" style="display:none;background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,.04)">Sign out</button>
+                    <button id="helpBtn" title="How to create a GitHub token" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">How to get a token</button>
+                </div>
+                <div id="userInfo" class="user-badge small"></div>
+            </div>
+            <!-- Help modal for PAT creation -->
+            <div id="helpModal" style="display:none;position:fixed;inset:0;align-items:center;justify-content:center;z-index:60">
+                <div style="position:absolute;inset:0;background:rgba(0,0,0,0.6)"></div>
+                <div style="position:relative;max-width:720px;margin:auto;background:#071427;border-radius:8px;padding:18px;color:#dbeef5;box-shadow:0 10px 30px rgba(2,6,23,.7)">
+                    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+                        <div style="font-weight:700">Create a GitHub Personal Access Token</div>
+                        <button id="helpClose" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Close</button>
+                    </div>
+                    <div class="small" style="line-height:1.4">
+                        <p>To avoid GitHub API rate limits, create a Personal Access Token (PAT) and paste it into the Sign-in prompt.</p>
+                        <ol>
+                            <li>Open GitHub settings: <a class="link" href="https://github.com/settings/tokens" target="_blank">https://github.com/settings/tokens</a></li>
+                            <li>Choose <strong>Generate new token</strong> (classic) or create a fine-grained token.</li>
+                            <li>No scopes are required for reading public repositories; if you want private repo access, grant appropriate repo scopes.</li>
+                            <li>Copy the token and paste it into the app when prompted.</li>
+                        </ol>
+                        <p style="margin-top:6px">See GitHub docs for details: <a class="link" href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" target="_blank">Creating a personal access token</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="viewer">
+                    <div class="title" id="fileTitle">No file selected</div>
+                    <div class="meta small" id="fileMeta"></div>
+                    <div id="status" class="small">Status messages will appear here.</div>
+                    <div class="content" id="fileContent">Select a file in the tree to preview it here.</div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // GitHub Copilot: repo-browser single-file implementation (sidebar removed)
+        const params = new URLSearchParams(location.search);
+        let owner = params.get('owner') || 'octocat';
+        let repo = params.get('repo') || 'Hello-World';
+        // token may come from query param or previously-saved localStorage PAT
+        let token = params.get('token') || localStorage.getItem('gh_token') || '';
+        const statusEl = document.getElementById('status');
+        const fileTitle = document.getElementById('fileTitle');
+        const fileContent = document.getElementById('fileContent');
+        const fileMeta = document.getElementById('fileMeta');
+        let defaultBranch = 'main';
+
+        // Update page title with repo name
+        document.getElementById('pageTitle').textContent = repo;
+
+        // Rewrite relative image src attributes inside `rootEl` to raw.githubusercontent URLs
+        function rewriteRelativeImageSrcs(rootEl, basePath) {
+            if (!rootEl) return;
+            basePath = (basePath || '').replace(/^\/*|\/*$/g, '');
+            const imgs = rootEl.querySelectorAll('img');
+            imgs.forEach(img => {
+                const src = img.getAttribute('src') || '';
+                if (!src) return;
+                // absolute or protocol-relative or data URLs are left alone
+                if (/^(https?:|data:|\/\/)/i.test(src)) return;
+                // build a raw.githubusercontent base for resolution
+                const baseRaw = `https://raw.githubusercontent.com/${owner}/${repo}/${defaultBranch}/${basePath ? basePath + '/' : ''}`;
+                try {
+                    img.src = new URL(src, baseRaw).href;
+                } catch (e) {
+                    // fallback: simple concatenation
+                    img.src = baseRaw + src.replace(/^\/*/, '');
+                }
+            });
+        }
+
+        function setStatus(text, isError = false) {
+            statusEl.textContent = text;
+            statusEl.style.color = isError ? '#ffb4b4' : '';
+        }
+
+        function apiFetch(url, opts = {}) {
+            const headers = opts.headers || {};
+            headers['Accept'] = 'application/vnd.github.v3+json';
+            if (token) headers['Authorization'] = 'token ' + token;
+            return fetch(url, {...opts, headers})
+                .then(async res => {
+                    if (!res.ok) {
+                        const text = await res.text().catch(()=>res.statusText);
+                        throw new Error(res.status + ' ' + res.statusText + (text ? ' — ' + text.slice(0,400) : ''));
+                    }
+                    return res.json();
+                });
+        }
+
+        // Token handling and UI
+        const signinBtn = document.getElementById('signinBtn');
+        const signoutBtn = document.getElementById('signoutBtn');
+        const userInfoEl = document.getElementById('userInfo');
+
+        function setToken(t) {
+            token = t || '';
+            if (token) {
+                localStorage.setItem('gh_token', token);
+            } else {
+                localStorage.removeItem('gh_token');
+            }
+            updateUserUI();
+            // reload posts to use the new token (avoid rate limits)
+            loadPosts(owner, repo);
+        }
+
+        function clearToken() {
+            setToken('');
+        }
+
+        async function fetchUser() {
+            if (!token) return null;
+            try {
+                const user = await apiFetch('https://api.github.com/user');
+                return user;
+            } catch (e) {
+                return null;
+            }
+        }
+
+        async function updateUserUI() {
+            const u = await fetchUser();
+            if (u && u.login) {
+                userInfoEl.innerHTML = `<img src="${u.avatar_url}" alt="avatar"> <span style="font-weight:700;color:#e6f5ee">${u.login}</span>`;
+                signoutBtn.style.display = '';
+                signinBtn.style.display = 'none';
+                setStatus('Signed in as ' + u.login);
+            } else {
+                userInfoEl.textContent = '';
+                signoutBtn.style.display = 'none';
+                signinBtn.style.display = '';
+                if (token) setStatus('Invalid or expired token. Please sign in again.', true);
+            }
+        }
+
+        signinBtn.addEventListener('click', async () => {
+            const pasted = prompt('Paste a GitHub Personal Access Token (no scopes required for public repos)');
+            if (pasted && pasted.trim()) {
+                setToken(pasted.trim());
+            }
+        });
+
+        signoutBtn.addEventListener('click', () => {
+            clearToken();
+            setStatus('Signed out.');
+        });
+
+        // initialize UI from existing token (if any)
+        updateUserUI();
+        // Help modal controls
+        const helpBtn = document.getElementById('helpBtn');
+        const helpModal = document.getElementById('helpModal');
+        const helpClose = document.getElementById('helpClose');
+        if (helpBtn && helpModal) {
+            helpBtn.addEventListener('click', () => {
+                helpModal.style.display = 'flex';
+            });
+            // close when clicking the backdrop (modal container)
+            helpModal.addEventListener('click', (e) => {
+                if (e.target === helpModal) helpModal.style.display = 'none';
+            });
+            if (helpClose) helpClose.addEventListener('click', () => { helpModal.style.display = 'none'; });
+            // close on Escape
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && helpModal.style.display === 'flex') helpModal.style.display = 'none';
+            });
+        }
+
+        // decode base64 from API into UTF-8 string
+        function decodeBase64ToUtf8(b64) {
+            try {
+                const binary = atob(b64.replace(/\s/g, ''));
+                const bytes = new Uint8Array(binary.length);
+                for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+                return new TextDecoder().decode(bytes);
+            } catch(e) {
+                // fallback
+                return atob(b64);
+            }
+        }
+
+        function createListItem(entry, parentPath) {
+            const li = document.createElement('div');
+            li.className = 'item ' + (entry.type === 'dir' ? 'folder' : 'file');
+            li.dataset.path = entry.path;
+            li.innerHTML = `
+                <div style="display:flex;gap:8px;align-items:center">
+                    <span style="opacity:.85">${entry.type === 'dir' ? '📁' : '📄'}</span>
+                    <div>
+                        <div style="font-weight:600;color:#e6f5ee">${entry.name}</div>
+                        <div class="meta">${entry.type === 'dir' ? 'Directory' : (entry.size ? (Math.round(entry.size/1024)+' KB') : '')}</div>
+                    </div>
+                </div>
+                <div style="opacity:.7;font-size:12px">${entry.type==='dir' ? 'Expand' : 'Open'}</div>
+            `;
+            li.addEventListener('click', async (e) => {
+                e.stopPropagation();
+                if (entry.type === 'dir') {
+                    if (li._loaded) {
+                        const child = li.querySelector('ul');
+                        if (child) child.remove();
+                        li._loaded = false;
+                        return;
+                    }
+                    try {
+                        li._loading = true;
+                        setStatus('Loading directory ' + entry.path + '...');
+                        const data = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(entry.path)}`);
+                        renderDirectoryUnder(li, data);
+                        li._loaded = true;
+                        setStatus('Directory loaded.');
+                    } catch (err) {
+                        setStatus('Failed to load directory: ' + err.message, true);
+                    } finally {
+                        li._loading = false;
+                    }
+                } else {
+                    // file
+                    openFile(entry);
+                }
+            });
+            return li;
+        }
+
+        function renderDirectory(entries) {
+            const root = document.getElementById('treeRoot');
+            if (!root) return;
+            root.innerHTML = '';
+            const ul = document.createElement('ul');
+            ul.className = 'tree';
+            entries.sort((a,b) => (a.type === b.type) ? a.name.localeCompare(b.name) : (a.type === 'dir' ? -1 : 1));
+            entries.forEach(entry => {
+                const itemLi = createListItem(entry);
+                const wrapper = document.createElement('li');
+                wrapper.style.listStyle = 'none';
+                wrapper.appendChild(itemLi);
+                ul.appendChild(wrapper);
+            });
+            root.appendChild(ul);
+        }
+
+        function renderDirectoryUnder(parentEl, entries) {
+            const ul = document.createElement('ul');
+            ul.className = 'tree';
+            entries.sort((a,b) => (a.type === b.type) ? a.name.localeCompare(b.name) : (a.type === 'dir' ? -1 : 1));
+            entries.forEach(entry => {
+                const itemLi = createListItem(entry);
+                const wrapper = document.createElement('li');
+                wrapper.style.listStyle = 'none';
+                wrapper.appendChild(itemLi);
+                ul.appendChild(wrapper);
+            });
+            parentEl.appendChild(ul);
+        }
+
+        async function openFile(entry) {
+            try {
+                setStatus('Loading file ' + entry.path + '...');
+                fileTitle.textContent = entry.path;
+                fileMeta.textContent = `${entry.size ? entry.size + ' bytes' : ''} • ${entry.type}`;
+                // Use the API to get content (base64) if available; otherwise fetch download_url
+                let data;
+                if (entry.content) {
+                    data = entry;
+                } else {
+                    data = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(entry.path)}`);
+                }
+                const b64 = data.content || '';
+                const decoded = decodeBase64ToUtf8(b64);
+                renderContent(entry.name, decoded, entry.path);
+                setStatus('File loaded.');
+            } catch (err) {
+                setStatus('Failed to load file: ' + err.message, true);
+            }
+        }
+
+        function renderContent(filename, content, filePath) {
+            const lower = filename.toLowerCase();
+            if (lower.endsWith('.md') || lower.endsWith('.markdown')) {
+                const html = marked.parse(content || '');
+                fileContent.innerHTML = html;
+                // rewrite any relative image URLs using the file's directory as base
+                const dirPath = (filePath || '').replace(/\/[^\/]+$/, '').replace(/^\/*/, '');
+                rewriteRelativeImageSrcs(fileContent, dirPath);
+                document.querySelectorAll('pre code').forEach((block) => {
+                    hljs.highlightElement(block);
+                });
+            } else if (/\.(html?|htm)$/.test(lower)) {
+                // show as rendered HTML but also provide source toggle
+                fileContent.innerHTML = content || '';
+            } else if (/\.(png|jpg|jpeg|gif|svg|webp)$/.test(lower)) {
+                // attempt to render image by creating data URL if possible.
+                if (/^data:/.test(content.trim())) {
+                    fileContent.innerHTML = `<img src="${content.trim()}" style="max-width:100%;height:auto">`;
+                } else {
+                    // For images, better to fetch raw via download_url — try to find a raw URL
+                    fileContent.innerHTML = `<div class="small">Image preview not available. Open raw file on GitHub.</div>`;
+                }
+            } else {
+                // code / text
+                const escaped = escapeHtml(content || '');
+                fileContent.innerHTML = `<pre><code>${escaped}</code></pre>`;
+                // try to highlight by language hint
+                document.querySelectorAll('pre code').forEach((block) => {
+                    hljs.highlightElement(block);
+                });
+            }
+        }
+
+        function escapeHtml(s) {
+            return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+        }
+
+        async function renderSinglePost(dirName) {
+            // Update URL with post parameter for deep linking
+            const newParams = new URLSearchParams(location.search);
+            newParams.set('post', dirName);
+            window.history.replaceState(null, '', '?' + newParams.toString());
+            fileContent.innerHTML = '<div class="small">Loading single post...</div>';
+            fileTitle.textContent = dirName;
+            fileMeta.textContent = '';
+            try {
+                // Fetch repo info to get the correct default branch (in case it's not 'main')
+                if (!defaultBranch || defaultBranch === 'main') {
+                    try {
+                        const repoInfo = await apiFetch(`https://api.github.com/repos/${owner}/${repo}`);
+                        defaultBranch = repoInfo.default_branch || 'main';
+                    } catch (e) {
+                        // if repo info fetch fails, fall back to 'main'
+                    }
+                }
+                const postsPath = 'posts';
+                const baseUrl = `https://api.github.com/repos/${owner}/${repo}/contents`;
+                const dirUrl = `${baseUrl}/${encodeURIComponent(postsPath)}/${encodeURIComponent(dirName)}`;
+                const dirContents = await apiFetch(dirUrl);
+                const readmeFile = dirContents.find(f => /^readme(\.(md|markdown))?$/i.test(f.name));
+                if (!readmeFile) {
+                    fileContent.innerHTML = '<div class="small">No README found for this post.</div>';
+                    return;
+                }
+                const fileData = await apiFetch(readmeFile.url);
+                const decoded = decodeBase64ToUtf8(fileData.content || '');
+                const html = marked.parse(decoded || '');
+                fileContent.innerHTML = html;
+                rewriteRelativeImageSrcs(fileContent, `${postsPath}/${dirName}`);
+                fileContent.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+                setStatus('');
+            } catch (err) {
+                fileContent.innerHTML = `<div class="small" style="color:#ffb4b4">Failed to load post: ${err.message}</div>`;
+            }
+        }
+
+        async function loadPosts(owner, repo) {
+            if (!owner || !repo) {
+                setStatus('Owner and repo required', true);
+                return;
+            }
+            // We specifically load the `posts` directory and render each post's README
+            const postsPath = 'posts';
+            setStatus('Loading posts directory...');
+            fileTitle.textContent = '';
+            fileMeta.textContent = '';
+            fileContent.innerHTML = '<div class="small">Loading posts... please wait.</div>';
+            try {
+                const repoApi = `https://api.github.com/repos/${owner}/${repo}`;
+                const baseUrl = `${repoApi}/contents`;
+                const postsUrl = `${baseUrl}/${encodeURIComponent(postsPath)}`;
+                const repoInfo = await apiFetch(repoApi);
+                defaultBranch = repoInfo.default_branch || defaultBranch;
+                const posts = await apiFetch(postsUrl);
+                if (!Array.isArray(posts)) {
+                    setStatus('`posts` is not a directory or is missing.', true);
+                    fileContent.innerHTML = '<div class="small">No `posts` directory found in the repository.</div>';
+                    return;
+                }
+
+                // find directories under posts
+                let dirs = posts.filter(p => p.type === 'dir');
+                // fetch latest commit for each directory so we can sort newest → oldest
+                try {
+                    const dated = await Promise.all(dirs.map(async (d) => {
+                        try {
+                            const commits = await apiFetch(`${repoApi}/commits?path=${encodeURIComponent(postsPath + '/' + d.name)}&per_page=1`);
+                            const latest = Array.isArray(commits) && commits[0] && commits[0].commit ? (commits[0].commit.author?.date || commits[0].commit.committer?.date) : null;
+                            return {...d, _latestCommitDate: latest ? new Date(latest).toISOString() : null};
+                        } catch (e) {
+                            return {...d, _latestCommitDate: null};
+                        }
+                    }));
+                    // sort by latest commit date descending (newest first); fallback to name
+                    dated.sort((a,b) => {
+                        if (a._latestCommitDate && b._latestCommitDate) return b._latestCommitDate.localeCompare(a._latestCommitDate);
+                        if (a._latestCommitDate) return -1;
+                        if (b._latestCommitDate) return 1;
+                        return a.name.localeCompare(b.name);
+                    });
+                    dirs = dated;
+                } catch (e) {
+                    // if commit lookups fail, continue with unsorted dirs
+                }
+                if (dirs.length === 0) {
+                    setStatus('No post directories found under `posts`.', true);
+                    fileContent.innerHTML = '<div class="small">No post directories found under `posts`.</div>';
+                    return;
+                }
+
+                // Build a combined view: each post section contains rendered README
+                const container = document.createElement('div');
+                container.style.display = 'flex';
+                container.style.flexDirection = 'column';
+                container.style.gap = '18px';
+
+                // Create placeholders for each post and lazy-load content as user scrolls
+                const observerOptions = {root: fileContent, rootMargin: '200px', threshold: 0.01};
+                const loadingMap = new Map();
+
+                async function loadPostSection(dir, section, bodyEl) {
+                    if (loadingMap.get(dir.name)) return; // already loading/loaded
+                    loadingMap.set(dir.name, true);
+                    try {
+                        setStatus(`Loading post: ${dir.name}...`);
+                        const dirUrl = `${baseUrl}/${encodeURIComponent(postsPath)}/${encodeURIComponent(dir.name)}`;
+                        const dirContents = await apiFetch(dirUrl);
+                        const readmeFile = dirContents.find(f => /^readme(\.(md|markdown))?$/i.test(f.name));
+                        if (!readmeFile) {
+                            const note = document.createElement('div');
+                            note.className = 'small';
+                            note.textContent = 'No README found for this post.';
+                            bodyEl.appendChild(note);
+                            return;
+                        }
+                        const fileData = await apiFetch(readmeFile.url);
+                        const decoded = decodeBase64ToUtf8(fileData.content || '');
+                        const html = marked.parse(decoded || '');
+                        bodyEl.innerHTML = html;
+                        rewriteRelativeImageSrcs(bodyEl, `${postsPath}/${dir.name}`);
+                        bodyEl.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+                        setStatus('');
+                    } catch (err) {
+                        bodyEl.innerHTML = `<div class="small" style="color:#ffb4b4">Failed to load post ${dir.name}: ${err.message}</div>`;
+                    }
+                }
+
+                const io = new IntersectionObserver((entries, obs) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            const section = entry.target;
+                            const dirName = section.dataset.dirName;
+                            const dirObj = dirs.find(d => d.name === dirName);
+                            const bodyEl = section.querySelector('.post-body');
+                            if (dirObj && bodyEl && !section.dataset.loaded) {
+                                loadPostSection(dirObj, section, bodyEl);
+                                section.dataset.loaded = '1';
+                                obs.unobserve(section);
+                            }
+                        }
+                    });
+                }, observerOptions);
+
+                for (const dir of dirs) {
+                    const section = document.createElement('section');
+                    section.style.background = 'linear-gradient(180deg, rgba(255,255,255,0.01), transparent)';
+                    section.style.padding = '10px';
+                    section.style.borderRadius = '6px';
+                    section.dataset.dirName = dir.name;
+
+                    const header = document.createElement('div');
+                    header.style.display = 'flex';
+                    header.style.justifyContent = 'space-between';
+                    header.style.alignItems = 'center';
+                    header.style.marginBottom = '6px';
+
+                    const titleDiv = document.createElement('a');
+                    titleDiv.href = '#';
+                    titleDiv.className = 'link';
+                    titleDiv.style.fontWeight = '700';
+                    titleDiv.style.textDecoration = 'none';
+                    titleDiv.style.cursor = 'pointer';
+                    titleDiv.textContent = dir.name;
+                    titleDiv.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        renderSinglePost(dir.name);
+                    });
+
+                    const badge = document.createElement('div');
+                    badge.className = 'small';
+                    badge.style.opacity = '0.9';
+                    badge.style.background = 'rgba(255,255,255,0.02)';
+                    badge.style.padding = '4px 8px';
+                    badge.style.borderRadius = '999px';
+                    badge.style.fontSize = '12px';
+                    badge.style.color = 'var(--muted)';
+                    if (dir._latestCommitDate) {
+                        const d = new Date(dir._latestCommitDate);
+                        badge.textContent = d.toLocaleDateString(undefined, {year: 'numeric', month: 'short', day: 'numeric'});
+                        badge.title = d.toISOString();
+                    } else {
+                        badge.textContent = '';
+                    }
+
+                    header.appendChild(titleDiv);
+                    header.appendChild(badge);
+                    section.appendChild(header);
+
+                    // body placeholder
+                    const body = document.createElement('div');
+                    body.className = 'post-body';
+                    body.innerHTML = '<div class="small">Scroll to load post...</div>';
+                    section.appendChild(body);
+
+                    container.appendChild(section);
+                    // observe for lazy loading
+                    io.observe(section);
+                }
+                // when container appended below, observer will start reacting as user scrolls
+
+                fileContent.innerHTML = '';
+                fileContent.appendChild(container);
+                // Preload first 2 posts immediately (above the fold)
+                const toPreload = 2;
+                for (let i = 0; i < Math.min(toPreload, dirs.length); i++) {
+                    const sec = container.children[i];
+                    if (sec) {
+                        const bodyEl = sec.querySelector('.post-body');
+                        // mark loaded and fetch
+                        sec.dataset.loaded = '1';
+                        loadPostSection(dirs[i], sec, bodyEl);
+                        try { io.unobserve(sec); } catch(e) {}
+                    }
+                }
+                setStatus('Posts loaded.');
+            } catch (err) {
+                setStatus('Failed to load posts: ' + err.message, true);
+                fileContent.innerHTML = `<div class="small" style="color:#ffb4b4">Failed to load posts: ${err.message}</div>`;
+            }
+        }
+
+        // Check URL for post parameter to load individual post
+        const postParam = params.get('post');
+        if (postParam) {
+            renderSinglePost(postParam);
+        } else {
+            // Auto-load posts using query params or defaults
+            loadPosts(owner, repo);
+        }
+
+        // inputs and sidebar removed; posts are auto-loaded from URL params or defaults
+    </script>
+</body>
+</html>

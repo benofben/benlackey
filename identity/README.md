@@ -4,7 +4,7 @@
 
 Ben Lackey enjoys long walks on the beach, drinks in coconuts and ice cream pie.  While he spends a lot of time fiddling with properties, his day job is in technology.  
 
-He lives in Tacoma with two Siamese cats, Ahi and Mahi, an Apple, an Olive and a Juniper.  You can follow him 
+He lives in Tacoma with two Siamese cats, Ahi and Mahi, an Apple, an Olive and a Juniper.  You can follow him:
 
 * [Website](https://benlackey.com)
 * [WOW](https://wideopenweb.github.io/feed/index.html?owner=benofben&repo=benlackey)
