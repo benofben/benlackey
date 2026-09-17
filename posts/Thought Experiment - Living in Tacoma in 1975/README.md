@@ -4,7 +4,7 @@ The previous owners of our house, the Girolamis, bought it in 1987.  Before that
 
 The city had just built the Bayside Trail.  Environmentalism was on the uptick.  We'd landed on the moon.  The oil crisis hadn't hit yet and the go go years were in full swing.  It was a time of optimism.
 
-Living in Tacoma at that moment, I would have imagined Boeing to grow, maybe a spaceport to augment the bustling seaport as a multimodel hub.  Nixon had just opened up China in 1972, so the PNW was an obvious trade hub.  What a great place to be!
+Living in Tacoma at that moment, I would have imagined Boeing to grow, maybe a spaceport to augment the bustling seaport as a multimodal hub.  Nixon had just opened up China in 1972, so the PNW was an obvious trade hub.  What a great place to be!
 
 The PNW then lost 2 decades.  That rough patch culmitated in Boeing moving to Chicago in 2001.  Meanwhile Microsoft minted millionaires in insular Redmond.
 
@@ -72,7 +72,7 @@ A simple program like this could fix most of the problems in Tacoma.
 
 ## The Takeaway
 
-I don't know if it makes sense to stay and keep trying to fix things.  I'm worried about our kids.  The oldest started preschool on Tuesday.  That seems fine so far.  Though, it's not like 1990s Boulder where all the parents were scientists at NCAR, NIST and NOAH.
+I don't know if it makes sense to stay and keep trying to fix things.  I'm worried about our kids.  The oldest started preschool on Tuesday.  That seems fine so far.  Though, it's not like 1990s Boulder where all the parents were scientists at NCAR, NIST and NOAA.
 
 I have pretty deep concerns about the elementary school and onward.  Some places I think are on a better trajectory, though possibly with less opportunity include:
 
