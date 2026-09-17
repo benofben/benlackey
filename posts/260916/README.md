@@ -38,7 +38,7 @@ I've had leave the last 3 weeks.  A lot of that has been spent reading.  I've co
 
 The AI backlash is amazing.  The argument that it's taking all the water is easily falsifiable.  But it doesn't stick.  Water rights are somehow an emotional issue, even in the PNW where the problem simply doesn't exist.
 
-It's astonunding that the AI question has created a left/right split, and not at all the direction I would have expected.  Al Gore was famously ridiculed for claiming he invented the internet.  In that he was trying to attach himself to technology.  30 years later the Democrats are the party of luddites with Bernie Sanders leading the Butlerian Jihad.  This was not on my bingo card.
+It's astounding that the AI question has created a left/right split, and not at all the direction I would have expected.  Al Gore was famously ridiculed for claiming he invented the internet.  In that he was trying to attach himself to technology.  30 years later the Democrats are the party of luddites with Bernie Sanders leading the Butlerian Jihad.  This was not on my bingo card.
 
 Trump has come out on truth social saying there will be no AI regulation.  That has aligned him with NVIDIA.  Interestingly NVIDIA's customers (OpenAI, Anthropic and X) are all loudly arguing for regulation, regulation they will neccesarily be involved in writing since I doubt McConnell or Sanders are up to the task.
 
