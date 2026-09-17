@@ -44,7 +44,7 @@ Trump has come out on truth social saying there will be no AI regulation.  That 
 
 It's amazing we're now in a world where the president is speaking his mind at 2am on his own social media platform.  Meanwhile the news outlets refuse to link his posts.  I remain stubbornly convinced there is a lot to learn from reading primary sources.
 
-Given the exponential nature of everything going on with AI it is extremely hard to guess what outcome might occur.  I increasingly believe this is transformative.  To be clear, I think Wolfram is correct in that LLM are essentially fancy autocomplete.  It turns out fancy autocomplete can do rather a lot, maybe even make life.  Wolfram should not be surprised given what he got cellular automata to do.
+Given the exponential nature of everything going on with AI it is extremely hard to guess what outcome might occur.  I increasingly believe this is transformative.  To be clear, I think Wolfram is correct in that LLMs are essentially fancy autocomplete.  It turns out fancy autocomplete can do rather a lot, maybe even make life.  Wolfram should not be surprised given what he got cellular automata to do.
 
 Implications seem twofold
 
