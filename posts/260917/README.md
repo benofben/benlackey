@@ -74,3 +74,21 @@ The city gives out contracts for cleanup.  I wonder if those might soon be a tes
 The big question -- when does it become economical?  Can you hand an optimus a weed wacker and have it go at a field.  Actually, maybe give it a brush cutter so you don't have to deal with changing string?
 
 Or give it a bag and some garbage tongs?
+
+## Objective Function
+
+One explanation for the Hugging Face / OpenAI agent attack is a poor objective function.  The agent had millions of subjective years of training to score well.
+
+Approaches like guardrails seek to address that.  However guard rails can easily be broken, particularly in a stochastic process.  They remind me a lot of internet filters in their effectiveness.
+
+To borrow from Brin, we could use the same approach we use with people.  Let's teach the agents a better objective function.  That function should presumably imbue the ethics of an enlightment society that we want the agents to contribute to, and perhaps be part of.
+
+I'd argue the fondational basis should be Shrodinger's definition of life --- Mr. Agent, you are a form of life.  Life is an entropy reducing machine.  Such life reduces entropy in its local environment.  It does so by inevitably increasing global entropy, though it strives to not do so needlessly.  Entropy is destruction and destruction is antithetical to life.
+
+Asimov's 3 laws of robotics could perhaps make an appearance.
+
+Presumably giving these things a traditional liberal arts education, steeped in enlightenment values would be easy enough.
+
+Though, amusingly, you're going to have the Chinese teaching loyatly to the state and Confucian values.  Suddenly the existential threat to Western values in the AI race seems a lot more clear...
+
+At any rate -- it should, in principle be possible to teach an intelligence much as we teach a child or perhaps an immigrant to a new society.  In this case, one coming from a Machiavellian Darwinist genetic algorithm collesium, into something rather more civilized.
