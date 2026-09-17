@@ -2,7 +2,7 @@
 
 ## Fed
 
-The Fed raised interest rates 0.25%.  I was very wrong about Warsh.  I assumed Trump had vetted him to prove financial backing for bread and circuses.  Maybe Trump did but the vetting didn't work.  Trump is fuming on Truth Social.  He's saying we need 1% rates.  But he hasn't turned on Warsh personally, at least in public yet.  The whole thing seems like Powell all over agin.
+The Fed raised interest rates 0.25%.  I was very wrong about Warsh.  I assumed Trump had vetted him to provide financial backing for bread and circuses.  Maybe Trump did but the vetting didn't work.  Trump is fuming on Truth Social.  He's saying we need 1% rates.  But he hasn't turned on Warsh personally, at least in public yet.  The whole thing seems like Powell all over agin.
 
 I don't see us having the stamina for a Volcker repeat.  Though, it seems unlikely Trump can pressure Warsh before his term is over.  I believe we're getting monetization and printing.  The only other ways out of the $40T deficit and mandatory spending require prudence we lack.  
 
