@@ -66,7 +66,7 @@ If problems such as cancer and fusion have solutions, presumably ASI can find th
 
 As always, I'm wondering what to do and how to navigate this.  I really like being involved in these advances professionally, learning and contributing to them.  I think I would want to do that even if I weren't paid.  I've enjoyed ML for a long time.  Though I thought it was going to be picking out ANN topologies, not using models off the shelf and bolting things to them.  Boy was I wrong.
 
-Financially, government debt seems a horrible idea.  Corporate debt less bad, but still bad.  If you can borrow at an attrative fixed rate, you should.  Those 2022 vintage 30 year residential mortgages at 2-3% already look brillant.  I suspect they will become more so.  Of course you're paying for those in other ways as Fannie and Freddie end up with most of them...  CRE will presumably have a harder time given their typical loan structure.
+Financially, owning government debt seems a horrible idea.  Corporate debt less bad, but still bad.  If you can borrow at an attrative fixed rate, you should.  Those 2022 vintage 30 year residential mortgages at 2-3% already look brillant.  I suspect they will become more so.  Of course you're paying for those in other ways as Fannie and Freddie end up with most of them...  CRE will presumably have a harder time given their typical loan structure.
 
 If inflation is coming you want to be a fixed rate borrower who owns equities, real estate and such.
 
