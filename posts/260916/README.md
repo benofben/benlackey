@@ -46,7 +46,7 @@ It's amazing we're now in a world where the president is speaking his mind at 2a
 
 Given the exponential nature of everything going on with AI it is extremely hard to guess what outcome might occur.  I increasingly believe this is transformative.  To be clear, I think Wolfram is correct in that LLMs are essentially fancy autocomplete.  It turns out fancy autocomplete can do rather a lot, maybe even make life.  Wolfram should not be surprised given what he got cellular automata to do.
 
-Implications seem twofold
+Implications seem twofold.
 
 1. There are algorithms other than LLMs available.  A16Z is investing in spatial models.  Those have rather obvious applications to the physical world. Many more types of models are possible.  The transformer is a tiny subset of ANN topologies.  Then there are the wet options...
 
