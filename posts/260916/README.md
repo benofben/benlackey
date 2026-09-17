@@ -48,7 +48,7 @@ Given the exponential nature of everything going on with AI it is extremely hard
 
 Implications seem twofold
 
-1. There are algorithms other than LLMS available.  A16Z is investing in spatial models.  Those have rather obvious applications to the physical world. Many more types of models are possible.  The transformer is a tiny subset of ANN topologies.  Then there are the wet options...
+1. There are algorithms other than LLMs available.  A16Z is investing in spatial models.  Those have rather obvious applications to the physical world. Many more types of models are possible.  The transformer is a tiny subset of ANN topologies.  Then there are the wet options...
 
 2. There is increasing discussion of an analog to the Turing Machine theory for AI.  That is if the LLM is an AI machine, perhaps it can run intelligence in the same way our brains do.  There are then presumably a class of AI machines that can be intelligent.  It is possible this thinking falls into earlier traps where we modeled conciousness as a steam engine because we had just invented those.
 
