@@ -81,8 +81,8 @@
     <script>
         // GitHub Copilot: repo-browser single-file implementation (sidebar removed)
         const params = new URLSearchParams(location.search);
-        let owner = params.get('owner') || 'octocat';
-        let repo = params.get('repo') || 'Hello-World';
+        let owner = params.get('owner') || 'benofben';
+        let repo = params.get('repo') || 'benlackey';
         // token may come from query param or previously-saved localStorage PAT
         let token = params.get('token') || localStorage.getItem('gh_token') || '';
         const statusEl = document.getElementById('status');
