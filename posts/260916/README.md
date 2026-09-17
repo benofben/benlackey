@@ -26,7 +26,7 @@ I could be very very wrong.  I'm much more confident that populism is on the ris
 
 My big fear is a collapse of civil society and a descent into Communism/Fascism, both sides of the same coin.  I remember a friend giving 50/50 odds on the collapse of the republic under Trump 1.0.  That seemed overstated to me.  The risk still seems remote, but increasingly present.  
 
-People don't remember why Nazis were bad anymore, only that they were.  Other fascist regimes such as Italy and Japan are forgotten. I think you'd be hard pressed to get a right wing nationalist today where it should end.  There are many contexts where we should put America first.  However applying that notion with nuance leads straight to 1930s redux just in time for the centennial.
+People don't remember why Nazis were bad anymore, only that they were.  Other fascist regimes such as Italy and Japan are forgotten. I think you'd be hard pressed to get a right wing nationalist today where it should end.  There are many contexts where we should put America first.  However applying that notion without nuance leads straight to 1930s redux just in time for the centennial.
 
 On the left I've had conversations where DSA supporters saying the USSR was capitalist not communist/socialist.  It's the old "true communism has never been tried," though they don't have enough context to know that statement has been made before.
 
