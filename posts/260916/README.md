@@ -56,7 +56,7 @@ Once AI leaks into the world everything changes.  Gemini believes YouTube contai
 
 The hardware is probably mostly there.  Multiple companies are working on the solution.  There are US embargos preventing import of the Chinese models.  Domestically we have the Tesla Optimus promised in 2027.  Musk also plans to use it as the advance party on Mars.
 
-If there really is this sort of rapid takeoff, our deficit woes may be irrelevant.  Of course, there's probably little point in planning for such a scenario given the impossibility of positioning optimally for it.  Instead the answer is presumably to engage with it actively.
+If there really is this sort of rapid takeoff, our deficit woes may be irrelevant.  We might have to monetize to fight deflation.  Of course, there's probably little point in planning for such a scenario given the impossibility of positioning optimally for it.  Instead the answer is presumably to engage with it actively.
 
 I'm really excited to see where humanoid robots and manned drones go.  Those have the possibility to remake manual labor.  The drones could fundamentally change transport and cities as a result, a century after they were first expected.
 
