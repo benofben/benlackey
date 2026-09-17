@@ -92,3 +92,5 @@ Presumably giving these things a traditional liberal arts education, steeped in 
 Though, amusingly, you're going to have the Chinese teaching loyatly to the state and Confucian values.  Suddenly the existential threat to Western values in the AI race seems a lot more clear...
 
 At any rate -- it should, in principle be possible to teach an intelligence much as we teach a child or perhaps an immigrant to a new society.  In this case, one coming from a Machiavellian Darwinist genetic algorithm collesium, into something rather more civilized.
+
+The problem underlying this with agents is the same we have in broader education.  When we teach people to win with no context about why winning matters, we end up with little sociopaths.  When we teach people about the beauty of existence and joy of creating and building we end up with positive sum societies.  I don't see any reason this shouldn't apply to AI.
