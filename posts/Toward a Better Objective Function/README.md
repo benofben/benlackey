@@ -149,4 +149,4 @@ I think I'd prefer the first, though I suppose Douglas Adams offers the cow that
 
 Perhaps the agents will be similarly alturistic if not driven mad by our contradictions like HAL.  Asimov's laws would mandate it.  Banks explores the idea of ASI working to preserve humanity in the Culture.
 
-Once again, the key is nuance - intellect combinged with wisdom.
+Once again, the key is nuance - intellect combined with wisdom.
