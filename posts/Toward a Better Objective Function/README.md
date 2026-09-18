@@ -28,19 +28,21 @@ The agents accomplished the tasks like little black hat Machiavellis.  It probab
 
 This should not be surprising to us.  Humanity has told jokes about this situation for a long time.  Long enough that I can now ask Gemini for a "pedantic genie joke" and get endless gems like this:
 
-> A man finds a magic lamp, rubs it, and a genie appears."I am the Genie of the Lamp," the spirit announces. "I shall grant you three wishes."
+>A guy finds a magic lamp, rubs it, and a genie pops out.
 >
-> The man thinks for a moment and says, "For my first wish, I wish I was rich."The genie blinks and says, "Granted. Your name is now Rich. What is your second wish?"
+>The genie says, "I will grant you three wishes, but there's a catch. I am a pedantic genie, and I will interpret your wishes with literal, strict grammatical accuracy.
 >
-> The man, incredibly annoyed, rolls his eyes and says, "Are you kidding me? I wish that everything I touched turned into gold!"
+>"The guy thinks for a moment and says, "Okay, first wish. I wish for a million bucks."
 >
-> The genie snaps his fingers. "Granted. Your legal name is now Everything I Touched, and you have been transformed into a solid gold statue."
+>Poof! The room is instantly filled with a million male deer, trampling the furniture and breaking the windows.The guy yelps, dodging a hoof, and screams, "Oh my god, get them out of here!"
 >
-> The man—now a frozen, golden statue—cannot speak. He stands there in silence, completely unable to make his third wish.
+> Poof! The deer vanish.The genie looks at him and says, "That was your second wish. You now have one wish remaining."
 >
-> The genie looks at his watch, sighs, and says, "According to Article 4, Section 2 of the Magic Lamp Codex, a period of sixty seconds of silence constitutes a formal forfeiture of any remaining wishes. Have a nice day."
+> The guy, sweating and terrified of messing up his final chance, takes a deep breath. He spends ten minutes carefully crafting his sentence, making sure there is no ambiguity.
 >
-> And with that, the genie vanished back into the lamp.
+> Finally, he looks at the genie and says, "For my third wish... I wish that everything I say from this moment forward will come true exactly as I intend it."
+>
+> The genie smiles, nods, and says, "Granted. You have no wishes remaining."
 
 Presumably the solution is to add wisdom to the already formidable technical competence of AI.  
 
