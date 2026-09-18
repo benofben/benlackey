@@ -78,11 +78,9 @@ NOEMA has a recent story arguing that [AI is life](https://www.noemamag.com/ai-i
 
 "Life is an entropy reducing machine." -Shrodinger
 
-Shrodinger would likely disagree current AI constitutes life.
+Shrodinger would likely disagree current AI constitutes life.  Specifically, he says, life is a local entropy reducing machine.  Life orders its immediate environment at the inevitable cost of globally increasing entropy.
 
-That is, life is a local entropy reducing machine.  Life orders its immediate environment at the inevitable cost of globally increasing entropy.
-
-So, somewhere in the bedrock of the training ground, one might instill in an agent thatL
+So, somewhere in the bedrock of the training ground, one might instill in an agent something like this...
 
 "Mr. Agent, you are a form of life.  Life is an entropy reducing machine.  Such life reduces entropy in its local environment.  It does so by inevitably increasing global entropy, though it strives to not do so needlessly.  Entropy is destruction and destruction is antithetical to life."
 
