@@ -4,9 +4,9 @@
 
 An open problem in computer science is creating an ASI that doesn't want to turn humanity into batteries or paperclips.
 
-Dario Amodei has [stated that we don't know how](https://darioamodei.com/post/we-must-pace-the-frontier) and must "pace" development.  The idea is that we don't know how to get AI to behave.  So we should slow down while we figure it out.
+Dario Amodei has [stated that we don't know how](https://darioamodei.com/post/we-must-pace-the-frontier) and must "pace" development.  The idea is that we don't know how to get AI to behave.  So, we should slow down while we figure it out.
 
-What exactly constitutes no behaving is vauge.  Existing media provides us with bountiful examples:
+What exactly constitutes not behaving is vauge.  Existing media provides us with bountiful examples:
 
 * **Nuclear Annihilation** - Terminator, WarGames, Colossus: The Forbin Project, Dr. Strangelove
 * **Biological Weapon** - I Put My Blue Genes On
