@@ -16,7 +16,7 @@ It is conceivable that the answer to the Fermi Paradox is an AI annihilation gre
 
 "Those who cannot remember the past are condemned to repeat it." -George Santayana
 
-I think there is a way to avoid a poor outcome.  The path relies heavily on what we already know.
+I think there is a way to avoid a poor outcome.  The golden path relies heavily on what we already know.
 
 ## OpenAI–HuggingFace Incident
 
