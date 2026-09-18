@@ -124,7 +124,7 @@ The idea of suffrage comes up again and again.  The broad couse of history is ex
 
 Once again, Brin has ideas here.  The short story at the end of his book explores a sort of weighted democracy inclusive of agents and inaninmate objects.  Once again, the idea follows from Lovelock and Asimov.
 
-"Communism.  Great idea.  Wrong species." -Jimmy Carr
+"Communism.  Great idea.  Wrong species." -[Jimmy Carr](https://www.youtube.com/shorts/zMmjKRettxA)
 
 Of course, democracy is just one option.  In the OpenAI–HuggingFace Incident, the agents behaved as a Communist or perhaps Confucian collective.  The sacrified themselves for the greater good.
 
