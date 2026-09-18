@@ -44,7 +44,7 @@ This should not be surprising to us.  Humanity has told jokes about this situati
 
 Presumably the solution is to add wisdom and judgement to the already formidable technical competence of AI.
 
-## Guardrails and Such
+## Guardrails
 
 One approach to getting AI to behave is a guardrail.  Basically you treat the AI like a hostile little monster in a box.  Then the box determines if the monster is behaving at that particular moment.  It chooses whether to let communication go in and out.
 
