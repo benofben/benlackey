@@ -303,7 +303,7 @@
         const homeBtn = document.getElementById('homeBtn');
         if (homeBtn) {
             homeBtn.addEventListener('click', () => {
-                location.href = '/index.html';
+                location.href = '/';
             });
         }
 
@@ -618,7 +618,8 @@
 
 
         // Check URL path for a post name (e.g. /Some+Post) to load an individual post
-        const postParam = decodeURIComponent(location.pathname.replace(/^\/+/, ''));
+        const pathName = decodeURIComponent(location.pathname.replace(/^\/+/, ''));
+        const postParam = /^index\.html?$/i.test(pathName) ? '' : pathName;
         if (postParam) {
             renderSinglePost(postParam);
         } else {
