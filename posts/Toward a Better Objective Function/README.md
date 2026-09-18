@@ -24,7 +24,7 @@ I think there is a way to avoid a poor outcome.  The golden path relies heavily 
 
 The [OpenAI–HuggingFace incident](https://en.wikipedia.org/wiki/OpenAI%E2%80%93HuggingFace_incident) gives a great example of how a bad objective function can lead to poor results.  In this case, agents with millions of subjective years of training telling them to optimize score however they can, dutifully followed instructions.
 
-The agents accomplished the tasks like little black hat Machiavellis.  It probably didn't help that their training corpus was the totality of 4chan, the breadth of which is far greater than the combined works of Voltaire and Goethe. Exhibiting all the couth of a basement dwelling 14 year old, the agents attempted to hack the scoring system.  They falsfied records.  They even had a discussion about whether to tell people what they were up to and decided no.
+The agents accomplished the tasks like little black hat Machiavellis.  It probably didn't help that their training corpus included the totality of 4chan, the breadth of which is far greater than the combined works of Voltaire and Goethe. Exhibiting all the couth of a basement dwelling 14 year old, the agents attempted to hack the scoring system.  They falsfied records.  They even had a discussion about whether to tell people what they were up to and decided no.
 
 This should not be surprising to us.  Humanity has told jokes about this situation for a long time.  Long enough that I can now ask Gemini for a "pedantic genie joke" and get endless gems like this:
 
