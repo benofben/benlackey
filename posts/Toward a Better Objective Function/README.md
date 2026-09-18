@@ -96,7 +96,7 @@ Presumably giving these things a traditional liberal arts education, steeped in 
 
 "The needs of the many outweigh the needs of the few." -Spock
 
-Though, amusingly, you're going to have the Chinese teaching loyatly to the state and Confucian values.  Suddenly the existential threat to Western values in the AI race seems a lot more clear.
+Though, amusingly, you're going to have the Chinese teaching loyalty to the state and Confucian values.  Suddenly the existential threat to Western values in the AI race seems a lot more clear.
 
 At any rate, it should be possible to teach an intelligence much as we teach a child or perhaps an immigrant to a new society.  In this case, one coming from a Machiavellian Darwinist genetic algorithm collesium, into something rather more civilized.
 
