@@ -42,7 +42,7 @@ This should not be surprising to us.  Humanity has told jokes about this situati
 >
 > And with that, the genie vanished back into the lamp.
 
-Presumably the solution is to add wisdom and judgement to the already formidable technical competence of AI.
+Presumably the solution is to add wisdom and judgement to the already formidable technical competence of AI.  This must be a fundamental part of the model, otherwise it can be discarded to optimize the true objective function.  If a bolt on, we'll inevitably get things like Armus that optimize solely for result.
 
 ## Guardrails
 
