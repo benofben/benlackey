@@ -1,6 +1,6 @@
 # Toward a Better Objective Function
 
-"We marveled at our own magnificence as we gave birth to ai." -Morpheus
+"We marveled at our own magnificence as we gave birth to AI." -Morpheus
 
 An open problem is computer science is creating an ASI that doesn't want to turn humanity into batteries or paperclips.
 
