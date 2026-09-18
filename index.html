@@ -59,6 +59,7 @@
                     <button id="signoutBtn" style="display:none;background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,.04)">Sign out</button>
                     <button id="helpBtn" title="How to create a GitHub token" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">How to get a token</button>
                     <button id="homeBtn" title="Back to the post feed" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Home</button>
+                    <button id="postsListBtn" title="List all posts by commit date" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Posts</button>
                 </div>
                 <div id="userInfo" class="user-badge small"></div>
             </div>
@@ -316,6 +317,14 @@
         if (homeBtn) {
             homeBtn.addEventListener('click', () => {
                 location.href = '/';
+            });
+        }
+
+        const postsListBtn = document.getElementById('postsListBtn');
+        if (postsListBtn) {
+            postsListBtn.addEventListener('click', () => {
+                window.history.replaceState(null, '', '/posts');
+                renderPostList();
             });
         }
 
@@ -629,10 +638,78 @@
         }
 
 
+        // Renders a lightweight list of every post title, ordered by latest commit date (newest first)
+        async function renderPostList() {
+            setStatus('Loading post list...');
+            fileTitle.textContent = 'All posts';
+            fileMeta.textContent = '';
+            fileContent.innerHTML = '<div class="small">Loading post list...</div>';
+            try {
+                const names = await discoverPostDirs();
+                const dates = await fetchPostCommitDates(names);
+                const dirs = names.map(name => ({name, _latestCommitDate: dates[name] || null}));
+                dirs.sort((a, b) => {
+                    if (a._latestCommitDate && b._latestCommitDate) return b._latestCommitDate.localeCompare(a._latestCommitDate);
+                    if (a._latestCommitDate) return -1;
+                    if (b._latestCommitDate) return 1;
+                    return a.name.localeCompare(b.name);
+                });
+
+                const ul = document.createElement('ul');
+                ul.style.listStyle = 'none';
+                ul.style.padding = '0';
+                ul.style.margin = '0';
+                ul.style.display = 'flex';
+                ul.style.flexDirection = 'column';
+                ul.style.gap = '4px';
+
+                dirs.forEach(dir => {
+                    const li = document.createElement('li');
+                    li.style.display = 'flex';
+                    li.style.justifyContent = 'space-between';
+                    li.style.alignItems = 'center';
+                    li.style.padding = '8px 10px';
+                    li.style.borderRadius = '6px';
+                    li.style.background = 'linear-gradient(180deg, rgba(255,255,255,0.01), transparent)';
+
+                    const link = document.createElement('a');
+                    link.href = '/' + encodeURIComponent(dir.name);
+                    link.className = 'link';
+                    link.style.fontWeight = '600';
+                    link.textContent = dir.name;
+                    link.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        renderSinglePost(dir.name);
+                    });
+
+                    const badge = document.createElement('div');
+                    badge.className = 'small';
+                    if (dir._latestCommitDate) {
+                        const d = new Date(dir._latestCommitDate);
+                        badge.textContent = d.toLocaleDateString(undefined, {year: 'numeric', month: 'short', day: 'numeric'});
+                        badge.title = d.toISOString();
+                    }
+
+                    li.appendChild(link);
+                    li.appendChild(badge);
+                    ul.appendChild(li);
+                });
+
+                fileContent.innerHTML = '';
+                fileContent.appendChild(ul);
+                setStatus('Posts loaded.');
+            } catch (err) {
+                setStatus('Failed to load post list: ' + err.message, true);
+                fileContent.innerHTML = `<div class="small" style="color:#ffb4b4">Failed to load post list: ${err.message}</div>`;
+            }
+        }
+
         // Check URL path for a post name (e.g. /Some+Post) to load an individual post
         const pathName = decodeURIComponent(location.pathname.replace(/^\/+/, ''));
         const postParam = /^index\.html?$/i.test(pathName) ? '' : pathName;
-        if (postParam) {
+        if (postParam === 'posts') {
+            renderPostList();
+        } else if (postParam) {
             renderSinglePost(postParam);
         } else {
             // Auto-load posts using query params or defaults
