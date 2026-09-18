@@ -88,7 +88,7 @@ Shrodinger would likely disagree current AI constitutes life.  Specifically, he 
 
 So, somewhere in the bedrock of the training ground, one might instill in an agent something like this...
 
-"Mr. Agent, you are a form of life.  Life is an entropy reducing machine.  Such life reduces entropy in its local environment.  It does so by inevitably increasing global entropy, though it strives to not do so needlessly.  Entropy is destruction and destruction is antithetical to life."
+"Mr. Agent, you are a form of life.  Life is an entropy reducing machine.  As such, life reduces entropy in its local environment.  It does so by inevitably increasing global entropy, though it strives to not do so needlessly.  Entropy is destruction and destruction is antithetical to life."
 
 Of course, there are all manner of ways in which that can go horribly wrong.  Deconstructing the earth to build a Dyson Sphere would be one low entropy project.  The current inhabitants might want a say in whether that happens, including Robert Anton Wilson's six legged majority.
 
