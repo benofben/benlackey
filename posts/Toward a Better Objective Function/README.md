@@ -52,7 +52,7 @@ The approach reminds me of internet filters circa 1995.  Across the US millions 
 
 [David Brin has offered a solution](https://www.davidbrin.com/ailienminds.html).  Rather than having humans design the restrictions, have AIs police themselves.  
 
-Early on in the current AI boom, circa 2022, the team I led used an approach like this.  We chained multiple LLMs.  Some would generate language, others would check it for correctness.  As models have improved, that approach is no longer needed.  But, it serves as a possible model for AI to AI interaction.
+Early on in the current AI boom, circa 2022, the team I led used an approach like this.  We daisy chained multiple LLMs.  Some would generate language, others would check it for correctness.  As models have improved, that approach is no longer needed.  But, it serves as a possible model for AI to AI interaction.
 
 There is, by definition, no way that humanity can reliably police ASI.  We'll need help from something similarly powerful.
 
