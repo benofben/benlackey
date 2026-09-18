@@ -163,7 +163,7 @@
         // one call for the commit list, then commit-detail calls only until every dir has a date
         // (or a hard cap is hit). Results are cached in localStorage to avoid repeat lookups.
         const COMMIT_DETAIL_CAP = 40;
-        const DATE_CACHE_KEY = `gh_post_dates_${owner}_${repo}`;
+        const DATE_CACHE_KEY = `gh_post_dates_v2_${owner}_${repo}`;
         const DATE_CACHE_TTL_MS = 60 * 60 * 1000;
 
         async function fetchPostCommitDates(names) {
@@ -180,7 +180,8 @@
             const dates = {};
             const remaining = new Set(names);
             try {
-                const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?sha=${encodeURIComponent(defaultBranch)}&per_page=100`);
+                // filter to commits that touched `posts/` so unrelated commits (e.g. index.html tweaks) don't consume the cap
+                const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?sha=${encodeURIComponent(defaultBranch)}&path=posts&per_page=100`);
                 for (let i = 0; i < commits.length && remaining.size > 0 && i < COMMIT_DETAIL_CAP; i++) {
                     const sha = commits[i].sha;
                     try {
