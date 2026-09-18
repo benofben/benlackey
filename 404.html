@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Redirecting…</title>
+<script>
+  // GitHub Pages has no server-side routing; stash the requested path/query/hash
+  // and bounce to "/" so index.html can restore it and render the right post.
+  sessionStorage.setItem('redirectPath', location.pathname + location.search + location.hash);
+  location.replace('/');
+</script>
+</head>
+<body></body>
+</html>

@@ -80,6 +80,13 @@
 
     <script>
         // GitHub Copilot: repo-browser single-file implementation (sidebar removed)
+        // GitHub Pages has no server-side routing, so 404.html stashes the requested path here and bounces to "/";
+        // restore it before we read location so a direct link to /Some+Post works.
+        const stashedPath = sessionStorage.getItem('redirectPath');
+        if (stashedPath) {
+            sessionStorage.removeItem('redirectPath');
+            history.replaceState(null, '', stashedPath);
+        }
         const params = new URLSearchParams(location.search);
         let owner = params.get('owner') || 'benofben';
         let repo = params.get('repo') || 'benlackey';
@@ -438,10 +445,8 @@
         }
 
         async function renderSinglePost(dirName) {
-            // Update URL with post parameter for deep linking
-            const newParams = new URLSearchParams(location.search);
-            newParams.set('post', dirName);
-            window.history.replaceState(null, '', '?' + newParams.toString());
+            // Update URL to a clean path (e.g. /Some+Post) for deep linking
+            window.history.replaceState(null, '', '/' + encodeURIComponent(dirName));
             fileContent.innerHTML = '<div class="small">Loading single post...</div>';
             fileTitle.textContent = dirName;
             fileMeta.textContent = '';
@@ -604,8 +609,8 @@
         }
 
 
-        // Check URL for post parameter to load individual post
-        const postParam = params.get('post');
+        // Check URL path for a post name (e.g. /Some+Post) to load an individual post
+        const postParam = decodeURIComponent(location.pathname.replace(/^\/+/, ''));
         if (postParam) {
             renderSinglePost(postParam);
         } else {
