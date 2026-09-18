@@ -46,6 +46,7 @@
                     <button id="signinBtn">Sign in with GitHub</button>
                     <button id="signoutBtn" style="display:none;background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,.04)">Sign out</button>
                     <button id="helpBtn" title="How to create a GitHub token" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">How to get a token</button>
+                    <button id="homeBtn" title="Back to the post feed" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Home</button>
                 </div>
                 <div id="userInfo" class="user-badge small"></div>
             </div>
@@ -296,6 +297,13 @@
             // close on Escape
             document.addEventListener('keydown', (e) => {
                 if (e.key === 'Escape' && helpModal.style.display === 'flex') helpModal.style.display = 'none';
+            });
+        }
+
+        const homeBtn = document.getElementById('homeBtn');
+        if (homeBtn) {
+            homeBtn.addEventListener('click', () => {
+                location.href = '/index.html';
             });
         }
 
