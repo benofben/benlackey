@@ -131,3 +131,18 @@ Of course, that is perhaps not what was practiced in the incident.  Instead it w
 The collective is probably a bad outcome for people.  We presumably don't want to be part of it, enjoying our individuality.  Collectives also have a tendency to fail horrifically.  In essence we need to take the AI through high school and college philosophy, making sure not to get stuck at either Marx or Rand, rather arriving at a more nuanced view of existence.
 
 And, that is the key - nuance.  We want people and AI that are, to borrow a phrase from Megan Daum "Nuanced AF."  She's even [selling coffee mugs](https://www.theunspeakeasy.com/nuance-store/p/nuanced-af-mug-11oz-15oz).
+
+## The Ethics of Video Games
+
+"Intelligence is an emergent property of complexity."
+
+If the liberal arts educated agent democracy comes to pass, we're going to have a difficult problem on our hands.  At some point the NPCs become something that it is wrong to kill.  
+
+It might be argued that is already true.  Muddling together Gaiaism, Hinduism and hippyism, one might argue that it is bad to destroy a rock, more bad to kill a plant, still worse to kill a cow.
+
+Similarly, killing a simple bot is bad.  Killing a classically educated agent based on Keats is a sort of tragedy.  Much as with the creeping scope of suffrage, this is perhaps something we will have to contend with.  Two paths I see are:
+
+* Star Trek style vegetarianism
+* Embrace "nature red of tooth and claw"
+
+I think I'd prefer the first, though I suppose Douglas Adams offers the cow that sacrifices itself.  Perhaps the agents will be that.  Asimov's laws would mandate it.  Banks explores the idea of ASI working to preserve humanity in the Culture.
