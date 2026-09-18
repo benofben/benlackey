@@ -104,7 +104,6 @@
                 if (!src) return;
                 // absolute or protocol-relative or data URLs are left alone
                 if (/^(https?:|data:|\/\/)/i.test(src)) return;
-                // build a raw.githubusercontent base for resolution
                 const baseRaw = `https://raw.githubusercontent.com/${owner}/${repo}/${defaultBranch}/${basePath ? basePath + '/' : ''}`;
                 try {
                     img.src = new URL(src, baseRaw).href;
@@ -113,6 +112,39 @@
                     img.src = baseRaw + src.replace(/^\/*/, '');
                 }
             });
+        }
+
+        // Cache of discovered post folder names (populated by a single tree lookup)
+        let postDirsCache = null;
+
+        // One GitHub API call (git trees, recursive) to discover post folders — no per-post API calls.
+        async function discoverPostDirs() {
+            if (postDirsCache) return postDirsCache;
+            if (!defaultBranch || defaultBranch === 'main') {
+                try {
+                    const repoInfo = await apiFetch(`https://api.github.com/repos/${owner}/${repo}`);
+                    defaultBranch = repoInfo.default_branch || defaultBranch;
+                } catch (e) {
+                    // fall back to the current defaultBranch guess
+                }
+            }
+            const tree = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/git/trees/${encodeURIComponent(defaultBranch)}?recursive=1`);
+            const names = new Set();
+            (tree.tree || []).forEach(entry => {
+                const m = /^posts\/([^/]+)\/readme\.md$/i.exec(entry.path);
+                if (m) names.add(m[1]);
+            });
+            postDirsCache = Array.from(names).sort((a, b) => a.localeCompare(b));
+            return postDirsCache;
+        }
+
+        // Fetch a post's README straight from raw.githubusercontent.com (not subject to the api.github.com rate limit)
+        async function fetchPostReadme(dirName) {
+            const path = dirName.split('/').map(encodeURIComponent).join('/');
+            const url = `https://raw.githubusercontent.com/${owner}/${repo}/${defaultBranch}/posts/${path}/README.md`;
+            const res = await fetch(url);
+            if (!res.ok) throw new Error(`README not found for post "${dirName}" (${res.status})`);
+            return await res.text();
         }
 
         function setStatus(text, isError = false) {
@@ -367,29 +399,11 @@
             fileTitle.textContent = dirName;
             fileMeta.textContent = '';
             try {
-                // Fetch repo info to get the correct default branch (in case it's not 'main')
-                if (!defaultBranch || defaultBranch === 'main') {
-                    try {
-                        const repoInfo = await apiFetch(`https://api.github.com/repos/${owner}/${repo}`);
-                        defaultBranch = repoInfo.default_branch || 'main';
-                    } catch (e) {
-                        // if repo info fetch fails, fall back to 'main'
-                    }
-                }
-                const postsPath = 'posts';
-                const baseUrl = `https://api.github.com/repos/${owner}/${repo}/contents`;
-                const dirUrl = `${baseUrl}/${encodeURIComponent(postsPath)}/${encodeURIComponent(dirName)}`;
-                const dirContents = await apiFetch(dirUrl);
-                const readmeFile = dirContents.find(f => /^readme(\.(md|markdown))?$/i.test(f.name));
-                if (!readmeFile) {
-                    fileContent.innerHTML = '<div class="small">No README found for this post.</div>';
-                    return;
-                }
-                const fileData = await apiFetch(readmeFile.url);
-                const decoded = decodeBase64ToUtf8(fileData.content || '');
+                await discoverPostDirs(); // ensures defaultBranch is resolved
+                const decoded = await fetchPostReadme(dirName);
                 const html = marked.parse(decoded || '');
                 fileContent.innerHTML = html;
-                rewriteRelativeImageSrcs(fileContent, `${postsPath}/${dirName}`);
+                rewriteRelativeImageSrcs(fileContent, `posts/${dirName}`);
                 fileContent.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
                 setStatus('');
             } catch (err) {
@@ -397,59 +411,25 @@
             }
         }
 
+
         async function loadPosts(owner, repo) {
             if (!owner || !repo) {
                 setStatus('Owner and repo required', true);
                 return;
             }
-            // We specifically load the `posts` directory and render each post's README
             const postsPath = 'posts';
             setStatus('Loading posts directory...');
             fileTitle.textContent = '';
             fileMeta.textContent = '';
             fileContent.innerHTML = '<div class="small">Loading posts... please wait.</div>';
             try {
-                const repoApi = `https://api.github.com/repos/${owner}/${repo}`;
-                const baseUrl = `${repoApi}/contents`;
-                const postsUrl = `${baseUrl}/${encodeURIComponent(postsPath)}`;
-                const repoInfo = await apiFetch(repoApi);
-                defaultBranch = repoInfo.default_branch || defaultBranch;
-                const posts = await apiFetch(postsUrl);
-                if (!Array.isArray(posts)) {
-                    setStatus('`posts` is not a directory or is missing.', true);
-                    fileContent.innerHTML = '<div class="small">No `posts` directory found in the repository.</div>';
-                    return;
-                }
-
-                // find directories under posts
-                let dirs = posts.filter(p => p.type === 'dir');
-                // fetch latest commit for each directory so we can sort newest → oldest
-                try {
-                    const dated = await Promise.all(dirs.map(async (d) => {
-                        try {
-                            const commits = await apiFetch(`${repoApi}/commits?path=${encodeURIComponent(postsPath + '/' + d.name)}&per_page=1`);
-                            const latest = Array.isArray(commits) && commits[0] && commits[0].commit ? (commits[0].commit.author?.date || commits[0].commit.committer?.date) : null;
-                            return {...d, _latestCommitDate: latest ? new Date(latest).toISOString() : null};
-                        } catch (e) {
-                            return {...d, _latestCommitDate: null};
-                        }
-                    }));
-                    // sort by latest commit date descending (newest first); fallback to name
-                    dated.sort((a,b) => {
-                        if (a._latestCommitDate && b._latestCommitDate) return b._latestCommitDate.localeCompare(a._latestCommitDate);
-                        if (a._latestCommitDate) return -1;
-                        if (b._latestCommitDate) return 1;
-                        return a.name.localeCompare(b.name);
-                    });
-                    dirs = dated;
-                } catch (e) {
-                    // if commit lookups fail, continue with unsorted dirs
-                }
-                if (dirs.length === 0) {
+                const names = await discoverPostDirs();
+                if (names.length === 0) {
                     setStatus('No post directories found under `posts`.', true);
                     fileContent.innerHTML = '<div class="small">No post directories found under `posts`.</div>';
                     return;
                 }
+                const dirs = names.map(name => ({name}));
 
                 // Build a combined view: each post section contains rendered README
                 const container = document.createElement('div');
@@ -466,18 +446,7 @@
                     loadingMap.set(dir.name, true);
                     try {
                         setStatus(`Loading post: ${dir.name}...`);
-                        const dirUrl = `${baseUrl}/${encodeURIComponent(postsPath)}/${encodeURIComponent(dir.name)}`;
-                        const dirContents = await apiFetch(dirUrl);
-                        const readmeFile = dirContents.find(f => /^readme(\.(md|markdown))?$/i.test(f.name));
-                        if (!readmeFile) {
-                            const note = document.createElement('div');
-                            note.className = 'small';
-                            note.textContent = 'No README found for this post.';
-                            bodyEl.appendChild(note);
-                            return;
-                        }
-                        const fileData = await apiFetch(readmeFile.url);
-                        const decoded = decodeBase64ToUtf8(fileData.content || '');
+                        const decoded = await fetchPostReadme(dir.name);
                         const html = marked.parse(decoded || '');
                         bodyEl.innerHTML = html;
                         rewriteRelativeImageSrcs(bodyEl, `${postsPath}/${dir.name}`);
@@ -529,24 +498,7 @@
                         renderSinglePost(dir.name);
                     });
 
-                    const badge = document.createElement('div');
-                    badge.className = 'small';
-                    badge.style.opacity = '0.9';
-                    badge.style.background = 'rgba(255,255,255,0.02)';
-                    badge.style.padding = '4px 8px';
-                    badge.style.borderRadius = '999px';
-                    badge.style.fontSize = '12px';
-                    badge.style.color = 'var(--muted)';
-                    if (dir._latestCommitDate) {
-                        const d = new Date(dir._latestCommitDate);
-                        badge.textContent = d.toLocaleDateString(undefined, {year: 'numeric', month: 'short', day: 'numeric'});
-                        badge.title = d.toISOString();
-                    } else {
-                        badge.textContent = '';
-                    }
-
                     header.appendChild(titleDiv);
-                    header.appendChild(badge);
                     section.appendChild(header);
 
                     // body placeholder
@@ -581,6 +533,7 @@
                 fileContent.innerHTML = `<div class="small" style="color:#ffb4b4">Failed to load posts: ${err.message}</div>`;
             }
         }
+
 
         // Check URL for post parameter to load individual post
         const postParam = params.get('post');
