@@ -691,7 +691,8 @@
         }
 
         // Check URL path for a post name (e.g. /Some+Post) to load an individual post
-        const pathName = decodeURIComponent(location.pathname.replace(/^\/+/, ''));
+        // (strip trailing slash too: GitHub Pages 301s /posts -> /posts/ since a real posts/ dir exists)
+        const pathName = decodeURIComponent(location.pathname.replace(/^\/+|\/+$/g, ''));
         const postParam = /^index\.html?$/i.test(pathName) ? '' : pathName;
         if (postParam === 'posts') {
             renderPostList();
