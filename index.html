@@ -55,11 +55,11 @@
         <main class="main">
             <div class="topbar">
                 <div style="display:flex;gap:8px;align-items:center">
+                    <button id="homeBtn" title="Back to the post feed" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Home</button>
+                    <button id="postsListBtn" title="List all posts by commit date" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Posts</button>
                     <button id="signinBtn">Sign in with GitHub</button>
                     <button id="signoutBtn" style="display:none;background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,.04)">Sign out</button>
                     <button id="helpBtn" title="How to create a GitHub token" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">How to get a token</button>
-                    <button id="homeBtn" title="Back to the post feed" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Home</button>
-                    <button id="postsListBtn" title="List all posts by commit date" style="background:transparent;border:1px solid rgba(255,255,255,.04);color:var(--muted);padding:6px 8px;border-radius:6px">Posts</button>
                 </div>
                 <div id="userInfo" class="user-badge small"></div>
             </div>
@@ -159,11 +159,10 @@
             return postDirsCache;
         }
 
-        // Discover each post's latest commit date using a bounded number of API calls:
-        // one call for the commit list, then commit-detail calls only until every dir has a date
-        // (or a hard cap is hit). Results are cached in localStorage to avoid repeat lookups.
-        const COMMIT_DETAIL_CAP = 40;
-        const DATE_CACHE_KEY = `gh_post_dates_v2_${owner}_${repo}`;
+        // Discover each post's latest commit date with one commits API call per post directory
+        // (this repo's history is one small commit per post, so a bulk commit scan can't find them
+        // all within a reasonable call budget). Results are cached in localStorage to avoid repeats.
+        const DATE_CACHE_KEY = `gh_post_dates_v3_${owner}_${repo}`;
         const DATE_CACHE_TTL_MS = 60 * 60 * 1000;
 
         async function fetchPostCommitDates(names) {
@@ -178,29 +177,15 @@
             }
 
             const dates = {};
-            const remaining = new Set(names);
-            try {
-                // filter to commits that touched `posts/` so unrelated commits (e.g. index.html tweaks) don't consume the cap
-                const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?sha=${encodeURIComponent(defaultBranch)}&path=posts&per_page=100`);
-                for (let i = 0; i < commits.length && remaining.size > 0 && i < COMMIT_DETAIL_CAP; i++) {
-                    const sha = commits[i].sha;
-                    try {
-                        const detail = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits/${sha}`);
-                        const date = detail.commit?.author?.date || detail.commit?.committer?.date || null;
-                        (detail.files || []).forEach(f => {
-                            const m = /^posts\/([^/]+)\//.exec(f.filename || '');
-                            if (m && remaining.has(m[1]) && date) {
-                                dates[m[1]] = date;
-                                remaining.delete(m[1]);
-                            }
-                        });
-                    } catch (e) {
-                        // skip commit on error, keep going
-                    }
+            await Promise.all(names.map(async (name) => {
+                try {
+                    const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?path=${encodeURIComponent('posts/' + name)}&per_page=1`);
+                    const date = Array.isArray(commits) && commits[0] ? (commits[0].commit?.author?.date || commits[0].commit?.committer?.date) : null;
+                    if (date) dates[name] = date;
+                } catch (e) {
+                    // leave this post undated on error
                 }
-            } catch (e) {
-                // if commit list lookup fails entirely, fall back to no dates
-            }
+            }));
             try {
                 localStorage.setItem(DATE_CACHE_KEY, JSON.stringify({branch: defaultBranch, ts: Date.now(), dates}));
             } catch (e) { /* storage may be unavailable/full */ }
