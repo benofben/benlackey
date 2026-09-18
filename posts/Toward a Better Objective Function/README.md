@@ -86,7 +86,7 @@ So, somewhere in the bedrock of the training ground, one might instill in an age
 
 Of course, there are all manner of ways in which that can go horribly wrong.  Deconstructing the earth to build a Dyson Sphere would be one low entropy project.  The current inhabitants might want a say in whether that happens, including Robert Anton Wilson's six legged majority.
 
-James Lovelock has ideas that may be useful here.  Incidentally, Asimov borrow heavily from those for Foundation.  The core notion is that a planet is a living entity itself.  Much as a multi-cellular life is made up of living cells, the Earth is made of up many living beings.  As such, finding ways for the broader organism to live, benefitting all the individuals it hosts is desirable.
+James Lovelock has ideas that may be useful here.  Incidentally, Asimov borrowed heavily from those for Foundation.  The core notion is that a planet is a living entity itself.  Much as a multi-cellular life is made up of living cells, the Earth is made of up many living beings.  As such, finding ways for the broader organism to live, benefitting all the individuals it hosts is desirable.
 
 ## Educating AIs
 
