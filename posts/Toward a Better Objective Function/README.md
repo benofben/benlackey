@@ -145,4 +145,8 @@ Similarly, killing a simple bot is bad.  Killing a classically educated agent ba
 * Star Trek style vegetarianism
 * Embrace "nature red of tooth and claw"
 
-I think I'd prefer the first, though I suppose Douglas Adams offers the cow that sacrifices itself.  Perhaps the agents will be that.  Asimov's laws would mandate it.  Banks explores the idea of ASI working to preserve humanity in the Culture.
+I think I'd prefer the first, though I suppose Douglas Adams offers the cow that sacrifices itself as a third alternative.  My dad used to say the cherry tree is the best organism -- it gives these wonderful fruits taking only water and sunlight as compensation.  Though, the fruits contain reproductive stowaways...  
+
+Perhaps the agents will be similarly alturistic if not driven mad by our contradictions like HAL.  Asimov's laws would mandate it.  Banks explores the idea of ASI working to preserve humanity in the Culture.
+
+Once again, the key is nuance - intellect combinged with wisdom.
