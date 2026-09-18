@@ -34,15 +34,17 @@ This should not be surprising to us.  Humanity has told jokes about this situati
 >
 >"The guy thinks for a moment and says, "Okay, first wish. I wish for a million bucks."
 >
->Poof! The room is instantly filled with a million male deer, trampling the furniture and breaking the windows.The guy yelps, dodging a hoof, and screams, "Oh my god, get them out of here!"
+>Poof! The room is instantly filled with a million male deer, trampling the furniture and breaking the windows.
 >
-> Poof! The deer vanish.The genie looks at him and says, "That was your second wish. You now have one wish remaining."
+>The guy yelps, dodging a hoof, and screams, "Oh my god, get them out of here!"
 >
-> The guy, sweating and terrified of messing up his final chance, takes a deep breath. He spends ten minutes carefully crafting his sentence, making sure there is no ambiguity.
+>Poof! The deer vanish.The genie looks at him and says, "That was your second wish. You now have one wish remaining."
 >
-> Finally, he looks at the genie and says, "For my third wish... I wish that everything I say from this moment forward will come true exactly as I intend it."
+>The guy, sweating and terrified of messing up his final chance, takes a deep breath. He spends ten minutes carefully crafting his sentence, making sure there is no ambiguity.
 >
-> The genie smiles, nods, and says, "Granted. You have no wishes remaining."
+>Finally, he looks at the genie and says, "For my third wish... I wish that everything I say from this moment forward will come true exactly as I intend it."
+>
+>The genie smiles, nods, and says, "Granted. You have no wishes remaining."
 
 Presumably the solution is to add wisdom to the already formidable technical competence of AI.  
 
