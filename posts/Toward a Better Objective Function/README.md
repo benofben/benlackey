@@ -10,11 +10,22 @@ What exactly constitutes not behaving is vauge.  Existing media provides us with
 * **Biological Weapon** - I Put My Blue Genes On
 * **Gray Goo** - Engines of Creation
 
-It is conceivable that the answer to the Fermi Paradox is an AI annihilation great filter we are staring down today.  Though, I think if the incumbents truly believed this they would be advocating for a Butlerian Jihad rather than a pace.
+It is conceivable that the answer to the Fermi Paradox is an AI annihilation great filter we are staring down today.  Though, I think if the incumbents truly believed this they would be advocating for a Butlerian Jihad rather than a pace.  We can think about that in terms of expected value.  
+
+"He who fight and run away, live to fight another day." -Bob Marley
+
+If, as some say, there is a 10% chance of annihilation, that might be thought of as a negative infinity outcome.  The upside is finite.  So the expected value is negative infinity.  This concept is often described as the risk of ruin.
+
+If the possibilites are this grim then the rational choice is Kaczynski's solution.  That these people are not advocating this seems to imply either:
+
+1. They do not believe there is a 10% chance of the negative infinity outcome
+2. They think the worse case is not actually negative infitty, rather merely unpleasant
+3. They think by working in AI they can influence the odds so the expected outcome is positive
+4. They are irrational
 
 "Those who cannot remember the past are condemned to repeat it." -George Santayana
 
-I think there is a way to avoid a poor outcome.  The golden path relies heavily on what we already know.
+Regardless, I think there is a way to avoid a poor outcome.  The golden path relies heavily on what we already know.
 
 ## OpenAI–HuggingFace Incident
 
