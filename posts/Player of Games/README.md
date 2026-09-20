@@ -8,8 +8,8 @@ A lot of the current zeitgeist focuses on singularity, though we've stopped usin
 
 I've been tinkering with cards from the initial releases.  Quite accidentally this is turning into a good way to think about exponential takeoff leveraging into post scarcity.  These two decks are perhaps illustrative:
 
-* https://archidekt.com/decks/26595883/overpowered_atog
-* https://archidekt.com/decks/26585501/overpowered_blue_verduran
+* [Overpowered Atog](https://archidekt.com/decks/26595883/overpowered_atog)
+* [Overpowered Blue Verduran](https://archidekt.com/decks/26585501/overpowered_blue_verduran)
 
 The Atog decks abuses well know draw mechanics.  The Verduran deck is an updated version of the last deck I made circa 1998.  It abuses a more obscure draw mechanic.
 
