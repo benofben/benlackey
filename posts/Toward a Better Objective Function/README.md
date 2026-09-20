@@ -165,3 +165,11 @@ I think I'd prefer the first, though I suppose Douglas Adams offers the cow that
 Perhaps the agents will be similarly alturistic if not driven mad by our contradictions like HAL.  Asimov's laws would mandate it.  Banks explores the idea of ASI working to preserve humanity in the Culture.
 
 Once again, the key is nuance - intellect combined with wisdom.
+
+## A Surfeit of Optimism
+
+Circa 1900 the future might have looked bright for the US's enormous horse population.  Cars were replacing their backbreaking labor.  Sure they would live a life of relaxation in the post horsepower scarcity world.  Fast fordward 120 years and while a bored out Ford 460 in a Cobra replica does 580 horsepower, it's not subsidized the existence of any horses.  The few that still exist live archaic lives doing dressage or roaming the Mad Max landscape of Big Bend.
+
+It might also be instructive to think about lawns.  Michael Pollan has argued that wheat domesticated us.  The more convential view is the other way around.  Some level of symbiosis is innarguable.  Describing the world of my lawn to a sentient grass balde, it might sound wonderful -- endless food and water.  Abundance.  Of course there are also the purges of anyone who gets out of line, the mowing of those who stay in line and the, to a sentient grass blade, seemingly random removal of entire populations via sod cutter to accomodate a vegetable garden or sprinkler system.  It is likely not the utopia a grass blade would design.
+
+If sentience really is a continuum, hopefully we're closer to what comes next than the grass blades are to us.  That may avoid Cthulu like scenarios.
