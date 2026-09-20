@@ -18,3 +18,13 @@ In each case the decks don't play a normal balanced game of magic.  They are ess
 Kurzweil has been saying we're in the takeoff trajectory for decades.  The funny part about exponents is they always look pretty flat when you're standing on them.  However, casting our mind's eye back to early transformers, deep learning or perhaps text and speech recognition work in the late 90s adds some perspective.
 
 Things are changing fast.  It's pretty easy to imagine everything going post scarcity.  Storage has been for a while.  Compute would be but we keep cooking up use case for even more.  When this leaks properly into the real world everything changes.
+
+Looping back to Magic, this singularity thought process had me thinking a bit more about why these decks work and how to improve them.  The takeoff takes multiple steps.
+
+1. You draw a hand of 7 and 1 card on turn 1.  Your goal in that turn and subsequent early ones is to draw your entire deck.  Draw is your initial scarce resource.  Cards like Ancestral Recall, Time Twister and Wheel of Fortune are key.  Time Walk helps smooth bumps and keep the machine going.
+2. As you draw more and more you need to feed the machine.  That requires mana.  Mox, Lotus, lands and Dark ritual are some sources.  Others like a Birds of Paradise with an Instill energy require more steps.
+3. You now have a machine that produces infinite draw and infinite mana.  One of the ways you can kill an opponent is to make them draw more cards than they have.  Brain Geyser provides the win condition.  That doubles with other utility early in the game.
+
+You end up with something like this:
+
+* [Perpetual Motion Solitaire](https://archidekt.com/decks/26602252/perpetual_motion_solitaire)
