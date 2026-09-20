@@ -31,3 +31,7 @@ https://archidekt.com/decks/26585501/overpowered_blue_verduran
 I am curious if you have ideas to make it more gross.  And, if you liked this, you may also enjoy my thought that we should play Commander 95:
 
 https://www.reddit.com/r/oldschoolmtg/comments/1wi55i6/new_format_idea_commander_95/
+
+![1](1.png)
+![2](2.png)
+![3](3.png)
