@@ -1,4 +1,4 @@
-# Leaving Magic in 1997
+# Leaving Magic in 1998
 
 The last magic deck I built was this.  
 
