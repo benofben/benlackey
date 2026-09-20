@@ -1,6 +1,6 @@
 # Player of Games
 
-I really enjoyed Player of Games by Ian Banks.  I read it perhaps 15 years ago while barreling through the entire culture series.  I am likely due for a re read.
+I really enjoyed Player of Games by Ian Banks.  I read it perhaps 15 years ago while barreling through the entire culture series.  I am likely due for a re read, though somewhat dreading some horror aspects of the book I all to vividly recall...
 
 A lot of the current zeitgeist focuses on singularity, though we've stopped using that term for some reason.  We speak mostly of annihiliation instead.  Regardless, the underlying concepts have to do with exponential takeoff and infinite loops.
 
@@ -28,3 +28,13 @@ Looping back to Magic, this singularity thought process had me thinking a bit mo
 You end up with something like this:
 
 * [Perpetual Motion Solitaire](https://archidekt.com/decks/26602252/perpetual_motion_solitaire)
+
+Some notes on the ingredients of the deck follow:
+
+1. **Filler - Urza's Bauble** - Ephemeral filler.  Magic has a 60 card limit, so these fill the space without getting in the way.  That let's us get to singularity faster.
+2. **Fundamentals - Braingeyser, Time Walk and Timetwister** - The work horses across steps.  It's used early and late.  It helps us draw and kill our opponents.
+3. **Boostrap** - Mox, Lotus, Dark Ritual, Ancestral Recall, Wheel of Fortune - These cards get the machine rolling.  They''re not the ideal post singularity carsd.  But they are neccessary to get us there.
+4. **Accelerando** - Lands, Fastbond, Timetwister - This is where things start to get recursive.
+5. **Singulatiry - Zuran Orb, Howling Mine, Mana Flare, Candelabra of Twanos** - Now we're in full on post scarcity.  The machine can go forever either sacking, recycling, redrawing and replaying lands in a single turn or across multiple turns depending on whether it draws Time Walk or Time Twister.
+
+One aspect in this is that your opponent is irrelevant.  If you achieve singularity before them you win.  There is a rather obvious metaphor to the current arms race in AI.
