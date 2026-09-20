@@ -6,9 +6,9 @@ https://archidekt.com/decks/26584587/blue_verduran
 
 That was something like 1998.  I'd moved back to Boulder from St Louis.  In St Louis I'd lived in a dormitory with a large group of kids playing magic.  So my decks were designed to survive, and sometimes win, games with 6+ people that went on for hours.
 
-The last cards I (my parents) bought were a handful of Homelands.  Most of my cards were earlier.  I had a lot of Unlimited, Arabian Knight, Antiquities and Fallen Empires.  Fallen Empires was, incidentally, the only full set I ever got.  I'd traded for the Dark and had a handful of Ice Age.
+The last cards I (my parents) bought were a handful of Homelands.  Most of my cards were earlier.  I had a lot of Unlimited, Arabian Knights, Antiquities and Fallen Empires.  Fallen Empires was, incidentally, the only full set I ever got.  I'd traded for the Dark and had a handful of Ice Age.
 
-The only power 9 I had was a Mox Saphire my friend Brian York had gifted me as he quit magic, knowing I would love it.  This inspired me to later hand my cards on to Scott.  Notable other pieces we 2x every dual land for a 5 color deck plus Wheel of Fortune, Demonic Tutor, Chaos Orb, etc.
+The only power 9 I had was a Mox Saphire my friend Brian York had gifted me as he quit magic, knowing I would love it.  This inspired me to later hand my cards on to Scott.  Notable other pieces were 2x every dual land for a 5 color deck plus Wheel of Fortune, Demonic Tutor, Chaos Orb, etc.
 
 Back in Boulder I had a friend who had accumulated multiple sets of moxen and lotus.  That had allowed him to acrue the wisom that certain cards broke the game.  He used them to make an overpowered plague rats deck.  He had a thing for black.  While my end in magic, he was also my start.  My mom bought him and me each a single starter pack of Unlimited from the local plastic airplane model shop in "The Village."  We spent that first evening trading.
 
