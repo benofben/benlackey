@@ -1,6 +1,6 @@
 # Leaving Magic in 1998
 
-The last magic deck I built was this.  
+The last magic deck I built was roughly this.  
 
 https://archidekt.com/decks/26584587/blue_verduran
 
