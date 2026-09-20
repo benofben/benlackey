@@ -10,7 +10,9 @@ The last cards I (my parents) bought were a handful of Homelands.  Most of my ca
 
 The only power 9 I had was a Mox Saphire my friend Brian York had gifted me as he quit magic, knowing I would love it.  This inspired me to later hand my cards on to Scott.  Notable other pieces we 2x every dual land for a 5 color deck plus Wheel of Fortune, Demonic Tutor, Chaos Orb, etc.
 
-In Boulder I had a friend who had accumulated multiple sets of moxen and lotus.  That had allowed him to acrue the wisom that certain cards broke the game.  He used them to make an overpowered plague rats deck.  He had a thing for black.
+Back in Boulder I had a friend who had accumulated multiple sets of moxen and lotus.  That had allowed him to acrue the wisom that certain cards broke the game.  He used them to make an overpowered plague rats deck.  He had a thing for black.  While my end in magic, he was also my start.  My mom bought him and me each a single starter pack of Unlimited from the local plastic airplane model shop in "The Village."  We spent that first evening trading.
+
+By the time I made the Verduran Enchantress deck, I no longer had the group of 20 dorimitory boys to play with.  I tried the LGS a couple times but quickly realized that was not the friend group I was after.  So, I stopped playing magic.
 
 I remade a couple other favorite decks of mine from memory.  Those are:
 
