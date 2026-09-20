@@ -159,10 +159,9 @@
             return postDirsCache;
         }
 
-        // Discover each post's latest commit date with one commits API call per post directory
-        // (this repo's history is one small commit per post, so a bulk commit scan can't find them
-        // all within a reasonable call budget). Results are cached in localStorage to avoid repeats.
-        const DATE_CACHE_KEY = `gh_post_dates_v3_${owner}_${repo}`;
+        // Discover each post's latest commit date with one commits API call per post directory.
+        // Keep the requests bounded so GitHub does not reject part of a large simultaneous burst.
+        const DATE_CACHE_KEY = `gh_post_dates_v4_${owner}_${repo}`;
         const DATE_CACHE_TTL_MS = 60 * 60 * 1000;
 
         async function fetchPostCommitDates(names) {
@@ -177,15 +176,23 @@
             }
 
             const dates = {};
-            await Promise.all(names.map(async (name) => {
-                try {
-                    const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?path=${encodeURIComponent('posts/' + name)}&per_page=1`);
-                    const date = Array.isArray(commits) && commits[0] ? (commits[0].commit?.author?.date || commits[0].commit?.committer?.date) : null;
-                    if (date) dates[name] = date;
-                } catch (e) {
-                    // leave this post undated on error
+            const pendingNames = [...names];
+            const workerCount = Math.min(4, pendingNames.length);
+
+            async function fetchNextPostDate() {
+                while (pendingNames.length) {
+                    const name = pendingNames.pop();
+                    try {
+                        const commits = await apiFetch(`https://api.github.com/repos/${owner}/${repo}/commits?path=${encodeURIComponent('posts/' + name)}&per_page=1`);
+                        const date = Array.isArray(commits) && commits[0] ? (commits[0].commit?.author?.date || commits[0].commit?.committer?.date) : null;
+                        if (date) dates[name] = date;
+                    } catch (e) {
+                        // Leave posts undated only when their individual lookup fails.
+                    }
                 }
-            }));
+            }
+
+            await Promise.all(Array.from({length: workerCount}, fetchNextPostDate));
             try {
                 localStorage.setItem(DATE_CACHE_KEY, JSON.stringify({branch: defaultBranch, ts: Date.now(), dates}));
             } catch (e) { /* storage may be unavailable/full */ }
