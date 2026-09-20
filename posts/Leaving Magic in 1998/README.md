@@ -4,7 +4,7 @@ The last magic deck I built was roughly this.
 
 https://archidekt.com/decks/26584587/blue_verduran
 
-That was something like 1998.  I'd moved back to Boulder from St Louis.  In St Louis I'd lived in a dormitory with a large group of kids playing magic.  So my decks we designed to survive, and sometimes win, games with 6+ people that went on for hours.
+That was something like 1998.  I'd moved back to Boulder from St Louis.  In St Louis I'd lived in a dormitory with a large group of kids playing magic.  So my decks were designed to survive, and sometimes win, games with 6+ people that went on for hours.
 
 The last cards I (my parents) bought were a handful of Homelands.  Most of my cards were earlier.  I had a lot of Unlimited, Arabian Knight, Antiquities and Fallen Empires.  Fallen Empires was, incidentally, the only full set I ever got.  I'd traded for the Dark and had a handful of Ice Age.
 
