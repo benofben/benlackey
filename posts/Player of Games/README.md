@@ -1,6 +1,6 @@
 # Player of Games
 
-I really enjoyed Player of Games by Ian Banks.  I read it perhaps 15 years ago while barreling through the entire culture series.  I am likely due for a re read, though somewhat dreading some horror aspects of the book I all to vividly recall...
+I really enjoyed Player of Games by Ian Banks.  I read it perhaps 15 years ago while barreling through the entire culture series.  I am likely due for a re read, though somewhat dreading some horror aspects of the book I all too vividly recall...
 
 A lot of the current zeitgeist focuses on singularity, though we've stopped using that term for some reason.  We speak mostly of annihiliation instead.  Regardless, the underlying concepts have to do with exponential takeoff and infinite loops.
 
