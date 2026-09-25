@@ -10,5 +10,5 @@ And just because...
 
 And, from a friend, these responses are likely an artifact of tuning.  That's probably why I get more amusing ones asking off the wall quesstions about magic cards that no one tuned for.
 
-* [https://futurism.com/artificial-intelligence/ai-lying-conscious](If You Turn Down an AI’s Ability to Lie, It Starts Claiming It’s Conscious)
+* [If You Turn Down an AI’s Ability to Lie, It Starts Claiming It’s Conscious](https://futurism.com/artificial-intelligence/ai-lying-conscious)
 * [Inducing language models to assert their own consciousness restores human beliefs and values](https://arxiv.org/abs/2607.28607v1)
