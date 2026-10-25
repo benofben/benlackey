@@ -32,7 +32,7 @@ One thing I learned from making it is how vehement the anti AI people are.  As a
 
 I'm reading a book called "The Wealth and Poverty of Nations."  One subject in it is the collapse of empires.  Portugal and Spain were particularly painful to read about.  Their collapse took hundreds of years.  Arguably it continues today, 500 years after the high point.  The solution was not to outwite the inquisition, rather to get the hell away from it.  Sometimes the grass really is greener.
 
-# A brief history of flight
+## A brief history of flight
 
 As JRUCS has been winding down I used Gemini to make a [kids book on flight](https://github.com/benofben/a-brief-history-of-flight).  I think it is good.  Olive has certainly enjoyed it, though perhaps partly because he enjoys looking at the picture of us I stuck on the back page.
 
