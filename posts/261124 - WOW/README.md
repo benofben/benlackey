@@ -11,3 +11,5 @@ Some points:
 One thought I've had is to break down the barrier between post and comment.  Instead, just have a node and relationship.  That may have been influenced by a half decade of working with Neo4j...
 
 Graphs of posts might even cross social network instances.
+
+In such a system, you could censor your own isntance, but people could still reply on theirs.  A crawler might then weight posts across the network using some mixture of Dalio's believability weighted decision making and Doctorow's Whuffie score.
