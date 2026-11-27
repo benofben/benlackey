@@ -1,4 +1,4 @@
-261124 - WOW
+# 261124 - WOW
 
 I keep thinking about what a better social network would be.  Part of the driver is the wild amount of censorship I've observed on existing platforms.  Nextdoor and Reddit are the most eggregious.
 
